@@ -1,0 +1,218 @@
+[
+  {
+    "filename": "vehicle_01_Toyota_Fortuner.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "TN 01 AB 1234",
+    "brand": "Toyota",
+    "model": "Fortuner"
+  },
+  {
+    "filename": "vehicle_02_Honda_Civic.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "KA 05 CD 5678",
+    "brand": "Honda",
+    "model": "Civic"
+  },
+  {
+    "filename": "vehicle_03_BMW_3_Series.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "MH 12 EF 9012",
+    "brand": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "filename": "vehicle_04_Hyundai_Creta.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "DL 03 GH 3456",
+    "brand": "Hyundai",
+    "model": "Creta"
+  },
+  {
+    "filename": "vehicle_05_Mercedes_C-Class.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "HR 26 JK 7890",
+    "brand": "Mercedes",
+    "model": "C-Class"
+  },
+  {
+    "filename": "vehicle_06_Tata_Harrier.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "TS 09 LM 4321",
+    "brand": "Tata",
+    "model": "Harrier"
+  },
+  {
+    "filename": "vehicle_07_Mahindra_Thar.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "AP 16 PQ 8765",
+    "brand": "Mahindra",
+    "model": "Thar"
+  },
+  {
+    "filename": "vehicle_08_Maruti_Swift.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "KL 07 RS 2109",
+    "brand": "Maruti",
+    "model": "Swift"
+  },
+  {
+    "filename": "vehicle_09_Volkswagen_Virtus.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "GJ 01 TU 6543",
+    "brand": "Volkswagen",
+    "model": "Virtus"
+  },
+  {
+    "filename": "vehicle_10_Audi_A4.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "UP 32 VW 9876",
+    "brand": "Audi",
+    "model": "A4"
+  },
+  {
+    "filename": "vehicle_11_Ford_Mustang.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "WB 02 XY 5432",
+    "brand": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "filename": "vehicle_12_Toyota_Camry.jpg",
+    "vehicle_bbox": [
+      100,
+      160,
+      440,
+      220
+    ],
+    "plate_bbox": [
+      220,
+      330,
+      200,
+      45
+    ],
+    "registration_number": "TN 09 ZA 1122",
+    "brand": "Toyota",
+    "model": "Camry"
+  }
+]
