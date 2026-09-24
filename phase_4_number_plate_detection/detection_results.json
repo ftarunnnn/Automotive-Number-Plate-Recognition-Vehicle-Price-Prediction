@@ -1,0 +1,206 @@
+[
+  {
+    "filename": "vehicle_01_Toyota_Fortuner.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_01_Toyota_Fortuner.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_01_Toyota_Fortuner.jpg"
+  },
+  {
+    "filename": "vehicle_02_Honda_Civic.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_02_Honda_Civic.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_02_Honda_Civic.jpg"
+  },
+  {
+    "filename": "vehicle_03_BMW_3_Series.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_03_BMW_3_Series.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_03_BMW_3_Series.jpg"
+  },
+  {
+    "filename": "vehicle_04_Hyundai_Creta.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_04_Hyundai_Creta.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_04_Hyundai_Creta.jpg"
+  },
+  {
+    "filename": "vehicle_05_Mercedes_C-Class.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_05_Mercedes_C-Class.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_05_Mercedes_C-Class.jpg"
+  },
+  {
+    "filename": "vehicle_06_Tata_Harrier.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_06_Tata_Harrier.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_06_Tata_Harrier.jpg"
+  },
+  {
+    "filename": "vehicle_07_Mahindra_Thar.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_07_Mahindra_Thar.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_07_Mahindra_Thar.jpg"
+  },
+  {
+    "filename": "vehicle_08_Maruti_Swift.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_08_Maruti_Swift.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_08_Maruti_Swift.jpg"
+  },
+  {
+    "filename": "vehicle_09_Volkswagen_Virtus.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_09_Volkswagen_Virtus.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_09_Volkswagen_Virtus.jpg"
+  },
+  {
+    "filename": "vehicle_10_Audi_A4.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_10_Audi_A4.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_10_Audi_A4.jpg"
+  },
+  {
+    "filename": "vehicle_11_Ford_Mustang.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_11_Ford_Mustang.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_11_Ford_Mustang.jpg"
+  },
+  {
+    "filename": "vehicle_12_Toyota_Camry.jpg",
+    "vehicle_box": [
+      64,
+      128,
+      512,
+      448
+    ],
+    "plate_box": [
+      230,
+      419,
+      179,
+      80
+    ],
+    "annotated_path": "phase_4_number_plate_detection\\detected_output\\vehicle_12_Toyota_Camry.jpg",
+    "cropped_plate_path": "phase_4_number_plate_detection\\cropped_plates\\crop_vehicle_12_Toyota_Camry.jpg"
+  }
+]
