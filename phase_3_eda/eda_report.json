@@ -1,0 +1,46 @@
+{
+  "total_vehicles": 2500,
+  "price_statistics": {
+    "mean_price": 8847.12,
+    "median_price": 5400.0,
+    "std_price": 8203.84,
+    "min_price": 2500.0,
+    "max_price": 45200.0,
+    "skewness": 1.7143,
+    "kurtosis": 2.6163
+  },
+  "outlier_metrics": {
+    "Q1": 2600.0,
+    "Q3": 12000.0,
+    "IQR": 9400.0,
+    "lower_bound": -11500.0,
+    "upper_bound": 26100.0,
+    "outlier_count": 146,
+    "outlier_percentage": 5.84
+  },
+  "average_price_by_brand": {
+    "Audi": 12932.59,
+    "BMW": 12876.38,
+    "Ford": 8197.24,
+    "Honda": 6046.15,
+    "Hyundai": 6064.73,
+    "Mahindra": 6956.42,
+    "Maruti": 4383.43,
+    "Mercedes": 13892.31,
+    "Tata": 5942.36,
+    "Tesla": 13987.11,
+    "Toyota": 7372.09,
+    "Volkswagen": 6814.89
+  },
+  "average_price_by_fuel": {
+    "CNG": 7894.47,
+    "Diesel": 8426.08,
+    "Electric": 10295.68,
+    "Hybrid": 8908.88,
+    "Petrol": 8073.52
+  },
+  "average_price_by_transmission": {
+    "Automatic": 8728.61,
+    "Manual": 8965.26
+  }
+}
