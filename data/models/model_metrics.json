@@ -1,0 +1,20 @@
+{
+  "RandomForest": {
+    "MAE": 845.5,
+    "RMSE": 1358.8,
+    "R2_Score": 0.9737,
+    "model_path": "data/models\\price_predictor_rf.pkl"
+  },
+  "XGBoost": {
+    "MAE": 813.26,
+    "RMSE": 1340.97,
+    "R2_Score": 0.9744,
+    "model_path": "data/models\\price_predictor_xgb.pkl"
+  },
+  "LightGBM": {
+    "MAE": 805.08,
+    "RMSE": 1299.12,
+    "R2_Score": 0.976,
+    "model_path": "data/models\\price_predictor_lgb.pkl"
+  }
+}
