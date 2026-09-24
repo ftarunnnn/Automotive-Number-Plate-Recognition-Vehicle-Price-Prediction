@@ -1,0 +1,74 @@
+[
+  {
+    "cropped_file": "crop_vehicle_01_Toyota_Fortuner.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_02_Honda_Civic.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_03_BMW_3_Series.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_04_Hyundai_Creta.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_05_Mercedes_C-Class.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_06_Tata_Harrier.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_07_Mahindra_Thar.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_08_Maruti_Swift.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_09_Volkswagen_Virtus.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_10_Audi_A4.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_11_Ford_Mustang.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  },
+  {
+    "cropped_file": "crop_vehicle_12_Toyota_Camry.jpg",
+    "extracted_registration_number": "",
+    "raw_ocr_text": "",
+    "confidence": 0.0
+  }
+]
