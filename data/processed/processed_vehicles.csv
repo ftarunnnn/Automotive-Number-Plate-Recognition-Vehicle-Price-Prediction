@@ -1,0 +1,2501 @@
+registration_number,brand,model,year,mileage,fuel_type,transmission,engine_cc,owner_type,price
+TN 12 GH 9279,Volkswagen,Polo,2010,248627.0,Diesel,Manual,1799.0,First,2500.0
+TN 98 ZF 7924,Audi,A4,2016,155407.0,Electric,Manual,0.0,Fourth & Above,6100.0
+TS 78 IZ 1711,Hyundai,Tucson,2014,125891.0,Petrol,Manual,999.0,Fourth & Above,2500.0
+KA 06 VH 5741,Tesla,Model Y,2013,233019.0,Electric,Automatic,0.0,Third,3500.0
+HR 90 VU 2169,Honda,Accord,2013,156230.0,Hybrid,Manual,1497.0,Third,2500.0
+TN 41 MI 2084,Audi,A6,2017,89224.0,CNG,Manual,1998.0,Third,9000.0
+GJ 69 IX 8019,BMW,7 Series,2020,63754.0,Electric,Manual,0.0,Third,15000.0
+MH 81 FZ 7916,Audi,Q7,2021,55956.0,CNG,Automatic,1998.0,First,20900.0
+GJ 97 IY 6573,Audi,A4,2022,52249.0,CNG,Automatic,1998.0,First,23000.0
+WB 65 TG 3504,Honda,CR-V,2023,29757.0,Hybrid,Manual,1999.0,First,10700.0
+UP 11 CX 8962,Hyundai,Sonata,2010,226785.0,Petrol,Automatic,1197.0,Third,2500.0
+AP 28 RY 4295,Honda,Amaze,2014,114308.0,CNG,Manual,1799.0,Third,2700.0
+KA 44 AS 4770,Tesla,Model Y,2022,75405.0,Electric,Automatic,0.0,First,18700.0
+DL 36 VP 4510,Audi,A6,2010,142883.0,Diesel,Manual,2993.0,First,2600.0
+AP 46 NN 8651,Maruti,Baleno,2025,13321.0,Electric,Manual,0.0,First,10300.0
+KL 18 NF 5563,Tesla,Model 3,2013,115792.0,Electric,Manual,0.0,Second,4800.0
+DL 22 NP 8886,Mahindra,XUV700,2012,178483.0,CNG,Manual,2198.0,First,2500.0
+GJ 85 WP 3536,BMW,X5,2011,145704.0,Electric,Automatic,0.0,Fourth & Above,3300.0
+KL 65 QF 1931,BMW,X3,2016,180187.0,CNG,Manual,1998.0,Third,4400.0
+UP 06 TC 7868,Maruti,Swift,2015,96809.0,Diesel,Automatic,1799.0,First,2500.0
+HR 59 KY 2188,Volkswagen,Tiguan,2018,84205.0,Diesel,Automatic,1197.0,Fourth & Above,5700.0
+TS 37 FO 9900,Toyota,Highlander,2013,115376.0,Hybrid,Manual,2198.0,Third,3400.0
+KA 96 RE 5462,Tesla,Model Y,2010,238076.0,Electric,Manual,0.0,Third,2500.0
+AP 36 BA 6464,Mercedes,S-Class,2016,153575.0,Hybrid,Automatic,1998.0,Third,5700.0
+MH 70 BL 3426,Ford,F-150,2015,172742.0,Electric,Manual,0.0,First,2500.0
+KA 46 YR 7658,Tata,Harrier,2011,170834.0,Petrol,Automatic,1999.0,Second,2500.0
+TS 53 ZV 5065,Audi,A6,2017,154719.0,Diesel,Automatic,2497.0,First,7200.0
+KL 45 JZ 4728,Mercedes,E-Class,2013,154885.0,Electric,Manual,0.0,Second,4800.0
+GJ 43 AD 5279,BMW,3 Series,2016,121961.0,Petrol,Automatic,3982.0,Third,8000.0
+UP 25 IB 8144,Ford,Endeavour,2018,70446.0,Hybrid,Automatic,2198.0,Fourth & Above,7400.0
+WB 53 KM 5844,Toyota,Fortuner,2016,117702.0,Hybrid,Automatic,3198.0,First,4400.0
+HR 37 GN 6279,Maruti,Baleno,2016,126806.0,Diesel,Automatic,1799.0,Fourth & Above,2500.0
+UP 43 CY 4848,Mahindra,Bolero,2024,32557.0,Diesel,Manual,1799.0,Third,15900.0
+KA 59 NU 4185,Volkswagen,Tiguan,2017,146180.0,Petrol,Manual,1799.0,Fourth & Above,3800.0
+GJ 60 BR 5082,Tesla,Model S,2022,53751.0,Electric,Manual,0.0,Fourth & Above,20300.0
+GJ 55 RO 3607,Honda,City,2014,195840.0,CNG,Automatic,1799.0,Fourth & Above,2500.0
+KA 92 JH 5451,Tesla,Model Y,2024,23172.0,Electric,Automatic,0.0,Second,30000.0
+GJ 60 NB 4388,Hyundai,Tucson,2012,133297.0,Diesel,Manual,1598.0,First,2500.0
+HR 97 MN 9818,Tata,Altroz,2010,269139.0,Electric,Automatic,0.0,First,2500.0
+WB 52 XF 8657,Tesla,Model S,2017,118032.0,Electric,Manual,0.0,Fourth & Above,8200.0
+MH 07 IM 6363,Ford,Endeavour,2010,276476.0,Petrol,Manual,2755.0,Fourth & Above,2500.0
+GJ 07 LH 2124,BMW,X5,2020,72768.0,Hybrid,Automatic,1998.0,Third,16000.0
+KA 73 GO 5198,Volkswagen,Polo,2010,281735.0,Petrol,Manual,1197.0,Second,2500.0
+AP 51 WG 2245,Hyundai,Sonata,2013,206768.0,Hybrid,Manual,1497.0,First,2500.0
+WB 48 CQ 6590,Audi,A6,2013,196841.0,CNG,Manual,2993.0,First,3400.0
+GJ 84 IT 9817,Toyota,Highlander,2025,13898.0,Electric,Manual,0.0,Fourth & Above,19700.0
+DL 97 OS 7209,Mahindra,Bolero,2023,52141.0,Hybrid,Manual,1497.0,First,13800.0
+UP 90 IR 1166,Hyundai,Elantra,2025,18236.0,Diesel,Automatic,1497.0,Third,14700.0
+KL 03 CJ 4630,Maruti,Baleno,2012,148415.0,CNG,Manual,1999.0,Fourth & Above,2500.0
+TS 90 OI 6023,Tata,Harrier,2019,104953.0,CNG,Automatic,1999.0,Fourth & Above,5400.0
+HR 93 SY 9595,Mercedes,E-Class,2013,200029.0,CNG,Manual,2497.0,Second,3900.0
+MH 36 BB 5786,Audi,Q5,2013,214426.0,Hybrid,Manual,1998.0,Third,3500.0
+MH 07 IP 2869,Tesla,Model 3,2025,10074.0,Electric,Automatic,0.0,Fourth & Above,37600.0
+KA 32 DR 7818,Honda,City,2025,12258.0,Petrol,Manual,1799.0,Second,17700.0
+KA 98 GU 4457,Audi,A6,2022,52791.0,CNG,Automatic,1998.0,Third,22500.0
+KL 38 BH 5720,Mercedes,C-Class,2015,117593.0,Diesel,Manual,3982.0,Fourth & Above,7600.0
+DL 83 EI 3330,Tesla,Model Y,2024,29574.0,Electric,Manual,0.0,Fourth & Above,28800.0
+HR 90 MI 9199,Honda,Civic,2015,178569.0,CNG,Automatic,999.0,Fourth & Above,2500.0
+DL 87 SS 1339,Maruti,Dzire,2024,18768.0,Electric,Automatic,0.0,Third,8700.0
+AP 82 PC 8700,Volkswagen,Tiguan,2011,236167.0,CNG,Automatic,1197.0,Third,2500.0
+WB 52 YR 1601,Hyundai,Creta,2020,68681.0,Diesel,Automatic,1999.0,Fourth & Above,6800.0
+DL 67 LT 9167,Mahindra,Thar,2020,64607.0,Electric,Manual,0.0,Fourth & Above,7800.0
+WB 78 ZH 3594,Volkswagen,Virtus,2011,153730.0,Hybrid,Automatic,999.0,Fourth & Above,2500.0
+HR 66 WI 7807,Mercedes,S-Class,2010,217733.0,Petrol,Automatic,2497.0,First,2500.0
+AP 44 ZQ 5377,Mahindra,Bolero,2017,114689.0,Diesel,Manual,1497.0,First,4700.0
+TS 43 RY 9903,Toyota,RAV4,2019,117943.0,Electric,Manual,0.0,Fourth & Above,6500.0
+KL 91 ZM 7325,Tata,Altroz,2020,105099.0,Diesel,Automatic,1598.0,Second,5200.0
+KL 02 XE 7717,Volkswagen,Jetta,2025,19153.0,CNG,Automatic,1598.0,First,15200.0
+GJ 49 KU 8994,Volkswagen,Jetta,2012,182605.0,Hybrid,Automatic,1497.0,First,2500.0
+WB 91 DO 3725,Maruti,Swift,2012,148605.0,Hybrid,Manual,1598.0,First,2500.0
+DL 68 NS 3950,Tesla,Model Y,2010,139543.0,Electric,Automatic,0.0,Third,3000.0
+HR 59 IV 1153,Ford,Explorer,2012,199859.0,Diesel,Automatic,1197.0,Second,2500.0
+HR 26 MP 2747,Mahindra,Scorpio,2015,100905.0,CNG,Automatic,1999.0,Fourth & Above,3300.0
+WB 96 BT 9138,BMW,X5,2021,73711.0,Hybrid,Manual,2993.0,Fourth & Above,15600.0
+KL 05 SL 3153,Mercedes,E-Class,2021,52710.0,Hybrid,Manual,1998.0,First,19700.0
+KL 38 XK 2886,Honda,CR-V,2020,94551.0,Diesel,Automatic,1197.0,Third,5500.0
+TN 34 RD 8451,Mahindra,Thar,2014,188400.0,Electric,Automatic,0.0,First,2500.0
+GJ 42 TH 2035,Hyundai,Verna,2018,115054.0,Hybrid,Manual,1598.0,Second,3600.0
+DL 69 EM 8432,Volkswagen,Virtus,2019,102913.0,Petrol,Manual,1598.0,Third,5000.0
+HR 05 WL 4559,Hyundai,Verna,2023,45526.0,Electric,Manual,0.0,Fourth & Above,11400.0
+KA 59 CV 4475,Mahindra,Bolero,2017,150387.0,Hybrid,Automatic,1598.0,First,3200.0
+DL 30 KY 3417,Volkswagen,Polo,2011,239993.0,Diesel,Manual,1799.0,First,2500.0
+TN 17 AL 4898,Audi,A4,2018,134251.0,Diesel,Automatic,1998.0,Second,9200.0
+TS 66 SD 8405,Audi,Q5,2010,157088.0,Electric,Manual,0.0,First,2700.0
+TN 62 MN 2768,Maruti,Baleno,2011,233721.0,CNG,Automatic,1999.0,Fourth & Above,2500.0
+UP 71 WK 7240,Mahindra,Bolero,2012,240185.0,Diesel,Manual,1497.0,Second,2500.0
+AP 44 OM 7815,Audi,Q5,2024,28831.0,Petrol,Manual,3982.0,Fourth & Above,34400.0
+KA 12 ND 7105,Tesla,Model 3,2020,77266.0,Electric,Manual,0.0,Fourth & Above,13500.0
+AP 93 BJ 6119,Ford,Endeavour,2011,211216.0,Hybrid,Manual,3198.0,Fourth & Above,2500.0
+UP 29 ZN 1430,Hyundai,Elantra,2016,98401.0,Petrol,Automatic,999.0,Third,3800.0
+MH 73 VM 2140,Audi,Q5,2010,160677.0,Hybrid,Automatic,1998.0,Third,2500.0
+HR 93 KY 2391,Ford,Mustang,2012,218316.0,Electric,Automatic,0.0,Third,2500.0
+UP 57 NI 4531,Toyota,Corolla,2015,172186.0,Petrol,Automatic,1999.0,Fourth & Above,2700.0
+UP 08 AG 5938,Maruti,Swift,2021,67331.0,CNG,Automatic,999.0,Third,5300.0
+GJ 91 HQ 6802,BMW,5 Series,2018,88635.0,Electric,Automatic,0.0,Second,10400.0
+WB 54 JD 7636,Honda,City,2011,188271.0,Petrol,Automatic,1799.0,Fourth & Above,2500.0
+UP 52 QC 7484,Toyota,RAV4,2015,179617.0,Hybrid,Manual,999.0,Fourth & Above,2500.0
+WB 19 HD 3399,Mercedes,GLC,2017,103648.0,CNG,Manual,2993.0,Second,9500.0
+UP 58 VS 6295,Mercedes,E-Class,2015,158304.0,Petrol,Manual,2497.0,Fourth & Above,6000.0
+HR 60 OB 1932,Volkswagen,Tiguan,2014,151647.0,Hybrid,Automatic,1497.0,First,2500.0
+TN 58 ZS 4084,Hyundai,Tucson,2012,207162.0,Petrol,Automatic,1799.0,Fourth & Above,2500.0
+KA 65 UF 1641,Hyundai,i20,2025,17844.0,Electric,Manual,0.0,Third,18000.0
+TS 87 TB 6482,BMW,X5,2024,29920.0,Hybrid,Automatic,3982.0,Third,31200.0
+MH 45 JU 7421,Honda,CR-V,2013,179081.0,Hybrid,Manual,999.0,Third,2500.0
+TN 47 JF 4509,Ford,Endeavour,2012,157848.0,Hybrid,Manual,4951.0,First,2500.0
+GJ 05 VK 3147,Hyundai,Creta,2016,104204.0,Petrol,Automatic,1799.0,First,3700.0
+WB 93 HO 5668,Audi,Q7,2014,119795.0,CNG,Manual,1998.0,Fourth & Above,5500.0
+UP 57 OY 5616,Tesla,Model Y,2017,122298.0,Electric,Manual,0.0,Third,8900.0
+TS 71 DW 9452,Tata,Tiago,2023,57255.0,CNG,Manual,999.0,Third,11500.0
+DL 58 LA 7797,Honda,CR-V,2012,220927.0,CNG,Manual,999.0,Fourth & Above,2500.0
+WB 43 ZE 3254,Toyota,Highlander,2021,56767.0,Hybrid,Manual,3198.0,First,12600.0
+TN 33 GE 9991,Toyota,RAV4,2025,16515.0,Electric,Automatic,0.0,First,24300.0
+WB 80 OC 2816,Tesla,Model S,2023,29488.0,Electric,Manual,0.0,First,25500.0
+WB 86 CQ 6908,Mahindra,Thar,2017,138834.0,Petrol,Automatic,1799.0,Second,3600.0
+TS 09 LH 2698,Honda,Amaze,2010,193353.0,Electric,Automatic,0.0,Third,2500.0
+KA 92 YO 1605,Audi,Q5,2014,104504.0,Diesel,Automatic,2497.0,Fourth & Above,6800.0
+WB 25 JL 1783,Mercedes,E-Class,2011,243209.0,Hybrid,Automatic,3982.0,Fourth & Above,2600.0
+MH 64 WP 7018,Volkswagen,Tiguan,2018,76430.0,Electric,Automatic,0.0,Fourth & Above,5400.0
+TS 85 JJ 8305,Maruti,Brezza,2012,215107.0,CNG,Manual,1497.0,Third,2500.0
+TN 10 VU 7655,Audi,Q7,2015,166280.0,Petrol,Automatic,2993.0,Fourth & Above,5000.0
+WB 47 LM 1530,Hyundai,i20,2015,194377.0,CNG,Automatic,1197.0,First,2500.0
+HR 32 DA 4048,Audi,A6,2024,37464.0,Petrol,Manual,3982.0,Third,28200.0
+KL 26 DE 2213,Mahindra,Bolero,2013,140072.0,Electric,Manual,0.0,Third,2500.0
+MH 92 WW 3852,Mahindra,XUV700,2024,40187.0,Hybrid,Automatic,3198.0,First,16500.0
+UP 48 OZ 3126,Hyundai,i20,2017,84726.0,Diesel,Manual,999.0,Fourth & Above,4100.0
+KA 17 KU 2215,Audi,A4,2012,160299.0,Electric,Automatic,0.0,Fourth & Above,3800.0
+TN 16 QE 5982,Mahindra,Bolero,2021,50732.0,CNG,Manual,1598.0,Second,9700.0
+GJ 36 EU 5961,Ford,Explorer,2020,105986.0,CNG,Automatic,1497.0,First,7600.0
+WB 99 SI 4453,Audi,A4,2015,156421.0,Diesel,Automatic,1998.0,First,4500.0
+WB 52 JO 2195,Audi,Q7,2010,211194.0,Hybrid,Automatic,2497.0,Fourth & Above,2500.0
+TS 94 LM 3142,Tesla,Model 3,2015,139293.0,Electric,Automatic,0.0,Second,5600.0
+HR 50 TN 5067,Hyundai,i20,2013,148350.0,Hybrid,Automatic,1197.0,Second,2500.0
+KA 51 QO 4944,Ford,F-150,2020,61027.0,CNG,Automatic,3198.0,Fourth & Above,10300.0
+AP 18 IX 6992,BMW,7 Series,2021,44558.0,CNG,Automatic,1998.0,Third,22800.0
+KL 98 RI 2946,Tata,Safari,2011,197423.5,Diesel,Automatic,999.0,Third,2500.0
+AP 65 BB 1637,Ford,Mustang,2022,51875.0,CNG,Automatic,2755.0,Second,14300.0
+UP 95 JS 6511,Ford,F-150,2025,14789.0,CNG,Manual,3198.0,Third,21100.0
+AP 75 JZ 1436,Maruti,Ertiga,2025,17286.0,Petrol,Automatic,1999.0,Third,10300.0
+WB 93 TY 7229,Audi,Q7,2018,145497.0,CNG,Manual,3982.0,First,7300.0
+AP 89 GN 9221,Ford,Explorer,2011,209687.0,Diesel,Manual,1497.0,Fourth & Above,2500.0
+MH 59 RK 9950,Audi,Q7,2011,228941.0,CNG,Automatic,3982.0,Fourth & Above,2500.0
+HR 99 JW 4396,Hyundai,Verna,2018,114575.0,Diesel,Automatic,1197.0,Third,4800.0
+GJ 49 ML 3399,Tesla,Model S,2025,13565.0,Electric,Automatic,0.0,First,38600.0
+GJ 35 RW 5450,Mercedes,C-Class,2019,124188.0,Electric,Automatic,0.0,Fourth & Above,10500.0
+TS 92 PD 3252,Ford,Mustang,2017,97500.0,CNG,Manual,2198.0,Second,5300.0
+HR 42 JU 1969,Toyota,Fortuner,2015,137499.0,Electric,Automatic,0.0,Second,3700.0
+TN 51 ZP 4052,Honda,Amaze,2017,124056.0,Petrol,Manual,1197.0,Fourth & Above,3900.0
+WB 70 QP 3198,Tesla,Model Y,2011,124661.0,Electric,Automatic,0.0,Third,3800.0
+TS 38 SV 4164,Maruti,Dzire,2018,80875.0,Diesel,Automatic,1999.0,Third,3300.0
+KL 42 HA 5272,Ford,Endeavour,2022,68140.0,Petrol,Automatic,2755.0,First,14900.0
+DL 08 VD 8625,Tata,Harrier,2024,35891.0,Hybrid,Manual,1999.0,Third,13100.0
+DL 18 PE 8454,Mercedes,E-Class,2022,64135.0,Hybrid,Manual,2993.0,Third,23400.0
+UP 11 QO 9653,Tesla,Model S,2021,63989.0,Electric,Manual,0.0,Second,19700.0
+GJ 57 DV 4365,Tesla,Model Y,2012,241863.0,Electric,Manual,0.0,Second,2700.0
+KL 73 BR 8575,Tesla,Model S,2025,11950.0,Electric,Automatic,0.0,Second,38200.0
+KA 70 BC 8734,Volkswagen,Tiguan,2010,195617.0,Diesel,Manual,1598.0,First,2500.0
+AP 49 CV 9835,Toyota,RAV4,2023,30941.0,Electric,Automatic,0.0,Fourth & Above,15600.0
+HR 60 VX 9920,Ford,F-150,2013,130350.0,CNG,Manual,2198.0,Second,3200.0
+KA 05 ZV 7868,Tata,Tiago,2022,66924.0,Hybrid,Manual,1197.0,Third,10500.0
+AP 57 HR 4559,Audi,A4,2017,91950.0,Petrol,Automatic,2497.0,First,10400.0
+MH 85 QH 7775,Toyota,Corolla,2019,77056.0,CNG,Automatic,1197.0,Third,7400.0
+WB 86 MZ 9592,Mercedes,GLC,2011,206874.0,Diesel,Automatic,1998.0,Fourth & Above,3200.0
+MH 60 BR 7761,Hyundai,Verna,2023,38447.0,Diesel,Automatic,1197.0,Second,10600.0
+DL 07 IM 1647,Tata,Tiago,2014,144630.0,Hybrid,Manual,1497.0,Fourth & Above,2500.0
+KA 96 YP 4974,Honda,Accord,2016,132417.0,Hybrid,Automatic,1197.0,First,3300.0
+WB 46 JI 6892,Tesla,Model S,2016,121620.0,Electric,Automatic,0.0,Fourth & Above,7400.0
+AP 06 SH 3390,Maruti,Dzire,2024,22897.0,Electric,Automatic,0.0,Second,9600.0
+WB 44 IY 9005,Toyota,RAV4,2023,34640.0,Diesel,Automatic,1598.0,Second,15900.0
+KL 24 RU 1962,Tesla,Model S,2025,16539.0,Electric,Manual,0.0,Second,39900.0
+MH 02 GQ 8471,Maruti,Swift,2012,247999.0,Petrol,Automatic,1999.0,Second,2500.0
+HR 69 JA 9228,Hyundai,Elantra,2025,15655.0,CNG,Automatic,999.0,First,16000.0
+UP 68 IL 5379,Tesla,Model S,2023,52824.0,Electric,Manual,0.0,Second,23300.0
+KA 84 UY 1519,Tata,Nexon,2021,90800.0,Diesel,Manual,1999.0,Third,8100.0
+WB 43 SD 9653,Honda,City,2022,49990.0,Petrol,Manual,1598.0,First,10200.0
+WB 36 RS 1539,Toyota,Corolla,2016,173896.0,CNG,Automatic,999.0,Third,3400.0
+DL 73 MV 9856,Ford,F-150,2010,285183.0,Electric,Manual,0.0,Third,2500.0
+KA 44 TY 7499,Hyundai,Creta,2014,194617.0,Petrol,Automatic,999.0,First,2500.0
+UP 85 MC 5839,Hyundai,Elantra,2018,129486.0,Diesel,Automatic,1598.0,Fourth & Above,3500.0
+TN 40 OL 5419,BMW,3 Series,2012,184666.0,Diesel,Automatic,2993.0,Third,3300.0
+GJ 12 TT 6315,Honda,Accord,2012,141030.0,CNG,Automatic,999.0,First,2500.0
+MH 35 JI 9079,Tata,Nexon,2019,89083.0,CNG,Manual,1999.0,Second,5500.0
+DL 93 UP 4203,Ford,Mustang,2015,138498.0,Electric,Manual,0.0,Third,3400.0
+WB 77 EJ 6253,Mahindra,Thar,2014,137354.0,Hybrid,Automatic,1598.0,Third,2500.0
+HR 51 LD 4273,Audi,A6,2025,16000.0,Hybrid,Automatic,2497.0,Fourth & Above,34700.0
+AP 87 PE 5961,Audi,A6,2010,283327.0,Diesel,Automatic,1998.0,Third,2500.0
+AP 70 BZ 6890,BMW,X3,2014,185984.0,Petrol,Automatic,3982.0,Fourth & Above,4000.0
+WB 87 UM 6432,Tesla,Model S,2012,129304.0,Electric,Manual,0.0,First,4400.0
+WB 76 WQ 3469,Tata,Nexon,2010,145665.0,CNG,Manual,1497.0,Fourth & Above,2500.0
+KL 27 QP 6706,Hyundai,Elantra,2025,15821.0,Petrol,Manual,1497.0,Second,15200.0
+TS 83 DV 3692,Mahindra,Thar,2024,33249.0,Petrol,Automatic,1999.0,First,13400.0
+WB 24 FU 8080,Tesla,Model 3,2015,151034.0,Electric,Automatic,0.0,Second,6000.0
+KA 74 DZ 9796,Tata,Nexon,2016,127675.0,Petrol,Manual,1497.0,Second,3400.0
+UP 15 LL 8501,Ford,F-150,2020,61280.0,Electric,Automatic,0.0,Fourth & Above,10700.0
+MH 48 WE 9369,Audi,A6,2019,123668.0,Diesel,Automatic,2497.0,First,10000.0
+MH 24 KO 1878,Tata,Altroz,2014,168477.5,Electric,Manual,0.0,Second,2500.0
+KL 63 FC 1505,Hyundai,Elantra,2025,13626.0,CNG,Automatic,1999.0,Fourth & Above,15900.0
+HR 70 LR 1681,BMW,X3,2011,197423.5,Diesel,Automatic,1998.0,Fourth & Above,3100.0
+TS 12 OD 4882,Tesla,Model Y,2016,180387.0,Electric,Automatic,0.0,First,4900.0
+DL 08 SL 9720,BMW,7 Series,2021,86493.0,Electric,Manual,0.0,Second,18800.0
+AP 08 IU 3078,Mercedes,S-Class,2015,127418.0,Hybrid,Automatic,2497.0,First,7700.0
+WB 35 UN 7146,Tesla,Model 3,2017,87450.0,Electric,Automatic,0.0,Fourth & Above,9000.0
+KA 94 OU 6869,Mahindra,Thar,2012,172398.0,Hybrid,Automatic,1497.0,Fourth & Above,2500.0
+TS 71 SE 8951,Honda,Amaze,2022,43431.0,Diesel,Automatic,1497.0,Third,10400.0
+MH 57 OA 8009,Hyundai,Verna,2011,130396.0,Electric,Manual,0.0,First,2500.0
+WB 84 FB 7493,BMW,5 Series,2019,71859.0,Hybrid,Manual,2993.0,Third,12500.0
+UP 29 QV 8291,Volkswagen,Tiguan,2017,111995.0,Petrol,Manual,1598.0,Second,3600.0
+AP 12 XZ 2678,Toyota,Camry,2020,101979.0,Electric,Manual,0.0,Fourth & Above,6900.0
+UP 84 FO 6753,Honda,CR-V,2021,85597.0,Diesel,Manual,1799.0,First,7100.0
+MH 97 DS 7291,Tesla,Model 3,2014,209851.0,Electric,Manual,0.0,First,4300.0
+WB 39 GQ 9348,Hyundai,Creta,2020,97455.0,Petrol,Manual,1999.0,Third,5100.0
+WB 77 CQ 1197,BMW,X5,2019,105367.0,Diesel,Automatic,1998.0,Fourth & Above,11200.0
+KA 03 SC 1225,Hyundai,Tucson,2014,146776.0,Electric,Automatic,0.0,Second,2500.0
+AP 11 UR 9808,Mercedes,E-Class,2011,263181.0,Electric,Automatic,0.0,Fourth & Above,2800.0
+WB 88 UC 6081,Audi,A6,2018,72003.0,Diesel,Manual,3982.0,Third,12300.0
+TN 40 VX 3877,Tesla,Model Y,2017,78556.0,Electric,Manual,0.0,Fourth & Above,10900.0
+HR 94 DY 1480,Honda,Civic,2014,181835.0,Hybrid,Automatic,1497.0,Second,2500.0
+TN 64 SF 7024,Hyundai,Creta,2018,107960.0,CNG,Manual,1598.0,Fourth & Above,4400.0
+TN 32 BP 6963,Ford,F-150,2013,223951.0,Petrol,Manual,2198.0,First,2500.0
+TS 35 CS 7108,Tata,Harrier,2015,147262.5,CNG,Automatic,1497.0,Second,2500.0
+HR 42 CR 8483,Honda,Amaze,2011,151119.0,Petrol,Automatic,1598.0,First,2500.0
+KL 99 YG 9954,Toyota,RAV4,2016,113297.0,CNG,Manual,1497.0,Fourth & Above,4600.0
+WB 49 XX 6038,BMW,5 Series,2010,278279.0,CNG,Automatic,2993.0,First,2500.0
+GJ 53 WL 8511,Honda,Accord,2017,114628.0,Diesel,Automatic,999.0,First,4100.0
+MH 31 JI 6161,Tesla,Model 3,2013,173254.0,Electric,Manual,0.0,First,3500.0
+KL 60 KN 2978,Tata,Safari,2020,77099.0,Diesel,Manual,1197.0,First,6100.0
+UP 06 GK 3430,Maruti,Brezza,2016,128045.0,Petrol,Manual,1999.0,Second,2500.0
+KL 72 XR 5093,Honda,Accord,2021,61008.0,Hybrid,Automatic,999.0,Second,8800.0
+AP 48 VU 2376,Honda,City,2013,210065.0,Petrol,Manual,1197.0,Second,2500.0
+TS 16 BO 1829,Audi,Q5,2012,116309.0,Electric,Manual,0.0,First,5000.0
+MH 36 IO 3435,Ford,Endeavour,2023,51230.0,Petrol,Automatic,2755.0,Fourth & Above,15100.0
+MH 54 GU 9614,Toyota,Fortuner,2017,133250.0,CNG,Automatic,2198.0,First,4300.0
+GJ 42 MI 3946,BMW,7 Series,2010,290432.0,Hybrid,Automatic,2993.0,Fourth & Above,2700.0
+UP 30 FD 5060,Toyota,RAV4,2017,78880.0,Hybrid,Manual,1799.0,Fourth & Above,5800.0
+MH 23 HS 6210,Volkswagen,Jetta,2018,110860.0,Petrol,Manual,1497.0,Fourth & Above,5400.0
+KL 70 JF 9035,Tesla,Model S,2021,86811.0,Electric,Manual,0.0,Second,18600.0
+DL 17 KW 3907,Toyota,Camry,2011,156768.0,CNG,Automatic,1497.0,First,2500.0
+WB 51 SD 6514,Hyundai,Elantra,2010,155452.0,Diesel,Manual,999.0,Third,2500.0
+GJ 89 TZ 6846,Mercedes,GLC,2014,217032.0,Electric,Automatic,0.0,Third,3700.0
+UP 51 YS 1530,BMW,7 Series,2015,133558.0,Hybrid,Manual,1998.0,Second,7100.0
+KA 31 LK 3750,Ford,Endeavour,2020,108132.0,Diesel,Manual,2755.0,Fourth & Above,7900.0
+TN 07 MO 7875,Volkswagen,Polo,2020,76858.0,Diesel,Manual,1197.0,Third,7900.0
+UP 84 YV 4695,Ford,EcoSport,2025,19222.0,Electric,Manual,0.0,Fourth & Above,25100.0
+MH 49 FX 2228,Ford,EcoSport,2012,225020.0,Petrol,Automatic,999.0,Third,2500.0
+MH 78 NF 1877,Maruti,Swift,2020,87096.0,Electric,Manual,0.0,Fourth & Above,5200.0
+TN 51 SR 9043,Honda,CR-V,2016,180076.0,CNG,Automatic,1497.0,Third,2500.0
+MH 82 JC 8758,Ford,Mustang,2021,41541.0,CNG,Automatic,2198.0,Second,10900.0
+AP 48 FO 1731,Honda,CR-V,2022,54714.0,Hybrid,Manual,1197.0,Fourth & Above,8700.0
+TS 70 NY 4727,Mercedes,GLE,2024,25616.0,Diesel,Manual,1998.0,Second,29800.0
+AP 92 BQ 9467,Maruti,Swift,2022,67410.0,CNG,Automatic,1598.0,Second,6100.0
+KA 88 NG 3422,Audi,A6,2013,230199.0,Diesel,Manual,2497.0,Second,2900.0
+HR 67 OA 9561,Audi,Q5,2020,107304.0,Petrol,Manual,3982.0,Fourth & Above,13300.0
+HR 69 LN 5327,Tata,Nexon,2023,31755.0,CNG,Manual,1799.0,First,13200.0
+TS 89 HB 8785,Tata,Altroz,2025,10476.0,Diesel,Automatic,1598.0,First,19000.0
+DL 18 JX 8259,Mercedes,GLC,2010,186233.0,Hybrid,Automatic,1998.0,Fourth & Above,2800.0
+GJ 48 BQ 3604,Hyundai,Tucson,2023,43506.0,Electric,Manual,0.0,Fourth & Above,11900.0
+DL 08 HB 8478,Honda,CR-V,2022,41831.0,CNG,Manual,1197.0,Second,10600.0
+TS 63 TO 3909,Toyota,RAV4,2016,111691.0,CNG,Automatic,1999.0,First,3900.0
+UP 28 HU 4688,Mahindra,Scorpio,2021,52753.0,Petrol,Automatic,1598.0,First,8300.0
+TN 29 IT 6004,Volkswagen,Jetta,2018,119180.0,Petrol,Automatic,1999.0,Second,4100.0
+HR 87 QT 7506,Tesla,Model S,2018,100410.0,Electric,Automatic,0.0,Third,9900.0
+TS 36 UK 5536,Audi,A4,2010,213491.0,Hybrid,Automatic,1998.0,Third,2500.0
+WB 64 JI 7857,Mercedes,GLC,2016,99054.0,Petrol,Automatic,2497.0,Third,9500.0
+KL 86 LQ 5918,Tata,Altroz,2011,212432.0,Diesel,Automatic,1999.0,Second,2500.0
+DL 96 JN 6428,Ford,Endeavour,2015,123199.0,Hybrid,Manual,2198.0,Third,3700.0
+WB 49 QJ 7768,Hyundai,Tucson,2019,89934.0,Petrol,Manual,1197.0,Fourth & Above,5400.0
+MH 11 PK 3897,Toyota,Corolla,2014,217452.0,CNG,Automatic,1497.0,Second,2500.0
+AP 82 NM 8029,Hyundai,Verna,2011,122801.0,Diesel,Manual,999.0,Fourth & Above,2500.0
+WB 01 UX 5076,Mahindra,Bolero,2010,135833.0,Hybrid,Manual,1799.0,Third,2500.0
+HR 38 OX 9524,BMW,X3,2019,67559.0,CNG,Automatic,1998.0,Second,16000.0
+AP 03 HH 3149,Audi,Q5,2023,55621.0,Hybrid,Automatic,2497.0,Third,22000.0
+TN 85 DU 1323,BMW,3 Series,2015,105392.0,Petrol,Automatic,1998.0,Third,7500.0
+WB 81 AJ 7895,Toyota,Innova,2013,160701.0,CNG,Automatic,1999.0,Fourth & Above,2500.0
+KA 64 GT 4272,Volkswagen,Polo,2018,117626.0,Electric,Manual,0.0,First,4300.0
+KL 43 HA 1208,Mercedes,S-Class,2016,118431.0,Diesel,Manual,2497.0,Fourth & Above,8500.0
+HR 83 HO 5850,Volkswagen,Polo,2013,216256.0,Diesel,Manual,1999.0,First,2500.0
+KA 13 YB 1158,Mercedes,GLE,2011,136670.0,Petrol,Automatic,2993.0,Third,3800.0
+MH 15 MM 8479,Ford,Explorer,2020,72202.0,CNG,Automatic,1497.0,First,10800.0
+MH 14 NS 8908,Mercedes,GLE,2025,19594.0,Diesel,Manual,1998.0,Second,45200.0
+KA 53 OB 2037,Audi,Q7,2015,159362.0,CNG,Manual,3982.0,Second,5700.0
+DL 62 LV 7305,Mercedes,GLC,2010,244442.0,CNG,Manual,1998.0,Third,2500.0
+KL 42 HK 5557,Ford,Endeavour,2011,126484.0,CNG,Automatic,2755.0,Fourth & Above,2500.0
+KL 12 PO 6178,Toyota,Fortuner,2017,124059.0,Diesel,Manual,4951.0,Fourth & Above,5300.0
+WB 39 QR 4389,Honda,City,2010,147072.0,CNG,Manual,1799.0,First,2500.0
+UP 61 WV 6952,Volkswagen,Virtus,2020,71017.0,Diesel,Automatic,1799.0,Third,8000.0
+HR 71 QL 2741,Tesla,Model Y,2013,120302.0,Electric,Automatic,0.0,Third,5600.0
+DL 16 MG 8488,Toyota,Corolla,2025,13271.0,Electric,Manual,0.0,Third,22600.0
+GJ 18 PA 9689,BMW,X3,2013,203615.0,CNG,Manual,3982.0,Fourth & Above,3700.0
+MH 14 MV 6273,Tesla,Model 3,2023,52096.0,Electric,Manual,0.0,Second,27100.0
+KL 18 EN 9393,Maruti,Dzire,2023,58048.0,Diesel,Automatic,1497.0,Fourth & Above,8800.0
+WB 17 WU 3913,Mercedes,S-Class,2020,95454.0,Diesel,Manual,2993.0,Second,16000.0
+GJ 37 NZ 1209,Maruti,Ertiga,2020,94664.0,CNG,Automatic,1999.0,Fourth & Above,4800.0
+WB 33 EB 5835,Maruti,Swift,2010,190151.0,Petrol,Manual,1197.0,Third,2500.0
+HR 89 VB 7251,BMW,7 Series,2011,176612.0,CNG,Manual,2497.0,Fourth & Above,2800.0
+WB 48 YS 9955,Tata,Altroz,2020,107165.0,Hybrid,Manual,1197.0,Fourth & Above,6700.0
+KA 24 FX 9418,Tesla,Model S,2016,162471.0,Electric,Automatic,0.0,Second,6600.0
+MH 06 EK 1833,Honda,City,2011,187502.0,Diesel,Manual,999.0,Third,2500.0
+GJ 21 NR 9798,Volkswagen,Tiguan,2025,19099.0,Petrol,Automatic,1197.0,Second,17400.0
+UP 68 PR 1144,Tata,Nexon,2021,52913.0,Hybrid,Automatic,1497.0,Third,8000.0
+AP 15 MI 9851,Honda,CR-V,2024,29574.0,CNG,Manual,1999.0,First,14700.0
+WB 25 KQ 2349,Tesla,Model Y,2010,278102.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+AP 83 CX 3519,Honda,Accord,2010,230152.0,Diesel,Automatic,1197.0,First,2500.0
+AP 50 OU 7626,Toyota,Highlander,2020,51566.0,Diesel,Automatic,2755.0,First,11200.0
+TS 65 DJ 5937,Tata,Safari,2010,191793.0,Petrol,Manual,1999.0,First,2500.0
+DL 18 XM 9941,Audi,A4,2019,112319.0,Electric,Manual,0.0,Fourth & Above,10100.0
+UP 77 MR 9970,Mercedes,E-Class,2019,108066.0,Hybrid,Manual,1998.0,Second,10800.0
+MH 21 FH 5140,Honda,CR-V,2016,159443.0,Hybrid,Manual,1999.0,Fourth & Above,2700.0
+HR 13 GX 8982,BMW,3 Series,2015,165076.0,Petrol,Automatic,2993.0,First,5300.0
+TS 79 VJ 3496,Hyundai,Tucson,2014,178493.0,Hybrid,Manual,1497.0,Second,2500.0
+TS 18 VX 6432,Audi,Q5,2020,107194.0,Hybrid,Manual,3982.0,Second,12300.0
+HR 18 RG 5312,Mahindra,Bolero,2024,25396.0,CNG,Manual,1999.0,Second,16100.0
+DL 05 RI 9904,Tesla,Model S,2012,218407.0,Electric,Manual,0.0,Fourth & Above,3200.0
+KA 51 LQ 1173,Maruti,Dzire,2014,141791.0,CNG,Automatic,1598.0,Second,2500.0
+TS 06 HY 8989,Volkswagen,Jetta,2015,172854.0,Diesel,Manual,1999.0,Second,2500.0
+TN 06 UK 2691,BMW,3 Series,2018,94726.0,Diesel,Automatic,3982.0,Fourth & Above,12700.0
+TS 76 UC 9465,Tesla,Model S,2018,132843.0,Electric,Manual,0.0,Fourth & Above,9400.0
+MH 57 FH 2263,Mercedes,GLE,2017,120885.0,Hybrid,Automatic,1998.0,Fourth & Above,9100.0
+KA 62 VP 8848,Maruti,Brezza,2016,96653.0,CNG,Manual,1598.0,Second,2900.0
+GJ 06 SE 1916,BMW,7 Series,2015,161842.0,Diesel,Manual,2497.0,Second,4600.0
+UP 61 PF 4594,Ford,F-150,2015,147452.0,CNG,Manual,2198.0,Third,3200.0
+KL 77 SC 4765,Tata,Tiago,2014,195635.0,Diesel,Automatic,1999.0,Second,2500.0
+KL 79 TB 9706,Tata,Altroz,2014,110837.0,CNG,Automatic,1799.0,Second,2500.0
+TN 90 QN 4759,Maruti,Swift,2012,181035.0,CNG,Manual,1799.0,Fourth & Above,2500.0
+DL 11 JT 9908,Mahindra,Bolero,2021,73417.0,CNG,Manual,1197.0,Fourth & Above,8100.0
+TS 53 LD 3535,Tata,Safari,2016,84521.0,Petrol,Manual,1598.0,First,4200.0
+DL 53 RZ 8904,Tata,Tiago,2018,88048.0,CNG,Automatic,1999.0,Third,4900.0
+KL 90 FD 4513,Ford,F-150,2025,12764.0,Hybrid,Automatic,2198.0,Second,25300.0
+KA 19 PT 8133,Maruti,Dzire,2020,99507.0,Petrol,Manual,1999.0,Fourth & Above,3700.0
+HR 92 TB 3871,Honda,Civic,2018,83061.0,Petrol,Automatic,1799.0,Fourth & Above,5000.0
+GJ 67 WH 3776,Volkswagen,Virtus,2024,20616.0,CNG,Automatic,999.0,Second,16400.0
+AP 52 SG 9482,Volkswagen,Polo,2021,52963.0,Diesel,Manual,1598.0,Third,8700.0
+DL 59 MS 1076,Toyota,Innova,2012,243883.0,CNG,Automatic,1497.0,Third,2500.0
+HR 69 ZS 5098,Mercedes,E-Class,2023,42421.0,CNG,Automatic,1998.0,Third,30600.0
+TN 62 DI 2106,Tesla,Model Y,2022,58606.0,Electric,Automatic,0.0,Fourth & Above,24300.0
+AP 87 XK 2245,Tata,Harrier,2017,146664.0,Hybrid,Manual,1197.0,Third,3000.0
+DL 64 XG 4847,Maruti,Baleno,2025,13012.0,CNG,Automatic,1999.0,Second,12400.0
+KA 11 VV 9071,Tesla,Model 3,2018,82353.0,Electric,Automatic,0.0,Second,12700.0
+GJ 36 MH 3101,Audi,A4,2011,249686.0,Hybrid,Automatic,3982.0,Third,2500.0
+KA 90 QO 6171,Toyota,Fortuner,2023,41512.0,Diesel,Automatic,2755.0,Fourth & Above,15100.0
+HR 24 RI 4885,Tesla,Model 3,2010,238374.0,Electric,Automatic,0.0,Third,2500.0
+HR 58 FS 3148,Mercedes,GLE,2020,72950.0,Diesel,Automatic,2993.0,Third,18700.0
+MH 61 ZA 3893,Audi,A6,2013,201922.0,CNG,Automatic,2497.0,Fourth & Above,3000.0
+UP 07 MD 3676,Tata,Altroz,2014,219864.0,CNG,Automatic,1497.0,Fourth & Above,2500.0
+GJ 72 ZI 6638,Toyota,Corolla,2018,105642.0,Electric,Automatic,0.0,Third,5800.0
+WB 66 PY 8322,Toyota,Highlander,2013,153360.0,CNG,Manual,3198.0,Second,2500.0
+AP 10 CF 6629,Honda,City,2019,93289.0,Diesel,Automatic,1999.0,Fourth & Above,5400.0
+TS 96 SQ 8377,BMW,X3,2020,91022.0,CNG,Automatic,3982.0,Third,16100.0
+KA 13 CP 9985,Tata,Harrier,2015,183463.0,Diesel,Automatic,1197.0,First,2500.0
+AP 40 HH 5655,Toyota,Camry,2022,57943.0,Petrol,Automatic,999.0,Second,13200.0
+GJ 35 RO 3213,Mahindra,XUV700,2014,160891.0,Petrol,Automatic,4951.0,Third,2500.0
+KL 70 HZ 2467,Tesla,Model S,2015,155817.0,Electric,Automatic,0.0,Third,6000.0
+GJ 02 WP 8816,Mahindra,Scorpio,2021,62233.0,Petrol,Manual,1497.0,Second,8600.0
+AP 51 HF 7385,Mercedes,C-Class,2023,51326.0,Petrol,Automatic,3982.0,Second,30200.0
+HR 53 GC 3988,Tata,Harrier,2018,73838.0,CNG,Automatic,1999.0,Third,5800.0
+TN 69 AF 2675,Ford,F-150,2013,190266.0,Hybrid,Automatic,3198.0,Second,2500.0
+TS 54 JZ 9165,Mercedes,GLC,2014,185731.0,Diesel,Manual,1998.0,Second,4100.0
+KL 24 GI 7251,Hyundai,Creta,2011,173911.0,Diesel,Manual,1598.0,Third,2500.0
+KA 67 VG 8746,Toyota,Camry,2017,111531.0,Diesel,Manual,1598.0,Second,5500.0
+DL 47 BV 4568,Tata,Safari,2020,61429.0,CNG,Manual,1598.0,Third,7700.0
+TN 75 ZW 8786,Honda,Accord,2023,35404.0,Hybrid,Manual,1197.0,Fourth & Above,9500.0
+TS 98 UB 1979,Tesla,Model S,2014,141925.0,Electric,Automatic,0.0,First,5400.0
+WB 97 LZ 8187,Hyundai,Verna,2014,184325.0,Diesel,Automatic,1497.0,Second,2500.0
+KL 72 JR 9029,Tesla,Model 3,2010,240712.0,Electric,Automatic,0.0,First,2500.0
+MH 58 JI 9873,BMW,7 Series,2015,150092.0,Electric,Automatic,0.0,Second,4900.0
+KA 85 RM 4110,Hyundai,Creta,2010,255170.0,Diesel,Manual,1799.0,Third,2500.0
+TN 17 FB 4310,Maruti,Dzire,2014,171855.0,Hybrid,Manual,1799.0,First,2500.0
+DL 78 WC 1214,Honda,City,2016,93159.0,Electric,Automatic,0.0,Third,3100.0
+HR 68 BX 2153,BMW,X5,2012,181083.0,Hybrid,Automatic,1998.0,Third,3400.0
+DL 73 UF 7802,Mercedes,C-Class,2016,177447.0,Diesel,Automatic,2497.0,Second,5500.0
+GJ 52 QK 3591,Tesla,Model 3,2021,77534.0,Electric,Manual,0.0,Second,19200.0
+AP 93 KT 4943,Maruti,Ertiga,2024,39280.0,CNG,Automatic,1598.0,Third,10200.0
+TN 93 BJ 1267,Audi,A6,2022,67332.0,Hybrid,Automatic,3982.0,Fourth & Above,23300.0
+GJ 66 RS 3534,Maruti,Baleno,2019,61397.0,Diesel,Automatic,1999.0,First,5000.0
+KA 74 MS 4562,Honda,Civic,2024,24666.0,Hybrid,Manual,1497.0,Second,14400.0
+UP 49 CY 1916,Tesla,Model 3,2020,97265.0,Electric,Manual,0.0,Third,12200.0
+TN 41 RS 3450,Hyundai,Tucson,2023,40966.0,Diesel,Manual,999.0,Fourth & Above,10500.0
+HR 51 EE 6507,Hyundai,i20,2017,89482.0,Electric,Automatic,0.0,First,3900.0
+KL 72 GP 7476,Honda,City,2011,204273.0,Electric,Automatic,0.0,Second,2500.0
+AP 55 LL 4120,Volkswagen,Jetta,2017,95873.0,Electric,Automatic,0.0,First,4000.0
+DL 26 VL 3555,Hyundai,Tucson,2010,252826.0,Hybrid,Automatic,1598.0,Second,2500.0
+KA 40 OP 1372,Tesla,Model 3,2013,202117.0,Electric,Manual,0.0,Third,2900.0
+TN 49 SV 9631,Hyundai,Sonata,2016,103473.0,Hybrid,Automatic,1999.0,Second,3700.0
+TN 09 MV 5445,Toyota,RAV4,2015,96414.0,CNG,Automatic,1598.0,First,4500.0
+KA 41 PT 9709,Volkswagen,Tiguan,2013,110949.0,Electric,Manual,1497.0,Fourth & Above,2500.0
+KL 51 XF 1301,Honda,Accord,2016,132897.0,Petrol,Manual,1799.0,Second,2700.0
+AP 04 RI 4695,Hyundai,Verna,2021,59978.0,CNG,Automatic,1999.0,First,7400.0
+MH 55 JT 6395,Ford,F-150,2022,59628.0,Electric,Manual,0.0,Fourth & Above,12400.0
+MH 84 SF 6201,Mahindra,XUV700,2016,148571.0,Diesel,Manual,2755.0,Third,3000.0
+HR 57 XU 5485,Honda,Amaze,2013,132295.0,Diesel,Manual,1598.0,Third,2500.0
+WB 04 LC 8808,Ford,Explorer,2013,122205.0,CNG,Automatic,1799.0,Second,2900.0
+DL 29 BN 1245,Ford,Endeavour,2025,17616.0,Electric,Automatic,0.0,Fourth & Above,20700.0
+KL 89 KO 5043,Mercedes,GLE,2017,143765.0,Diesel,Manual,3982.0,Second,8800.0
+KL 06 HQ 9812,Tata,Altroz,2011,215486.0,Hybrid,Automatic,1799.0,First,2500.0
+HR 37 OF 7921,Tata,Nexon,2022,56167.0,Petrol,Manual,1598.0,Third,9500.0
+KA 24 YS 9952,Mercedes,S-Class,2011,228107.0,Electric,Automatic,0.0,First,3000.0
+TS 89 UW 3686,Ford,EcoSport,2023,34803.0,Electric,Manual,0.0,Fourth & Above,14800.0
+GJ 79 FM 7235,Tesla,Model S,2013,119679.0,Electric,Manual,0.0,Fourth & Above,5500.0
+TN 54 JJ 8311,Toyota,Corolla,2020,85567.0,Diesel,Manual,1197.0,Second,9300.0
+KL 70 ZA 9084,Mercedes,E-Class,2013,225652.0,Petrol,Automatic,3982.0,First,3600.0
+GJ 27 BF 3429,BMW,5 Series,2025,15304.0,CNG,Manual,2993.0,Second,39800.0
+AP 23 FV 5659,Toyota,Innova,2021,46251.0,CNG,Automatic,999.0,Third,10000.0
+AP 09 YN 2063,Audi,A6,2024,33427.0,Petrol,Manual,2993.0,Third,29100.0
+KA 74 XU 9666,Mercedes,GLE,2014,115080.0,Hybrid,Automatic,2497.0,Second,6600.0
+GJ 94 UP 9069,Honda,City,2019,93792.0,Hybrid,Automatic,1799.0,Second,5400.0
+KA 95 GZ 7793,Ford,Endeavour,2017,140689.0,Petrol,Manual,4951.0,First,4900.0
+KA 40 JQ 6307,Tata,Nexon,2020,73203.0,Diesel,Manual,1999.0,Second,6600.0
+TS 87 PP 1582,Toyota,Camry,2020,72379.0,CNG,Manual,1197.0,Second,8700.0
+TN 67 JS 6169,Volkswagen,Jetta,2025,12396.0,CNG,Automatic,1598.0,Fourth & Above,20000.0
+TS 49 UR 3719,Maruti,Ertiga,2010,165063.0,Hybrid,Manual,1497.0,Second,2500.0
+KL 31 LO 5958,Audi,Q7,2015,157929.0,Hybrid,Automatic,2993.0,First,5000.0
+KL 65 EG 6572,BMW,7 Series,2019,70747.0,Petrol,Manual,3982.0,First,14400.0
+AP 92 QD 1067,Mahindra,Scorpio,2020,61084.0,CNG,Manual,1999.0,Second,7000.0
+DL 42 GG 5695,Mercedes,C-Class,2012,163217.0,Petrol,Automatic,2993.0,First,3800.0
+UP 72 QD 4384,Mercedes,S-Class,2020,98051.0,Hybrid,Manual,2993.0,Second,13300.0
+TS 70 OB 3131,Maruti,Brezza,2020,69036.0,Hybrid,Manual,999.0,Second,4700.0
+UP 81 WW 8304,Toyota,Highlander,2011,137104.0,Electric,Automatic,0.0,Second,2500.0
+KL 13 OJ 8625,Audi,Q5,2019,81055.0,CNG,Manual,2497.0,Fourth & Above,11500.0
+WB 43 ZK 8426,Mahindra,XUV700,2017,89517.0,Hybrid,Automatic,2755.0,Fourth & Above,5200.0
+UP 74 EQ 2686,Mahindra,Thar,2012,180952.0,Electric,Manual,0.0,Third,2500.0
+UP 32 RF 8903,Tata,Nexon,2020,82652.0,Hybrid,Automatic,1799.0,Fourth & Above,6600.0
+DL 23 VV 2276,Tata,Nexon,2020,64270.0,Electric,Automatic,0.0,Third,7400.0
+AP 09 TD 7208,Tesla,Model S,2025,15821.0,Electric,Manual,0.0,Fourth & Above,34300.0
+GJ 38 MT 8326,Hyundai,Creta,2011,137848.0,CNG,Manual,1999.0,Second,2500.0
+UP 66 ME 5819,BMW,5 Series,2020,70161.0,Hybrid,Automatic,1998.0,Third,16800.0
+UP 51 UK 7271,Toyota,RAV4,2011,123366.0,Hybrid,Manual,999.0,Third,2500.0
+TS 54 EJ 3056,Tata,Altroz,2023,44003.0,Electric,Manual,0.0,Second,11800.0
+WB 54 OZ 7974,Ford,Mustang,2012,204350.0,Electric,Automatic,0.0,Second,2500.0
+AP 78 AS 9161,Audi,A6,2024,29396.0,Electric,Automatic,0.0,Third,28200.0
+TS 15 SP 2311,Tesla,Model 3,2018,100051.0,Electric,Manual,0.0,First,11000.0
+WB 86 CV 9834,Ford,Endeavour,2018,102507.0,CNG,Manual,2755.0,Second,6900.0
+TS 54 LZ 5827,Audi,Q5,2011,258677.0,Petrol,Automatic,3982.0,Fourth & Above,2600.0
+UP 07 VJ 1447,Mercedes,E-Class,2011,227648.0,Hybrid,Automatic,3982.0,First,2900.0
+HR 02 XD 3860,Mercedes,GLE,2012,131062.0,Hybrid,Automatic,2993.0,Second,4200.0
+KA 19 TE 9125,Audi,A6,2024,25096.0,Diesel,Automatic,1998.0,Second,29800.0
+KA 07 FO 7533,Tata,Altroz,2017,117304.0,Diesel,Manual,999.0,Third,3600.0
+KL 34 EQ 8122,Mahindra,Scorpio,2025,19471.0,CNG,Manual,1999.0,Fourth & Above,19200.0
+AP 79 UI 6488,Toyota,RAV4,2024,25902.0,CNG,Manual,1799.0,First,19200.0
+WB 89 FK 9972,Mercedes,GLC,2013,140531.0,Electric,Manual,0.0,Second,4900.0
+HR 33 GB 1388,Toyota,Innova,2010,262118.0,Petrol,Manual,1497.0,Fourth & Above,2500.0
+MH 49 VY 4027,Audi,A4,2011,264402.0,Diesel,Manual,1998.0,First,2900.0
+WB 99 YK 5216,Honda,Accord,2018,91207.0,Petrol,Automatic,1598.0,Third,4900.0
+KA 63 GT 7432,Ford,Mustang,2018,128699.0,CNG,Manual,3198.0,Third,5200.0
+TN 10 CS 5105,Ford,EcoSport,2013,126778.0,Diesel,Manual,1999.0,Fourth & Above,2800.0
+AP 74 AQ 9039,Mahindra,Thar,2025,13049.0,Petrol,Automatic,1197.0,Third,19600.0
+KL 16 SR 6880,Mahindra,Bolero,2022,69885.0,Petrol,Manual,1598.0,First,11500.0
+HR 83 GF 1644,Hyundai,Verna,2019,87572.0,Petrol,Automatic,999.0,Third,6100.0
+DL 18 BG 1415,Tata,Harrier,2019,109297.0,Hybrid,Automatic,1999.0,First,5100.0
+KL 03 BK 1918,Tesla,Model S,2017,117282.0,Electric,Automatic,0.0,Fourth & Above,8800.0
+KA 05 XE 9010,Hyundai,Verna,2011,182672.0,CNG,Automatic,1999.0,Second,2500.0
+HR 13 OT 3796,Volkswagen,Polo,2025,20545.0,Diesel,Manual,1197.0,First,17900.0
+WB 52 KD 9943,Audi,A4,2013,122223.0,CNG,Manual,2497.0,First,4800.0
+AP 22 WL 3703,Ford,F-150,2016,159795.0,Hybrid,Manual,3198.0,First,3300.0
+KA 01 AF 2460,Mahindra,XUV700,2011,144169.0,CNG,Automatic,2198.0,Second,2500.0
+HR 67 ON 4919,Tesla,Model S,2019,89365.0,Electric,Manual,0.0,Second,11500.0
+GJ 31 GD 9686,Ford,Endeavour,2011,213309.0,CNG,Manual,3198.0,Third,2500.0
+HR 07 GD 3444,Honda,Amaze,2021,88083.0,CNG,Manual,1999.0,Fourth & Above,7200.0
+HR 43 TZ 8424,Volkswagen,Virtus,2025,13443.0,Petrol,Manual,1497.0,Third,16100.0
+KL 76 SK 7865,Toyota,Camry,2011,260432.0,Petrol,Automatic,999.0,First,2500.0
+DL 10 PS 8936,BMW,X3,2017,144412.0,Petrol,Manual,2247.5,Fourth & Above,7300.0
+DL 81 LI 4313,Toyota,Highlander,2014,125377.0,Diesel,Automatic,2755.0,Third,3200.0
+TS 29 JT 3568,Hyundai,Sonata,2011,225070.0,Diesel,Manual,1598.0,Fourth & Above,2500.0
+HR 02 XN 5041,Volkswagen,Jetta,2017,84210.0,Electric,Manual,0.0,Fourth & Above,5300.0
+TN 61 XY 9261,BMW,X3,2023,45951.0,CNG,Manual,3982.0,First,30400.0
+TN 89 XN 4571,Toyota,Highlander,2022,55362.0,Petrol,Automatic,2755.0,Fourth & Above,11100.0
+UP 96 SA 8452,Ford,F-150,2019,77730.0,Petrol,Automatic,2755.0,Third,9000.0
+TS 68 BJ 7977,Mahindra,XUV700,2022,43884.0,Electric,Manual,0.0,First,10900.0
+TS 60 TB 6989,Mercedes,S-Class,2016,160093.0,Hybrid,Manual,1998.0,Third,5500.0
+KL 95 YS 4437,Hyundai,Sonata,2012,194600.0,Diesel,Automatic,1799.0,Second,2500.0
+TS 58 PQ 9629,Tesla,Model 3,2020,71232.0,Electric,Automatic,0.0,First,13800.0
+MH 37 CD 3699,Honda,City,2019,90111.0,Petrol,Manual,999.0,Fourth & Above,4600.0
+GJ 17 PL 7883,Mercedes,C-Class,2014,160059.0,CNG,Manual,3982.0,Third,5500.0
+WB 42 PS 9686,Mahindra,Thar,2019,70322.0,Diesel,Automatic,1799.0,Fourth & Above,6600.0
+HR 99 BE 6785,Maruti,Dzire,2024,29574.0,Hybrid,Manual,1197.0,Third,9900.0
+WB 20 FH 2915,Mercedes,GLE,2015,157692.0,Diesel,Automatic,2497.0,Second,6100.0
+KL 70 FR 5940,Toyota,RAV4,2014,151385.0,Diesel,Manual,1497.0,Third,2500.0
+GJ 65 KU 5842,Honda,Civic,2022,73316.0,Electric,Automatic,0.0,Second,7100.0
+TN 18 VR 2914,Mahindra,Scorpio,2014,195863.0,Electric,Automatic,0.0,First,2500.0
+DL 75 QH 5553,Mercedes,C-Class,2022,58582.0,Hybrid,Manual,1998.0,Third,23900.0
+UP 66 BV 6915,BMW,3 Series,2012,190159.0,Petrol,Automatic,3982.0,Second,2900.0
+GJ 12 GX 8278,Tata,Harrier,2023,37580.0,Hybrid,Automatic,1497.0,Third,13600.0
+UP 12 EG 5968,Tesla,Model Y,2024,25995.0,Electric,Automatic,0.0,Second,35000.0
+HR 54 FR 8571,Mahindra,Scorpio,2012,246004.0,Electric,Manual,0.0,First,2500.0
+HR 75 JP 8593,Tesla,Model S,2014,124240.0,Electric,Automatic,0.0,First,6200.0
+KL 89 UH 1466,BMW,3 Series,2010,154844.0,Electric,Manual,0.0,Third,2800.0
+KL 89 DL 9397,Honda,CR-V,2025,19210.0,Hybrid,Automatic,1497.0,Fourth & Above,15800.0
+MH 46 FB 5467,Tesla,Model S,2010,264896.0,Electric,Manual,0.0,Third,2500.0
+MH 70 KK 5932,Hyundai,Creta,2021,44602.0,Petrol,Manual,999.0,Second,8800.0
+KL 53 KF 2678,Mercedes,GLC,2013,175881.0,Diesel,Manual,2993.0,Second,3600.0
+KA 17 AP 6705,BMW,5 Series,2017,151022.0,CNG,Manual,3982.0,Fourth & Above,8100.0
+KA 29 EW 3332,Mercedes,GLC,2014,198603.0,CNG,Automatic,2993.0,Second,3600.0
+KL 97 NB 4217,Tesla,Model 3,2019,66294.0,Electric,Automatic,0.0,First,12500.0
+KA 16 TG 4277,Honda,Civic,2011,194996.0,Petrol,Manual,1999.0,Third,2500.0
+UP 31 QS 2119,Ford,F-150,2010,146908.0,Hybrid,Automatic,2755.0,Third,2500.0
+DL 65 WP 7004,Honda,Amaze,2010,216477.0,Hybrid,Manual,1999.0,First,2500.0
+GJ 30 ND 6149,Tesla,Model S,2015,141194.0,Electric,Automatic,0.0,Fourth & Above,5700.0
+KA 50 JO 6111,Honda,City,2013,174547.0,Hybrid,Automatic,999.0,First,2500.0
+KL 87 LF 1209,Volkswagen,Virtus,2017,124014.0,Electric,Manual,0.0,First,4400.0
+UP 14 XF 2060,Volkswagen,Virtus,2013,158618.0,Petrol,Manual,1598.0,Second,2500.0
+KL 36 YW 5472,Hyundai,Sonata,2020,81184.0,Electric,Manual,0.0,Second,7600.0
+KL 14 DI 9017,Volkswagen,Virtus,2021,67203.0,Electric,Automatic,0.0,Third,7700.0
+WB 42 EJ 2578,Mahindra,XUV700,2014,103518.0,Petrol,Automatic,2755.0,First,3000.0
+GJ 70 AY 1517,Honda,Amaze,2025,17735.0,Electric,Automatic,0.0,Third,15500.0
+GJ 85 YJ 3689,Tata,Nexon,2022,54416.0,Electric,Automatic,0.0,First,8400.0
+MH 65 BM 5315,Mahindra,Bolero,2014,136051.0,Petrol,Automatic,1598.0,Fourth & Above,2600.0
+TS 95 SA 6591,Mahindra,Bolero,2021,80461.0,Petrol,Manual,1197.0,First,9400.0
+HR 76 CW 2073,Tata,Nexon,2023,36783.0,Hybrid,Manual,1197.0,Second,11000.0
+KL 76 AK 7188,Mercedes,C-Class,2020,61340.0,Petrol,Automatic,3982.0,Fourth & Above,16500.0
+WB 44 FT 5907,Audi,Q7,2020,86585.0,Petrol,Manual,3982.0,Third,14500.0
+UP 52 ZH 2506,Hyundai,Creta,2016,134084.0,Petrol,Manual,1497.0,Third,2500.0
+KA 84 JQ 5913,Tesla,Model S,2013,183035.0,Electric,Automatic,0.0,Fourth & Above,3100.0
+GJ 24 SP 4489,Tata,Tiago,2020,81184.0,CNG,Automatic,999.0,Second,7600.0
+KL 19 HE 5919,Volkswagen,Virtus,2018,142103.0,CNG,Automatic,1799.0,First,3600.0
+HR 88 TH 7649,Tata,Altroz,2020,104255.0,Diesel,Automatic,1497.0,Third,6300.0
+TN 26 FI 3235,BMW,3 Series,2014,121012.0,Hybrid,Automatic,3982.0,Fourth & Above,5800.0
+KA 41 TJ 2041,Toyota,RAV4,2018,118397.0,Petrol,Automatic,999.0,First,6300.0
+KA 67 VS 9605,Tata,Safari,2012,171924.0,Diesel,Manual,1799.0,First,2500.0
+DL 19 DF 4507,Mercedes,GLE,2012,146819.0,Hybrid,Automatic,2497.0,Fourth & Above,4600.0
+AP 61 VH 5550,Mercedes,GLE,2023,34987.0,Electric,Automatic,0.0,First,27300.0
+AP 40 UW 6945,Ford,F-150,2025,19442.0,Petrol,Manual,2755.0,First,21300.0
+DL 39 GF 8190,Volkswagen,Polo,2017,117304.0,Electric,Automatic,0.0,Third,2900.0
+TS 92 ND 3627,Volkswagen,Tiguan,2023,49775.0,Petrol,Automatic,1999.0,Fourth & Above,11600.0
+TN 83 UF 8264,Tesla,Model Y,2012,164668.0,Electric,Automatic,0.0,Fourth & Above,3600.0
+WB 98 ET 7722,Volkswagen,Jetta,2010,195619.0,Hybrid,Manual,1197.0,First,2500.0
+TS 24 MM 4677,Hyundai,Creta,2025,18269.0,Diesel,Automatic,1197.0,Third,13700.0
+AP 77 IE 2459,Toyota,Camry,2017,158512.0,Diesel,Automatic,999.0,Second,3800.0
+DL 25 ZI 5717,Hyundai,Sonata,2013,108938.0,Electric,Automatic,0.0,First,2500.0
+DL 54 FN 3391,Tesla,Model Y,2022,41633.0,Electric,Manual,0.0,Third,24800.0
+MH 42 WM 4476,Toyota,RAV4,2018,85642.0,Diesel,Automatic,999.0,Fourth & Above,5700.0
+DL 61 LT 1745,Tesla,Model Y,2023,48108.0,Electric,Manual,0.0,First,24500.0
+MH 65 PK 8669,Toyota,RAV4,2022,46679.0,Hybrid,Manual,1799.0,First,11900.0
+KL 36 XL 8046,Ford,Mustang,2020,93347.0,Hybrid,Manual,2198.0,Third,10200.0
+WB 82 ZO 1871,Mercedes,GLC,2018,108100.0,Diesel,Automatic,2497.0,Fourth & Above,11200.0
+KL 06 OL 8949,BMW,5 Series,2011,155622.0,Hybrid,Manual,3982.0,Fourth & Above,2900.0
+MH 22 XQ 5469,Mahindra,Bolero,2013,218426.0,Petrol,Automatic,1197.0,First,2500.0
+WB 13 KA 5657,Audi,A6,2010,215445.0,Electric,Manual,0.0,Second,2500.0
+WB 62 OU 5412,Volkswagen,Polo,2022,51658.0,Petrol,Automatic,999.0,Second,9100.0
+TN 83 JK 1909,Audi,A4,2020,109810.0,Electric,Automatic,0.0,Second,11800.0
+DL 21 MY 7592,Tesla,Model 3,2022,37722.0,Electric,Automatic,0.0,First,20200.0
+GJ 26 PO 7358,Mercedes,E-Class,2013,147015.0,Hybrid,Manual,1998.0,Third,5100.0
+TN 66 KO 4673,Mahindra,Scorpio,2023,29396.0,Hybrid,Manual,1999.0,Fourth & Above,13200.0
+KL 39 EE 5921,Volkswagen,Jetta,2025,16861.0,Petrol,Automatic,1598.0,Fourth & Above,15200.0
+KL 85 XS 5151,BMW,7 Series,2023,34055.0,Petrol,Manual,3982.0,First,27100.0
+TN 11 NW 5876,Hyundai,Tucson,2012,220675.0,Electric,Manual,0.0,Second,2500.0
+UP 34 VD 8107,Hyundai,i20,2024,33946.0,Hybrid,Automatic,1197.0,Second,11800.0
+UP 93 PJ 6910,Maruti,Swift,2010,192242.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+TN 90 GA 4428,Tesla,Model S,2022,65536.0,Electric,Manual,0.0,Second,18600.0
+MH 61 NA 2908,Mahindra,XUV700,2017,114725.0,CNG,Manual,3198.0,First,4600.0
+AP 07 KA 2682,Ford,Explorer,2024,38163.0,Electric,Manual,0.0,Second,17800.0
+GJ 76 XT 8993,Volkswagen,Virtus,2023,53406.0,CNG,Automatic,1598.0,First,11400.0
+UP 83 LO 8147,BMW,3 Series,2010,197784.0,Petrol,Automatic,3982.0,Fourth & Above,2500.0
+WB 44 TW 8675,Toyota,Corolla,2019,109711.0,Electric,Manual,0.0,Second,6900.0
+KA 86 PE 3839,Ford,F-150,2022,74724.0,Hybrid,Automatic,2755.0,Second,11800.0
+TN 03 LI 6849,BMW,5 Series,2025,11672.0,Electric,Automatic,0.0,Second,35500.0
+DL 16 RH 8968,Volkswagen,Jetta,2015,183652.0,Petrol,Manual,1598.0,Third,2500.0
+KL 59 YD 2734,Mercedes,GLC,2021,82549.0,CNG,Automatic,1998.0,Second,19500.0
+KL 98 QP 2626,Audi,A4,2011,197764.0,Petrol,Manual,2497.0,Third,2800.0
+KL 44 JQ 3805,Ford,F-150,2020,98641.0,Diesel,Automatic,2198.0,Fourth & Above,8100.0
+AP 53 NO 9456,Honda,CR-V,2021,78420.0,Diesel,Manual,1197.0,Fourth & Above,6400.0
+MH 56 BM 1607,Volkswagen,Tiguan,2010,202893.0,CNG,Manual,1497.0,First,2500.0
+GJ 39 XX 6139,Volkswagen,Jetta,2011,271580.0,CNG,Automatic,1598.0,Fourth & Above,2500.0
+GJ 80 ZT 8244,Hyundai,Elantra,2018,139458.0,Diesel,Automatic,1497.0,Fourth & Above,3300.0
+MH 67 RJ 4501,Tesla,Model Y,2022,67539.0,Electric,Manual,0.0,Third,20200.0
+DL 39 XN 9278,Honda,Amaze,2019,96521.0,Diesel,Manual,1799.0,First,5300.0
+TN 59 KH 9737,Honda,Civic,2021,56017.0,Petrol,Manual,1598.0,First,7500.0
+GJ 75 GY 6919,Audi,A6,2021,58627.0,CNG,Manual,2497.0,Fourth & Above,16500.0
+KL 28 OC 7050,Mahindra,Thar,2014,185710.0,Petrol,Manual,1598.0,First,2500.0
+AP 21 EQ 3082,Volkswagen,Virtus,2022,70217.0,Electric,Automatic,1497.0,Fourth & Above,10300.0
+MH 72 LD 7694,Mahindra,Bolero,2014,215216.0,CNG,Manual,1598.0,Second,2500.0
+HR 38 PA 3340,Honda,Civic,2021,69749.0,Diesel,Manual,1497.0,Third,8600.0
+GJ 45 CB 7841,Ford,Endeavour,2023,30036.0,Hybrid,Manual,4951.0,Second,14600.0
+KL 98 OV 8357,Mahindra,Scorpio,2024,38131.0,Electric,Manual,0.0,Second,14900.0
+TS 70 BV 8259,Ford,F-150,2012,227631.0,Electric,Automatic,0.0,Second,2500.0
+KA 25 TR 1866,Tesla,Model Y,2012,237062.0,Electric,Automatic,0.0,First,3100.0
+DL 91 SO 2386,Audi,A6,2025,15821.0,CNG,Manual,2993.0,First,40100.0
+GJ 41 MI 2491,Maruti,Ertiga,2020,73287.0,Petrol,Automatic,1197.0,Fourth & Above,4800.0
+TN 79 KF 1445,Honda,Civic,2015,121119.0,Petrol,Manual,1598.0,Third,2800.0
+KA 07 GH 4874,Tesla,Model 3,2019,85575.0,Electric,Automatic,0.0,Third,12700.0
+WB 30 AI 2663,Mahindra,Bolero,2013,141280.0,CNG,Automatic,1598.0,First,2500.0
+MH 32 RN 8401,BMW,7 Series,2014,135180.0,Petrol,Manual,2993.0,Second,5500.0
+HR 88 ML 4485,Toyota,Camry,2024,38705.0,Diesel,Manual,1598.0,First,16300.0
+MH 93 RI 8077,Audi,Q5,2011,147348.0,Petrol,Automatic,3982.0,First,3500.0
+TS 44 GO 6381,BMW,7 Series,2020,105817.0,Hybrid,Automatic,2497.0,Third,14500.0
+AP 72 WW 9011,Toyota,Innova,2014,174581.0,Electric,Manual,0.0,First,2500.0
+AP 77 LM 3903,Tata,Tiago,2012,225819.0,Petrol,Manual,1999.0,Fourth & Above,2500.0
+HR 88 WL 4137,Tesla,Model 3,2013,168895.0,Electric,Manual,0.0,Second,4000.0
+UP 27 AG 7489,Honda,Amaze,2019,114473.0,Electric,Automatic,0.0,First,4400.0
+KA 17 IS 4734,Honda,CR-V,2025,11479.0,CNG,Manual,1799.0,First,13900.0
+WB 87 UB 6292,Maruti,Brezza,2016,165859.0,CNG,Automatic,999.0,Fourth & Above,2500.0
+DL 07 IN 9723,Tata,Altroz,2018,76810.0,Electric,Automatic,0.0,First,6000.0
+KA 32 GF 6394,Mahindra,Scorpio,2010,193036.0,CNG,Manual,1999.0,Second,2500.0
+DL 44 BK 9514,Mercedes,C-Class,2013,110351.0,Petrol,Automatic,2497.0,Third,5100.0
+AP 41 WC 3089,BMW,3 Series,2024,34783.0,CNG,Manual,1998.0,First,35400.0
+AP 52 DT 7735,Toyota,Highlander,2011,168725.0,Petrol,Manual,2198.0,First,2500.0
+WB 04 OQ 6377,BMW,7 Series,2010,203402.0,Electric,Manual,0.0,Third,2500.0
+KL 93 TO 4046,Audi,A6,2013,120730.0,Petrol,Manual,2993.0,Second,4800.0
+GJ 19 EP 6057,BMW,5 Series,2011,131320.0,Electric,Automatic,0.0,Third,3900.0
+GJ 07 NL 4201,Audi,Q5,2019,82850.0,CNG,Manual,2497.0,First,13000.0
+AP 43 FD 8443,BMW,5 Series,2012,163488.0,Electric,Automatic,0.0,Third,3600.0
+TS 95 MG 7558,Toyota,Highlander,2017,158350.0,Diesel,Automatic,2755.0,Second,3900.0
+WB 75 YL 1719,Ford,Mustang,2021,42926.0,CNG,Manual,3198.0,Second,12400.0
+DL 03 FI 2657,Toyota,Corolla,2016,110285.0,Hybrid,Manual,1799.0,Third,4200.0
+TS 48 VF 9633,Toyota,Innova,2014,145620.0,Petrol,Automatic,1497.0,Second,2800.0
+TS 77 NU 5006,Audi,Q7,2012,133119.0,Diesel,Manual,3982.0,Second,4300.0
+HR 17 QS 9011,Toyota,Fortuner,2016,167620.0,Diesel,Automatic,2198.0,Second,3300.0
+MH 42 WL 9609,BMW,3 Series,2025,19369.0,Diesel,Automatic,3982.0,Third,38100.0
+DL 58 HM 4581,Tesla,Model Y,2025,16062.0,Electric,Manual,0.0,Second,34300.0
+HR 57 QL 4771,Mercedes,GLE,2022,59596.0,Hybrid,Automatic,2497.0,First,24800.0
+KL 41 IM 1404,Audi,A4,2024,28590.0,Electric,Automatic,0.0,Fourth & Above,30000.0
+KA 16 CL 1627,Ford,EcoSport,2017,97209.0,Petrol,Automatic,1497.0,First,6800.0
+MH 97 WX 9898,Maruti,Baleno,2020,62115.0,Hybrid,Automatic,1999.0,Second,5300.0
+GJ 98 EM 4728,Mercedes,C-Class,2019,78115.0,Electric,Automatic,0.0,First,14400.0
+TS 25 NY 7843,BMW,5 Series,2025,13685.0,CNG,Automatic,2993.0,Fourth & Above,42000.0
+WB 46 KH 7867,BMW,X5,2024,34179.0,Diesel,Manual,1998.0,Third,31600.0
+UP 78 SM 7247,Tata,Altroz,2019,79918.0,Petrol,Manual,1497.0,Second,6100.0
+KA 87 RF 1525,BMW,X5,2012,188582.0,Petrol,Automatic,2993.0,Fourth & Above,2700.0
+WB 68 CO 1941,Tesla,Model S,2025,10064.0,Electric,Automatic,0.0,Second,35200.0
+MH 69 NP 2126,Hyundai,i20,2010,159930.0,Electric,Automatic,0.0,Second,2500.0
+GJ 92 VO 5512,Tata,Harrier,2014,202692.0,Electric,Manual,0.0,Third,2500.0
+UP 06 XC 5717,BMW,3 Series,2014,153786.0,CNG,Manual,3982.0,Third,4800.0
+UP 94 NO 7302,Volkswagen,Virtus,2021,78862.0,Hybrid,Automatic,1598.0,Second,7600.0
+WB 09 WX 4559,Volkswagen,Jetta,2013,159944.0,Diesel,Manual,1999.0,Third,2500.0
+DL 65 BO 1437,Mahindra,Bolero,2013,234697.0,Petrol,Automatic,1598.0,Fourth & Above,2500.0
+MH 42 VX 8606,Honda,City,2022,48343.0,Diesel,Automatic,999.0,First,8600.0
+MH 22 AT 2646,Mahindra,Bolero,2012,127184.0,Electric,Manual,0.0,Fourth & Above,2500.0
+MH 28 WB 9721,Ford,F-150,2013,176068.0,Petrol,Manual,2755.0,Third,2500.0
+TN 07 YM 4305,BMW,X5,2011,249721.0,Petrol,Automatic,3982.0,Third,2500.0
+KA 29 DZ 3750,BMW,X3,2017,91062.0,Petrol,Manual,2497.0,Third,10700.0
+GJ 51 ND 4807,Tesla,Model 3,2011,183782.0,Electric,Automatic,0.0,Second,2700.0
+KA 85 IU 7045,BMW,3 Series,2021,57228.0,Hybrid,Manual,2497.0,Fourth & Above,19400.0
+KA 77 KU 7366,Toyota,Camry,2016,125179.0,Electric,Manual,0.0,Second,3900.0
+UP 58 MQ 4808,Volkswagen,Jetta,2020,62566.0,Hybrid,Automatic,1497.0,First,6600.0
+DL 80 CB 3253,Maruti,Ertiga,2010,168682.0,Petrol,Automatic,1999.0,Second,2500.0
+MH 36 KU 1648,Hyundai,Creta,2019,72643.0,Petrol,Manual,1999.0,Fourth & Above,6600.0
+WB 32 ZV 4644,Maruti,Dzire,2019,110454.0,Hybrid,Automatic,1197.0,Second,3700.0
+MH 27 EC 3845,Audi,Q7,2020,62531.0,Petrol,Automatic,2497.0,First,14000.0
+DL 55 FT 5079,Audi,A6,2017,120373.0,Electric,Automatic,0.0,Second,8900.0
+MH 61 ON 9278,Mercedes,GLC,2024,37160.0,Electric,Manual,0.0,Third,31600.0
+HR 77 RE 3878,Audi,Q7,2014,198526.0,Petrol,Automatic,1998.0,Fourth & Above,4100.0
+KL 26 EG 1068,Mercedes,GLE,2024,24249.0,CNG,Automatic,2993.0,First,30400.0
+WB 76 CN 1636,Toyota,Fortuner,2021,69275.0,Electric,Automatic,0.0,Fourth & Above,10500.0
+TN 84 MN 5043,Honda,City,2015,112110.0,Hybrid,Automatic,1999.0,Fourth & Above,3000.0
+MH 33 HT 3644,BMW,X5,2011,260665.0,Petrol,Manual,3982.0,Third,3100.0
+MH 55 IW 5951,Toyota,Camry,2012,206883.0,Electric,Manual,0.0,Second,2500.0
+DL 96 MW 6047,Maruti,Ertiga,2022,59378.0,Petrol,Manual,1197.0,Third,6300.0
+MH 23 LF 3200,Toyota,Corolla,2025,9295.0,Electric,Automatic,0.0,Third,23700.0
+MH 98 GI 7697,BMW,X5,2015,144728.0,CNG,Manual,2497.0,Second,5100.0
+DL 62 PV 2651,Mahindra,Thar,2015,98121.0,Petrol,Automatic,1497.0,First,3100.0
+TN 49 TQ 5355,Toyota,Camry,2018,125172.0,CNG,Manual,1197.0,First,5500.0
+AP 79 BL 6410,Mahindra,Bolero,2020,86608.0,Hybrid,Automatic,1497.0,Second,7600.0
+DL 48 OT 8785,Honda,Civic,2024,36018.0,Diesel,Manual,1799.0,First,11800.0
+TS 87 OH 8938,Maruti,Dzire,2016,83865.0,Hybrid,Manual,999.0,Third,3200.0
+DL 92 EQ 9267,Tata,Tiago,2012,165523.0,Electric,Manual,0.0,Fourth & Above,2500.0
+KL 85 RH 4987,Toyota,Corolla,2025,18173.0,CNG,Automatic,1598.0,Second,24400.0
+DL 93 IV 8803,BMW,5 Series,2012,131739.0,Petrol,Manual,3982.0,Third,4700.0
+UP 99 TC 6623,Volkswagen,Polo,2014,210262.0,Electric,Manual,0.0,Third,2500.0
+UP 25 XD 7025,Tata,Altroz,2023,50147.0,Petrol,Automatic,999.0,First,10000.0
+TS 87 ZE 9515,Ford,F-150,2022,56083.0,Petrol,Manual,4951.0,Fourth & Above,12900.0
+HR 29 PV 8467,Volkswagen,Jetta,2013,158543.0,Electric,Automatic,0.0,Second,2500.0
+UP 62 UG 9110,Ford,Endeavour,2019,69872.0,Petrol,Automatic,2198.0,Third,8200.0
+AP 39 VF 1353,Mercedes,GLE,2011,269503.0,Diesel,Manual,2497.0,First,3100.0
+HR 37 WG 9978,Maruti,Dzire,2020,76239.0,Hybrid,Automatic,999.0,Fourth & Above,4900.0
+MH 57 WP 5769,Tata,Nexon,2014,138975.0,Petrol,Automatic,1999.0,Fourth & Above,2500.0
+MH 49 NV 3756,Ford,Explorer,2016,162218.0,Petrol,Automatic,1999.0,First,3900.0
+MH 81 XM 5014,Toyota,Camry,2021,90426.0,Petrol,Manual,1799.0,Third,9400.0
+WB 85 CY 8596,Toyota,Camry,2017,109908.0,CNG,Manual,1999.0,Fourth & Above,6000.0
+WB 86 QH 1377,Volkswagen,Virtus,2018,117367.0,Petrol,Manual,999.0,First,4100.0
+AP 39 SE 2629,Audi,Q7,2018,120876.0,CNG,Manual,3982.0,Fourth & Above,10900.0
+UP 69 WZ 3033,Hyundai,Elantra,2015,136389.0,Electric,Automatic,0.0,First,2600.0
+UP 27 UF 2438,BMW,3 Series,2015,186601.0,Petrol,Automatic,1998.0,Third,3900.0
+WB 01 HJ 1756,Maruti,Brezza,2011,197423.5,Hybrid,Automatic,1598.0,Second,2500.0
+TN 31 BG 3321,Maruti,Brezza,2024,21758.0,Hybrid,Automatic,1999.0,Second,8800.0
+HR 34 MU 3675,Mercedes,E-Class,2014,168477.5,Hybrid,Automatic,3982.0,Second,3900.0
+WB 90 UG 7097,Tata,Altroz,2012,247969.0,Diesel,Manual,1999.0,First,2500.0
+DL 10 ID 9707,Audi,A6,2023,50912.0,Electric,Automatic,0.0,First,28400.0
+DL 36 AD 7179,Honda,Amaze,2023,29539.0,Hybrid,Automatic,1497.0,Third,12600.0
+UP 37 RI 2623,BMW,X5,2013,207249.0,CNG,Automatic,1998.0,Fourth & Above,3500.0
+TN 88 QW 3547,Toyota,Corolla,2020,107348.0,Hybrid,Automatic,1799.0,Fourth & Above,6900.0
+KL 24 OL 8678,Volkswagen,Jetta,2014,145397.0,Petrol,Automatic,1999.0,Second,2500.0
+TS 12 UC 2256,Maruti,Brezza,2018,143291.0,Diesel,Automatic,1497.0,First,2600.0
+AP 87 QX 3235,Tesla,Model 3,2012,136345.0,Electric,Automatic,0.0,First,4700.0
+WB 68 VT 1693,Mahindra,Bolero,2013,160176.0,Petrol,Automatic,1197.0,Third,2500.0
+MH 66 LB 7925,Audi,Q7,2015,166725.0,CNG,Manual,1998.0,Second,4600.0
+HR 28 AX 7449,Mahindra,Bolero,2015,130514.0,Diesel,Manual,1497.0,Third,3000.0
+KL 43 JL 2755,BMW,X3,2011,264882.0,Electric,Manual,0.0,Third,2500.0
+GJ 20 ND 8985,Toyota,RAV4,2015,133262.0,Electric,Automatic,0.0,Second,3100.0
+HR 14 OV 8198,Toyota,Corolla,2018,84669.0,Hybrid,Automatic,1197.0,Fourth & Above,6800.0
+AP 54 XK 1517,Ford,Explorer,2021,78377.0,Diesel,Manual,1497.0,Second,9400.0
+WB 92 EK 7551,Ford,Explorer,2025,22528.0,Petrol,Automatic,1799.0,Fourth & Above,22800.0
+WB 31 BV 6605,Maruti,Dzire,2014,110599.0,Petrol,Manual,1497.0,Second,2500.0
+MH 94 QF 5087,Tata,Tiago,2010,199650.0,Hybrid,Manual,0.0,Fourth & Above,2500.0
+KA 90 XQ 3968,Mercedes,C-Class,2018,145529.0,Electric,Manual,0.0,Fourth & Above,9400.0
+UP 26 CB 7231,BMW,7 Series,2014,125055.0,Petrol,Automatic,2497.0,Second,5700.0
+AP 83 BJ 2803,Tata,Tiago,2019,109931.0,Diesel,Automatic,1598.0,Fourth & Above,4500.0
+TN 85 XK 4473,Mercedes,GLC,2018,143286.0,Diesel,Automatic,2497.0,First,7800.0
+KA 13 VA 3134,Mercedes,GLE,2018,138081.0,Diesel,Automatic,2993.0,Fourth & Above,8900.0
+UP 50 CD 3137,Hyundai,Tucson,2021,80502.0,CNG,Automatic,1999.0,Second,6800.0
+GJ 80 KJ 8769,Volkswagen,Polo,2011,212632.0,Diesel,Manual,999.0,Fourth & Above,2500.0
+KA 56 CP 7864,BMW,7 Series,2014,103024.0,CNG,Automatic,2993.0,Third,6400.0
+DL 95 MP 9723,Maruti,Ertiga,2010,156806.0,Diesel,Automatic,1799.0,First,2500.0
+MH 01 FS 4568,Maruti,Swift,2015,139189.0,CNG,Automatic,1799.0,Fourth & Above,2500.0
+GJ 16 FH 1747,Audi,A4,2024,29958.0,Hybrid,Automatic,2993.0,Second,32600.0
+DL 27 RD 1022,Maruti,Baleno,2019,60328.0,Hybrid,Manual,999.0,Third,4800.0
+HR 42 BU 1170,Volkswagen,Tiguan,2021,61013.0,CNG,Automatic,1598.0,Second,9900.0
+WB 82 TR 4377,Hyundai,Sonata,2018,83025.0,CNG,Manual,1999.0,Fourth & Above,4600.0
+AP 48 EP 2535,Mahindra,XUV700,2020,67454.0,Electric,Manual,0.0,Fourth & Above,7300.0
+MH 23 MV 4077,Mahindra,XUV700,2024,24149.0,Diesel,Automatic,3198.0,Second,13400.0
+TN 78 DM 7291,Honda,Accord,2012,174515.0,Electric,Manual,0.0,Second,2500.0
+WB 77 AZ 1153,Toyota,Camry,2010,253729.0,Petrol,Manual,999.0,Second,2500.0
+KL 20 HB 9905,Honda,Amaze,2020,81184.0,Diesel,Automatic,1197.0,Fourth & Above,5400.0
+AP 19 AH 1393,Tesla,Model Y,2013,107935.0,Electric,Automatic,0.0,First,5500.0
+KA 29 DJ 6854,BMW,X5,2022,41516.0,Diesel,Automatic,3982.0,First,21400.0
+TS 77 FV 7967,Honda,Amaze,2020,59794.0,Petrol,Manual,1197.0,Second,6700.0
+KA 01 EY 3401,Ford,F-150,2019,81802.0,Electric,Automatic,0.0,Third,9100.0
+HR 19 CK 3089,Hyundai,Sonata,2022,54055.0,Electric,Manual,0.0,First,9600.0
+WB 32 MN 9144,Ford,EcoSport,2021,58661.0,Electric,Automatic,0.0,Second,13000.0
+DL 90 CH 6926,Maruti,Ertiga,2025,17610.0,Electric,Manual,0.0,Fourth & Above,11700.0
+MH 38 OE 7898,Toyota,Corolla,2010,188879.0,Diesel,Manual,1497.0,First,2500.0
+KA 85 SC 8812,BMW,5 Series,2017,78579.0,Diesel,Automatic,3982.0,First,10300.0
+MH 61 XE 9641,Audi,A6,2010,153066.0,Diesel,Manual,3982.0,First,2500.0
+WB 05 TY 3843,Tesla,Model Y,2025,14464.0,Electric,Automatic,0.0,First,33800.0
+AP 21 IC 9544,Maruti,Baleno,2010,203765.0,Electric,Automatic,0.0,Third,2500.0
+KL 62 KU 7637,Tata,Harrier,2016,121264.0,Electric,Manual,0.0,First,3600.0
+UP 43 AH 5623,Tata,Harrier,2011,244087.0,Diesel,Automatic,999.0,First,2500.0
+KA 73 SB 8926,Ford,Endeavour,2013,115879.0,Hybrid,Manual,2198.0,Second,3000.0
+AP 93 LE 2595,Toyota,Camry,2020,55827.0,Hybrid,Automatic,1799.0,Fourth & Above,8900.0
+TN 38 FE 8587,Hyundai,Creta,2013,173383.0,Petrol,Automatic,1799.0,Fourth & Above,2500.0
+TS 38 LT 8059,Honda,Civic,2017,155826.0,Diesel,Manual,1598.0,Third,3100.0
+KL 13 ZA 3336,Toyota,Innova,2022,46552.0,CNG,Manual,1799.0,Second,13700.0
+TS 46 CC 3935,Mercedes,S-Class,2012,184666.0,Diesel,Automatic,1998.0,Second,3000.0
+KL 06 LJ 7568,Tesla,Model Y,2018,147805.0,Electric,Manual,0.0,First,9400.0
+GJ 58 IV 1699,Tata,Tiago,2014,151949.0,Hybrid,Automatic,999.0,Third,2500.0
+AP 10 HM 8573,Audi,A4,2017,138220.0,Diesel,Manual,3982.0,Third,6700.0
+KA 51 YN 4268,Volkswagen,Polo,2021,66863.0,Diesel,Manual,0.0,First,7800.0
+KL 05 RE 8699,Tata,Safari,2012,161405.0,Electric,Manual,0.0,Fourth & Above,2500.0
+KL 28 BG 1375,Ford,Explorer,2020,87043.0,Electric,Manual,0.0,Third,10000.0
+KL 54 QG 5250,Volkswagen,Virtus,2018,85870.0,Diesel,Manual,1598.0,Third,4700.0
+KL 61 RW 3632,Ford,Mustang,2012,240008.0,Hybrid,Manual,3198.0,Second,2500.0
+UP 79 EK 6185,Tesla,Model Y,2021,88911.0,Electric,Manual,0.0,First,17800.0
+TN 58 EU 8361,Toyota,Corolla,2024,37674.0,Hybrid,Manual,1197.0,Fourth & Above,17700.0
+DL 25 VS 1235,Volkswagen,Polo,2011,157709.0,Electric,Manual,1197.0,Fourth & Above,2500.0
+TS 70 NQ 6502,Hyundai,Tucson,2010,178538.0,Petrol,Automatic,1598.0,Fourth & Above,2500.0
+WB 89 VN 5640,Honda,Accord,2024,26275.0,CNG,Manual,1598.0,Fourth & Above,12200.0
+AP 14 PX 9924,Tesla,Model S,2013,237620.0,Electric,Manual,0.0,First,3500.0
+DL 61 DL 8601,Honda,City,2011,224563.0,Diesel,Manual,1799.0,Fourth & Above,2500.0
+AP 87 HA 7792,Tata,Altroz,2010,282467.0,CNG,Automatic,1999.0,Third,2500.0
+AP 31 RM 4156,Toyota,Camry,2010,155037.0,CNG,Automatic,1197.0,Third,2500.0
+GJ 21 NH 2631,Audi,Q7,2011,243511.0,CNG,Automatic,3982.0,Second,2900.0
+KA 04 NA 3507,Tesla,Model 3,2013,190224.0,Electric,Manual,0.0,Third,3100.0
+DL 39 GR 5018,Toyota,Fortuner,2012,193152.0,Diesel,Automatic,2476.5,Third,2500.0
+UP 16 DE 5627,Tesla,Model Y,2018,118840.0,Electric,Manual,0.0,First,8600.0
+AP 10 PU 2250,Mercedes,E-Class,2012,127211.0,Diesel,Automatic,3982.0,First,5000.0
+MH 85 SU 1515,BMW,X5,2022,71122.0,Electric,Manual,0.0,Second,19800.0
+KA 25 TA 9781,Honda,CR-V,2021,67651.0,CNG,Manual,1799.0,Second,8100.0
+MH 35 IP 4264,Toyota,Fortuner,2014,124416.0,Diesel,Manual,2755.0,Third,3000.0
+DL 88 WI 7436,Honda,CR-V,2019,92929.0,Electric,Automatic,0.0,Second,4800.0
+HR 41 TD 7275,Honda,Amaze,2019,69419.0,CNG,Automatic,0.0,Fourth & Above,5700.0
+HR 76 NJ 9691,Tata,Harrier,2021,62228.0,Petrol,Automatic,999.0,Second,9500.0
+DL 85 LL 3376,Hyundai,Creta,2010,150580.0,Electric,Manual,0.0,Third,2500.0
+DL 72 CM 5646,Hyundai,Elantra,2010,180017.0,Hybrid,Manual,1799.0,Fourth & Above,2500.0
+TS 26 GB 9092,Audi,A6,2016,92404.0,CNG,Manual,3982.0,Fourth & Above,8000.0
+HR 03 UZ 1076,Mahindra,Thar,2018,99195.0,Diesel,Automatic,1197.0,Fourth & Above,5400.0
+KL 13 ZN 5931,Mahindra,Scorpio,2014,199608.0,CNG,Manual,1999.0,Third,2500.0
+KL 64 UD 7126,Mercedes,GLC,2021,63243.0,Hybrid,Automatic,3982.0,First,18800.0
+KA 25 XZ 7043,Audi,A4,2010,168144.0,Diesel,Manual,3982.0,Third,2500.0
+UP 49 IW 3790,Maruti,Swift,2011,163092.0,Petrol,Manual,999.0,Third,2500.0
+DL 74 PV 9029,Ford,Endeavour,2024,20675.0,Diesel,Automatic,2198.0,Fourth & Above,20300.0
+DL 89 CC 9103,Mercedes,GLC,2025,12313.0,Hybrid,Manual,2497.0,Third,42400.0
+DL 76 YQ 9420,Toyota,Corolla,2010,238152.0,Electric,Manual,0.0,Fourth & Above,2500.0
+KL 80 QG 7556,Hyundai,Tucson,2024,33497.0,Petrol,Manual,1497.0,Second,12600.0
+KA 31 AO 4064,BMW,3 Series,2018,101592.0,CNG,Manual,3982.0,Second,12200.0
+MH 51 QN 9321,Mercedes,C-Class,2025,17429.0,Hybrid,Manual,2993.0,First,39000.0
+AP 23 TI 9676,Hyundai,Elantra,2024,22843.0,Electric,Automatic,0.0,Second,12800.0
+TN 74 IH 2078,Audi,Q7,2023,28475.0,Diesel,Manual,1998.0,Second,23500.0
+HR 64 GF 4335,Maruti,Swift,2018,108104.5,Electric,Automatic,0.0,Fourth & Above,3200.0
+UP 62 XJ 4909,Hyundai,Verna,2019,107561.0,Petrol,Manual,1799.0,Second,5600.0
+AP 43 AF 5322,Ford,F-150,2012,137658.0,Electric,Manual,0.0,First,2700.0
+TN 03 SV 5762,Honda,Accord,2010,227918.0,CNG,Manual,1197.0,Fourth & Above,2500.0
+TS 70 IV 8970,BMW,7 Series,2015,175150.0,Petrol,Automatic,3982.0,Third,4700.0
+WB 03 EN 4608,Mercedes,GLC,2024,18681.0,Hybrid,Automatic,2993.0,First,36800.0
+DL 49 UD 5487,Volkswagen,Jetta,2021,66869.0,Electric,Automatic,0.0,Second,9200.0
+TN 75 QW 6624,Volkswagen,Virtus,2015,120900.0,Hybrid,Automatic,1497.0,Fourth & Above,2900.0
+WB 19 OV 3461,Audi,A4,2023,51126.0,Hybrid,Automatic,1998.0,First,24900.0
+UP 16 BP 6010,Maruti,Brezza,2015,123554.0,Hybrid,Manual,999.0,Fourth & Above,2500.0
+GJ 86 YR 3540,Toyota,Highlander,2021,74015.0,Hybrid,Manual,3198.0,Third,11200.0
+TS 32 ZV 7328,Honda,CR-V,2014,217296.0,CNG,Manual,1197.0,Third,2500.0
+TS 75 EV 4268,Tata,Altroz,2013,224775.0,CNG,Automatic,1799.0,Second,2500.0
+AP 13 EQ 8240,Mercedes,E-Class,2023,42832.0,Petrol,Automatic,2497.0,Fourth & Above,27000.0
+GJ 04 YN 2448,Tesla,Model Y,2021,66129.0,Electric,Automatic,0.0,Fourth & Above,15900.0
+AP 17 MV 1097,Ford,Endeavour,2019,114385.0,Hybrid,Manual,2198.0,Third,7600.0
+TS 08 DX 9369,Mahindra,Bolero,2011,134779.0,Petrol,Automatic,1497.0,First,2500.0
+WB 82 EJ 6093,Tesla,Model S,2011,228300.0,Electric,Automatic,0.0,Second,2500.0
+KA 67 DH 4347,Tesla,Model 3,2025,16039.0,Electric,Manual,0.0,Second,38600.0
+MH 31 RI 8194,Honda,City,2010,264011.0,Petrol,Manual,1598.0,Third,2500.0
+GJ 26 PP 5751,Volkswagen,Polo,2023,29474.0,Diesel,Manual,1799.0,Second,13800.0
+AP 19 AJ 8488,Mercedes,C-Class,2025,13774.0,Electric,Manual,0.0,Fourth & Above,39300.0
+KL 93 OI 1149,Honda,Amaze,2022,34651.0,CNG,Automatic,1497.0,First,11200.0
+TS 84 XS 6558,Ford,F-150,2016,118708.0,Electric,Manual,0.0,Second,4900.0
+KL 78 VF 9306,Mahindra,XUV700,2018,130430.0,Electric,Manual,0.0,Fourth & Above,4300.0
+MH 30 DV 2740,Volkswagen,Tiguan,2014,183087.0,CNG,Automatic,999.0,Fourth & Above,2500.0
+AP 09 BT 5103,Mahindra,Bolero,2020,98519.0,Diesel,Manual,1999.0,Second,7700.0
+AP 18 US 4272,Honda,Civic,2012,176311.0,Petrol,Manual,999.0,Third,2500.0
+TN 81 VD 4334,BMW,X3,2025,14519.0,Diesel,Manual,2497.0,Fourth & Above,33700.0
+WB 68 PG 4399,Toyota,Corolla,2010,188161.0,CNG,Manual,1197.0,Third,2500.0
+KA 73 CE 9474,Audi,Q7,2021,62423.0,CNG,Manual,3982.0,Fourth & Above,19100.0
+HR 33 MW 6863,Mercedes,C-Class,2013,170038.0,CNG,Automatic,2497.0,First,4300.0
+KA 75 PI 1491,Honda,Accord,2019,64535.0,CNG,Automatic,1799.0,Fourth & Above,5100.0
+TS 97 VB 4860,Toyota,RAV4,2023,34164.0,Petrol,Manual,1799.0,Second,17200.0
+HR 93 BD 1583,Mahindra,Thar,2011,173159.0,Electric,Manual,0.0,Fourth & Above,2500.0
+DL 69 TM 1296,Mahindra,XUV700,2021,63789.0,Diesel,Manual,2198.0,First,9900.0
+KL 16 TL 6763,Maruti,Dzire,2011,180577.0,Diesel,Automatic,1799.0,Fourth & Above,2500.0
+GJ 73 BZ 1244,BMW,X3,2023,53494.0,Petrol,Manual,3982.0,Second,27700.0
+UP 84 HJ 3125,Tesla,Model 3,2011,132998.0,Electric,Automatic,0.0,First,3500.0
+TS 29 OW 5959,Audi,Q7,2025,18202.0,Petrol,Automatic,3982.0,Second,38600.0
+AP 91 TP 5583,Hyundai,i20,2019,118804.0,Hybrid,Automatic,1098.0,First,4500.0
+MH 05 HW 8213,Honda,Accord,2014,200055.0,Hybrid,Manual,1497.0,First,2500.0
+KA 08 IT 7290,Volkswagen,Virtus,2013,111112.0,Hybrid,Automatic,1497.0,Fourth & Above,2800.0
+TN 85 JB 9872,Mahindra,Thar,2022,48564.0,Diesel,Automatic,1999.0,Second,10800.0
+UP 56 NZ 1935,Hyundai,Elantra,2020,107991.0,CNG,Manual,1497.0,First,6000.0
+GJ 34 FM 8656,Honda,Amaze,2022,74828.0,Hybrid,Automatic,1799.0,Fourth & Above,8900.0
+HR 44 SM 1632,Tesla,Model 3,2014,207048.0,Electric,Manual,0.0,Second,4200.0
+TS 34 FO 8581,Audi,Q5,2021,55439.0,CNG,Manual,2993.0,First,19300.0
+KA 36 TR 6145,Toyota,Highlander,2010,207493.0,Electric,Manual,0.0,Fourth & Above,2500.0
+MH 80 UB 4812,Honda,City,2015,120527.0,Hybrid,Automatic,1197.0,Second,2800.0
+TN 92 II 1264,Honda,Civic,2015,167730.0,CNG,Automatic,1799.0,First,2500.0
+DL 42 SL 7815,Volkswagen,Tiguan,2011,212485.0,Petrol,Automatic,1799.0,First,2500.0
+HR 80 AF 7034,Honda,City,2019,68321.0,Hybrid,Automatic,1999.0,Fourth & Above,5600.0
+GJ 75 WL 4520,Toyota,RAV4,2014,206526.0,CNG,Manual,1799.0,Third,2500.0
+UP 81 RX 7849,Tata,Tiago,2011,220159.0,Petrol,Manual,1799.0,Second,2500.0
+UP 38 HK 4982,Maruti,Swift,2011,214702.0,CNG,Automatic,1497.0,Third,2500.0
+GJ 65 CL 8932,Hyundai,Sonata,2024,27185.0,Diesel,Automatic,1497.0,Fourth & Above,11700.0
+HR 44 KD 2335,Audi,A6,2024,33645.0,Diesel,Manual,2497.0,Fourth & Above,31200.0
+AP 34 YR 8698,Tata,Altroz,2014,168651.0,Diesel,Manual,999.0,Fourth & Above,2500.0
+GJ 50 NL 3088,Tesla,Model 3,2014,204670.0,Electric,Manual,0.0,First,3500.0
+TS 58 NU 8368,Tata,Tiago,2017,137554.0,Hybrid,Manual,999.0,First,3700.0
+UP 76 LV 8430,Tesla,Model Y,2019,112836.0,Electric,Manual,0.0,Second,12800.0
+TN 73 QQ 9326,Tata,Safari,2024,23424.0,Hybrid,Manual,1497.0,Second,14200.0
+UP 79 KD 6690,Tata,Safari,2020,75073.0,Diesel,Manual,1598.0,Second,7000.0
+KA 30 VI 3310,Mercedes,E-Class,2013,144366.0,Diesel,Manual,2993.0,Third,5400.0
+TN 48 GJ 7987,Honda,Accord,2015,95618.0,CNG,Manual,1598.0,First,3400.0
+KL 34 CE 5562,Tesla,Model Y,2014,197904.0,Electric,Manual,0.0,Fourth & Above,4300.0
+TS 36 OU 9402,Tesla,Model S,2013,234111.0,Electric,Manual,0.0,Third,3100.0
+WB 05 UU 1130,Volkswagen,Polo,2020,102689.0,Petrol,Automatic,1799.0,Second,6700.0
+MH 94 PJ 3159,BMW,5 Series,2022,68765.0,Diesel,Automatic,2497.0,Fourth & Above,21200.0
+HR 79 MU 4845,BMW,3 Series,2016,81588.0,Petrol,Manual,1998.0,Second,9100.0
+WB 51 TL 9903,Volkswagen,Tiguan,2025,18121.0,Hybrid,Manual,1999.0,Third,17300.0
+AP 15 FO 6224,Mahindra,Scorpio,2013,137312.0,Hybrid,Automatic,1497.0,Fourth & Above,2500.0
+TN 38 IQ 4524,Volkswagen,Polo,2021,78667.0,Electric,Automatic,0.0,Fourth & Above,8600.0
+TN 35 PX 4587,Tata,Nexon,2020,65966.0,Electric,Automatic,0.0,Fourth & Above,7000.0
+UP 79 KE 9843,Hyundai,Verna,2011,168915.0,CNG,Manual,1999.0,Second,2500.0
+DL 47 RG 3572,Toyota,Innova,2010,257747.0,Hybrid,Automatic,1999.0,First,2500.0
+DL 02 BA 9627,Maruti,Dzire,2017,99762.0,Hybrid,Automatic,1197.0,Fourth & Above,3000.0
+DL 05 IX 3025,Honda,Amaze,2022,64822.0,Hybrid,Automatic,1197.0,First,9000.0
+AP 03 AX 9875,Tata,Altroz,2014,198701.0,Petrol,Manual,1799.0,First,2500.0
+TN 39 IO 4320,Audi,A6,2013,203834.0,Diesel,Automatic,3982.0,Third,3400.0
+GJ 65 HM 1282,Honda,CR-V,2025,14483.0,Diesel,Automatic,1598.0,Third,14500.0
+DL 58 LP 2785,Mahindra,Bolero,2021,81993.0,Hybrid,Manual,0.0,First,8200.0
+KL 76 HC 3315,Volkswagen,Tiguan,2020,60145.0,Petrol,Manual,1197.0,Second,8700.0
+TS 20 BK 7660,Tata,Tiago,2025,17592.0,Diesel,Manual,1497.0,Fourth & Above,16100.0
+KL 91 PQ 2334,Toyota,RAV4,2016,159682.0,CNG,Automatic,1999.0,Third,3100.0
+KA 05 NP 3797,Honda,City,2012,168623.0,Diesel,Manual,1197.0,Second,2500.0
+HR 93 VI 9560,Volkswagen,Virtus,2014,189067.0,Electric,Manual,0.0,Third,2500.0
+KL 60 GK 3217,Hyundai,i20,2021,69854.0,Hybrid,Manual,1799.0,Third,7900.0
+DL 26 WD 9810,Ford,Endeavour,2025,10763.0,Diesel,Automatic,2198.0,First,22400.0
+DL 45 UA 4156,Mahindra,Scorpio,2013,114818.0,Diesel,Manual,1999.0,Third,2600.0
+MH 14 XG 5587,Mercedes,GLC,2023,43757.0,CNG,Automatic,2497.0,Third,24400.0
+UP 86 PG 3754,Ford,F-150,2013,123560.0,Electric,Automatic,0.0,Third,3600.0
+TS 10 BE 9383,Toyota,Corolla,2016,93347.0,Diesel,Manual,1598.0,Second,5500.0
+KL 46 JQ 6193,Mahindra,Bolero,2025,14272.0,Petrol,Manual,1598.0,Fourth & Above,20000.0
+HR 88 DR 8133,Maruti,Swift,2016,180317.0,Hybrid,Manual,1197.0,Fourth & Above,2500.0
+GJ 25 ML 3932,Volkswagen,Tiguan,2015,93245.0,Electric,Automatic,0.0,Fourth & Above,3200.0
+TS 33 QA 5473,Tesla,Model 3,2016,127312.0,Electric,Automatic,0.0,Third,6300.0
+KL 78 UO 9033,Toyota,Innova,2018,117927.0,Hybrid,Automatic,1497.0,First,6200.0
+KA 08 OU 2021,Ford,EcoSport,2013,110080.0,Diesel,Manual,999.0,Second,3300.0
+TS 91 FS 7000,Hyundai,Elantra,2018,144449.0,CNG,Manual,1999.0,Third,3900.0
+HR 11 FO 1729,Maruti,Swift,2022,52326.0,Petrol,Manual,1799.0,Second,6200.0
+KL 73 WC 8585,Mercedes,S-Class,2016,151508.0,Petrol,Automatic,2993.0,Third,5900.0
+TS 59 CX 5042,Honda,Civic,2012,138895.0,Hybrid,Manual,999.0,Second,2500.0
+AP 29 GI 4264,Mercedes,E-Class,2014,135775.0,Hybrid,Manual,2497.0,Third,5800.0
+WB 67 OU 3793,Ford,F-150,2018,121862.0,Electric,Automatic,0.0,Third,5700.0
+GJ 71 XZ 5406,Toyota,Fortuner,2022,41503.0,Electric,Automatic,0.0,Third,12300.0
+UP 42 LS 7191,Honda,Amaze,2016,108692.0,Petrol,Manual,1598.0,Second,2900.0
+WB 13 FL 6018,Volkswagen,Polo,2020,93595.0,Petrol,Manual,1598.0,Fourth & Above,6400.0
+DL 33 XL 6535,Ford,EcoSport,2015,173481.0,CNG,Automatic,1999.0,Fourth & Above,2800.0
+UP 52 SA 3687,Mahindra,Bolero,2019,63524.0,Diesel,Manual,1598.0,Fourth & Above,7700.0
+TN 12 JZ 3317,Maruti,Baleno,2019,122922.0,CNG,Manual,1197.0,Second,3500.0
+MH 31 GN 2477,Hyundai,Creta,2022,39617.0,Diesel,Manual,1497.0,Second,9300.0
+KA 61 RV 7456,Tesla,Model 3,2014,182548.0,Electric,Manual,0.0,Fourth & Above,3500.0
+MH 52 YK 5639,Tesla,Model 3,2025,19009.0,Electric,Manual,0.0,Fourth & Above,33000.0
+DL 48 LK 9215,Volkswagen,Virtus,2022,55752.0,CNG,Manual,1799.0,Second,9300.0
+AP 12 KM 3947,Toyota,Fortuner,2022,72165.0,Diesel,Automatic,2476.5,Second,10800.0
+AP 23 FM 9476,Tata,Harrier,2019,81477.0,Electric,Manual,0.0,Third,6800.0
+UP 65 MV 8449,Honda,City,2012,164410.0,Electric,Manual,0.0,Second,2500.0
+KL 65 LY 8758,Toyota,Highlander,2022,54714.0,Electric,Automatic,0.0,First,13400.0
+TS 91 SI 4237,Tesla,Model Y,2021,47298.0,Electric,Automatic,0.0,First,17900.0
+UP 88 LI 7974,Maruti,Ertiga,2024,27556.0,Petrol,Manual,1598.0,Fourth & Above,9500.0
+KL 42 JU 1583,Hyundai,Verna,2019,110772.0,Hybrid,Manual,1497.0,Third,4800.0
+KA 17 XE 9084,Audi,A4,2021,79720.0,Electric,Manual,0.0,Second,14900.0
+TN 19 TX 2656,Tata,Safari,2021,92348.0,Diesel,Automatic,999.0,First,6900.0
+HR 93 UX 2298,Tata,Tiago,2012,162835.0,Hybrid,Automatic,999.0,Fourth & Above,2500.0
+DL 98 NI 4042,Tata,Nexon,2016,142069.0,CNG,Manual,1497.0,First,3000.0
+AP 85 EI 5375,Mercedes,S-Class,2011,215332.0,Hybrid,Automatic,3982.0,First,2600.0
+UP 59 SN 6386,Mahindra,Scorpio,2013,133844.0,Hybrid,Manual,1799.0,First,2500.0
+KL 27 RW 3785,Maruti,Dzire,2025,18348.0,Hybrid,Automatic,1598.0,Third,10400.0
+KA 27 XQ 7048,Volkswagen,Virtus,2018,99877.0,CNG,Manual,1799.0,Fourth & Above,5800.0
+TN 97 JR 9040,Mercedes,GLC,2020,77959.0,Diesel,Manual,3982.0,Third,16100.0
+KA 74 JF 3606,BMW,X5,2014,146206.0,Petrol,Manual,2497.0,Fourth & Above,4600.0
+WB 14 VV 6206,Tesla,Model Y,2023,36431.0,Electric,Automatic,0.0,Third,29100.0
+MH 52 JA 9727,Maruti,Ertiga,2022,43619.0,Electric,Automatic,0.0,Fourth & Above,6400.0
+TN 80 HE 9247,Hyundai,Creta,2015,164561.0,CNG,Automatic,1598.0,Fourth & Above,2500.0
+TS 03 XT 7378,Honda,Amaze,2023,54664.0,Diesel,Manual,1999.0,Fourth & Above,9000.0
+DL 42 EJ 2061,Maruti,Ertiga,2016,166676.0,Hybrid,Manual,1598.0,Second,2500.0
+GJ 83 DZ 6427,Toyota,Corolla,2024,28918.0,Electric,Manual,0.0,Second,20800.0
+AP 34 WR 2982,Ford,Explorer,2024,31720.0,Petrol,Automatic,1598.0,Fourth & Above,16900.0
+TN 47 MW 9381,Tesla,Model S,2010,202474.0,Electric,Automatic,0.0,Fourth & Above,2600.0
+TS 19 HZ 8906,Volkswagen,Virtus,2023,49037.0,Hybrid,Manual,1497.0,Second,11700.0
+TS 38 WO 6417,BMW,X3,2013,150678.0,Electric,Automatic,0.0,Second,4700.0
+UP 47 WJ 6024,Mahindra,Scorpio,2018,115599.0,Diesel,Automatic,1197.0,First,5400.0
+HR 50 IU 4734,Tesla,Model 3,2019,93792.0,Electric,Manual,0.0,Second,11400.0
+TS 83 ES 9209,Toyota,Corolla,2019,67433.0,Hybrid,Automatic,1799.0,Fourth & Above,9200.0
+TN 86 CK 4683,Hyundai,i20,2021,63603.0,Diesel,Automatic,1598.0,Second,8800.0
+WB 02 XZ 9587,Mercedes,E-Class,2017,88942.0,Petrol,Manual,3982.0,Third,10600.0
+GJ 95 RC 1917,BMW,5 Series,2021,75806.0,Petrol,Automatic,2993.0,First,18400.0
+UP 35 RI 2496,Mahindra,XUV700,2017,99004.0,Diesel,Manual,2755.0,Fourth & Above,4000.0
+UP 98 SP 8606,Tesla,Model 3,2012,240389.0,Electric,Manual,0.0,Second,2800.0
+DL 13 RS 4522,Honda,Amaze,2011,197423.5,Diesel,Automatic,1598.0,First,2500.0
+HR 97 NT 5435,Audi,Q7,2019,99179.0,Petrol,Automatic,3982.0,Second,13800.0
+GJ 65 JU 8209,Mahindra,XUV700,2020,81494.0,Hybrid,Automatic,3198.0,Second,6900.0
+AP 87 JD 8261,Honda,Accord,2025,12638.0,CNG,Automatic,1197.0,Fourth & Above,14100.0
+GJ 61 DV 5916,Hyundai,Verna,2015,110730.0,Diesel,Manual,1799.0,Third,2800.0
+MH 42 QP 7830,Audi,A6,2014,136619.0,Electric,Manual,0.0,Second,5300.0
+TS 96 KO 6046,Tesla,Model Y,2017,158843.0,Electric,Automatic,0.0,Second,6300.0
+MH 59 YI 1319,Tata,Tiago,2022,63530.0,Electric,Manual,0.0,Fourth & Above,9000.0
+AP 42 RR 4267,Tesla,Model 3,2016,148229.0,Electric,Manual,0.0,Third,6200.0
+UP 61 BY 7390,BMW,7 Series,2024,29574.0,Diesel,Manual,3982.0,Third,35700.0
+WB 44 IR 7053,Tesla,Model S,2025,15446.0,Electric,Automatic,0.0,First,33100.0
+UP 39 SG 2441,Mahindra,Scorpio,2013,169862.0,Petrol,Automatic,1197.0,Fourth & Above,2500.0
+KA 90 WX 6143,Mahindra,XUV700,2020,86415.0,Hybrid,Automatic,2755.0,First,7900.0
+HR 33 TX 1379,Hyundai,Creta,2016,101287.0,Electric,Automatic,0.0,Third,3200.0
+TN 65 ZK 9827,Ford,Mustang,2023,41044.0,Petrol,Manual,2198.0,Third,16800.0
+GJ 12 SO 4127,Mahindra,Scorpio,2020,90000.0,CNG,Manual,1799.0,First,6400.0
+TS 59 QY 8084,Honda,City,2018,105814.0,Diesel,Automatic,1197.0,First,4500.0
+HR 29 SV 6351,Toyota,Highlander,2019,60757.0,Petrol,Manual,3198.0,Second,8300.0
+MH 13 AR 1646,Maruti,Dzire,2016,160290.0,Hybrid,Manual,1197.0,Second,2500.0
+AP 35 HG 6821,Ford,Endeavour,2021,90042.0,Hybrid,Manual,2755.0,Second,9700.0
+KL 52 GG 7234,Toyota,Corolla,2024,23254.0,Petrol,Automatic,1598.0,Second,16100.0
+KL 95 TL 6191,Audi,A4,2012,250720.0,CNG,Manual,2497.0,Second,2600.0
+KL 03 AM 7881,Tata,Harrier,2016,182714.0,Hybrid,Automatic,1799.0,Third,2500.0
+KA 84 UZ 7384,Tata,Nexon,2021,60259.0,Petrol,Automatic,1197.0,Third,9700.0
+MH 67 EE 8697,Mahindra,Thar,2018,126959.0,Petrol,Manual,1197.0,Second,4700.0
+GJ 20 XZ 3975,Toyota,Camry,2016,170278.0,Hybrid,Automatic,1598.0,Second,2800.0
+TN 04 KA 8708,Hyundai,Elantra,2015,93114.0,Electric,Automatic,0.0,Third,3300.0
+TS 29 CN 2086,Toyota,Innova,2014,206815.0,Electric,Manual,0.0,Second,2500.0
+TN 40 PP 5208,Honda,City,2024,40091.0,CNG,Automatic,1799.0,Second,13600.0
+GJ 17 ZE 4695,Ford,F-150,2021,91518.0,Petrol,Automatic,2755.0,Fourth & Above,9100.0
+WB 39 KW 8571,Volkswagen,Polo,2013,199374.0,CNG,Manual,1197.0,Second,2500.0
+DL 24 AE 1558,Volkswagen,Tiguan,2014,137852.0,Diesel,Manual,1999.0,Fourth & Above,2500.0
+UP 52 OG 8425,BMW,5 Series,2022,48189.0,Electric,Automatic,0.0,Second,24000.0
+KL 99 RO 2581,Audi,Q5,2024,20473.0,Hybrid,Automatic,2497.0,Third,29400.0
+KA 16 RW 5844,Volkswagen,Tiguan,2018,71511.0,Petrol,Manual,1197.0,First,6600.0
+WB 29 YA 4255,Ford,F-150,2019,90892.0,Petrol,Manual,2755.0,Fourth & Above,7100.0
+GJ 22 LF 2640,Tesla,Model S,2021,70398.0,Electric,Manual,0.0,Third,18400.0
+AP 38 MQ 7901,Volkswagen,Jetta,2017,151895.0,Electric,Automatic,1497.0,Second,2800.0
+HR 27 XT 2094,Mahindra,Bolero,2020,60919.0,Petrol,Manual,1999.0,Third,8300.0
+DL 32 LC 4707,Toyota,Highlander,2014,117544.0,Diesel,Automatic,4951.0,Second,3300.0
+TS 02 UD 9529,Mercedes,E-Class,2022,40897.0,Diesel,Manual,2497.0,Fourth & Above,26100.0
+UP 59 EC 6593,Mercedes,S-Class,2013,207709.0,Diesel,Automatic,1998.0,Third,3700.0
+KL 98 JH 9566,Mercedes,C-Class,2022,67540.0,Electric,Automatic,2497.0,Second,24800.0
+KA 99 IX 5519,Honda,Civic,2021,56464.0,Electric,Automatic,0.0,Fourth & Above,6900.0
+KL 32 SP 4627,Mercedes,S-Class,2020,77523.0,Hybrid,Manual,1998.0,First,17600.0
+KA 76 ZU 2615,Audi,Q7,2018,76440.0,Electric,Automatic,0.0,Fourth & Above,10200.0
+KL 59 SQ 1610,Audi,A4,2013,231629.0,CNG,Automatic,1998.0,Fourth & Above,3200.0
+KL 33 LV 6636,Tata,Altroz,2010,164289.0,Hybrid,Manual,1598.0,Third,2500.0
+GJ 83 KX 7575,Hyundai,Sonata,2018,100871.0,Electric,Automatic,0.0,Second,4100.0
+KA 82 MK 9146,Hyundai,Sonata,2025,18901.0,CNG,Manual,1497.0,Third,13800.0
+TS 97 FF 6288,Volkswagen,Jetta,2022,44509.0,Electric,Automatic,0.0,Third,11700.0
+KA 26 CC 7629,Toyota,Camry,2016,142820.0,CNG,Automatic,1598.0,Second,3900.0
+KA 42 HO 1668,Mercedes,E-Class,2020,82556.0,Electric,Manual,0.0,Third,16700.0
+DL 57 UZ 4538,BMW,7 Series,2014,178197.0,Electric,Manual,0.0,Second,3700.0
+UP 25 NF 9496,Ford,Mustang,2019,74140.0,CNG,Automatic,4951.0,Fourth & Above,8800.0
+DL 41 RL 2262,Audi,Q7,2022,65698.0,Hybrid,Automatic,2993.0,Fourth & Above,19800.0
+GJ 91 PR 6136,Tesla,Model 3,2020,104541.0,Electric,Manual,0.0,First,15600.0
+TN 59 TO 9145,Honda,Amaze,2017,140679.0,CNG,Manual,1497.0,Fourth & Above,3200.0
+MH 09 VL 2071,Audi,Q7,2012,247128.0,CNG,Automatic,2993.0,First,2900.0
+MH 51 GV 8407,Tesla,Model Y,2018,143699.0,Electric,Automatic,0.0,Fourth & Above,8900.0
+UP 07 WY 6871,Mercedes,S-Class,2019,82416.0,CNG,Automatic,2993.0,Second,15800.0
+TN 84 PX 2957,Audi,A4,2012,201058.0,Diesel,Manual,2497.0,Second,3200.0
+MH 44 FD 6098,Hyundai,Elantra,2013,230295.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+WB 82 CK 8401,Hyundai,Sonata,2023,53370.0,Diesel,Automatic,1197.0,Fourth & Above,9800.0
+GJ 02 AK 7303,Honda,Amaze,2018,69056.0,CNG,Manual,999.0,Third,4600.0
+KA 88 ET 7130,Mercedes,C-Class,2021,87790.0,Diesel,Automatic,2497.0,Second,20500.0
+GJ 16 ZJ 5774,Audi,A6,2024,34646.0,Diesel,Manual,1998.0,Fourth & Above,31200.0
+UP 44 OV 9978,Honda,CR-V,2015,154581.0,Petrol,Automatic,1799.0,Second,2500.0
+KL 25 ZM 1681,Tata,Altroz,2013,192193.0,Diesel,Automatic,1197.0,Second,2500.0
+GJ 73 SW 9715,Hyundai,Elantra,2025,20747.0,CNG,Manual,1999.0,First,16300.0
+KA 63 AP 2709,Maruti,Dzire,2016,109798.0,Diesel,Automatic,1598.0,Fourth & Above,2500.0
+HR 76 XS 9893,Hyundai,i20,2025,16320.0,Hybrid,Manual,1197.0,First,17900.0
+TN 88 NX 9329,Ford,F-150,2011,201332.0,Hybrid,Automatic,3198.0,Second,2500.0
+TS 10 WG 9114,Maruti,Baleno,2021,75235.0,Diesel,Manual,1197.0,Fourth & Above,6200.0
+TS 23 MH 7091,BMW,7 Series,2010,137763.0,Petrol,Automatic,2497.0,First,3400.0
+WB 95 IN 1167,Tata,Nexon,2014,114985.0,Hybrid,Automatic,1197.0,Third,3000.0
+AP 06 WY 8358,Tata,Altroz,2022,47727.0,Electric,Automatic,0.0,First,10500.0
+MH 95 IV 7524,Ford,Explorer,2012,202724.0,Electric,Manual,0.0,Second,2500.0
+GJ 64 GE 9490,Mercedes,S-Class,2019,79209.0,Petrol,Manual,2497.0,Fourth & Above,16400.0
+KA 31 NT 7076,Toyota,Highlander,2025,11008.0,Electric,Manual,0.0,First,23800.0
+TN 20 KI 3875,Mahindra,XUV700,2024,29104.0,CNG,Manual,3198.0,Second,13300.0
+DL 24 UG 6503,Hyundai,Creta,2016,171381.0,Electric,Manual,0.0,Third,2500.0
+TS 08 DV 2067,Volkswagen,Virtus,2010,268691.0,Diesel,Automatic,1197.0,Second,2500.0
+WB 30 AM 1056,Tata,Tiago,2010,228653.0,Hybrid,Automatic,1197.0,First,2500.0
+KL 74 UM 5627,Audi,A4,2022,64226.0,Diesel,Manual,1998.0,First,21700.0
+WB 59 PE 8441,Volkswagen,Virtus,2024,36155.0,Electric,Automatic,0.0,Third,16400.0
+TN 56 ZJ 3359,Maruti,Brezza,2017,88545.0,Diesel,Automatic,1197.0,Third,3000.0
+AP 54 NO 8410,Toyota,Highlander,2023,48486.0,Diesel,Automatic,3198.0,Second,13600.0
+DL 73 GX 6954,Mahindra,Bolero,2024,25575.0,Electric,Manual,0.0,Second,14400.0
+HR 80 NB 4267,Mahindra,Bolero,2021,74054.0,Diesel,Automatic,1799.0,First,9100.0
+DL 50 SV 3823,BMW,X3,2015,165310.0,Electric,Manual,0.0,Fourth & Above,4300.0
+MH 98 PK 9693,Mercedes,S-Class,2014,176248.0,Diesel,Manual,2993.0,Fourth & Above,4200.0
+TN 43 CK 6844,Tesla,Model S,2011,225576.0,Electric,Manual,0.0,First,3000.0
+MH 38 JD 3618,BMW,5 Series,2016,112020.0,CNG,Automatic,3982.0,Fourth & Above,7600.0
+HR 89 HD 3402,Ford,Explorer,2023,32194.0,Electric,Manual,0.0,Fourth & Above,18100.0
+UP 89 LO 3979,Mahindra,Thar,2011,142863.0,Electric,Automatic,0.0,Second,2500.0
+UP 39 VM 3449,Mahindra,Thar,2025,20733.0,Hybrid,Manual,999.0,Third,16300.0
+UP 54 FL 5140,Honda,Accord,2020,69712.0,Petrol,Automatic,999.0,Fourth & Above,6800.0
+DL 90 JI 8355,BMW,7 Series,2018,147180.0,Petrol,Automatic,2497.0,Third,7300.0
+MH 80 AX 1314,Tata,Safari,2011,165905.0,Electric,Manual,0.0,Third,2500.0
+GJ 55 NW 6605,Mercedes,GLE,2016,172973.0,Petrol,Automatic,2993.0,Fourth & Above,5400.0
+TS 66 DA 3105,Ford,F-150,2018,111145.0,Hybrid,Manual,2755.0,Fourth & Above,6900.0
+TN 95 ZK 2153,Honda,Accord,2012,138054.0,CNG,Manual,999.0,First,2500.0
+KA 24 CW 2500,Ford,Endeavour,2024,30943.0,Petrol,Manual,2755.0,First,17700.0
+DL 91 PT 4048,Toyota,Highlander,2017,94787.0,Electric,Automatic,0.0,Second,5600.0
+GJ 74 GW 3031,Mahindra,Scorpio,2011,189407.0,Petrol,Manual,1497.0,Second,2500.0
+UP 38 TN 9301,Tesla,Model 3,2016,100990.0,Electric,Manual,0.0,Fourth & Above,8700.0
+KA 08 CP 6639,Volkswagen,Tiguan,2016,126950.0,Diesel,Manual,1497.0,Third,3600.0
+TS 90 VT 2079,Tesla,Model 3,2023,30456.0,Electric,Manual,0.0,First,26100.0
+KL 41 RX 4117,Audi,Q5,2020,79015.0,Electric,Automatic,0.0,Fourth & Above,14100.0
+AP 60 OO 3501,BMW,7 Series,2015,95108.0,Electric,Automatic,0.0,Third,8700.0
+AP 85 FE 4013,Ford,EcoSport,2023,39289.5,Hybrid,Automatic,1598.0,Second,14800.0
+HR 71 IH 4112,BMW,3 Series,2010,192206.0,Hybrid,Manual,3982.0,First,2500.0
+KA 42 WP 5740,Mahindra,Bolero,2023,39289.5,Electric,Manual,0.0,Third,14700.0
+WB 80 NT 2996,Ford,Explorer,2025,18701.0,Petrol,Automatic,1497.0,Second,24000.0
+TS 54 HG 6344,Audi,A6,2019,82370.0,Diesel,Automatic,1998.0,Fourth & Above,11200.0
+TS 90 GE 6272,Tesla,Model 3,2020,90639.0,Electric,Automatic,0.0,Third,14900.0
+KA 50 YE 6269,Volkswagen,Jetta,2017,147195.0,CNG,Automatic,1497.0,First,3400.0
+HR 92 EL 1967,Honda,Amaze,2025,17228.0,Hybrid,Manual,1598.0,Fourth & Above,16600.0
+KL 41 TR 4277,Mahindra,XUV700,2017,131285.0,CNG,Automatic,3198.0,Second,4500.0
+TN 39 IG 3360,Volkswagen,Jetta,2013,143672.0,Diesel,Automatic,1598.0,Second,2500.0
+AP 72 FT 8276,Mercedes,C-Class,2010,236311.0,Petrol,Automatic,2497.0,Fourth & Above,2500.0
+TS 03 DB 6349,Hyundai,Elantra,2018,102266.0,CNG,Automatic,1197.0,Third,4600.0
+AP 23 KT 1565,Maruti,Dzire,2021,51414.0,Electric,Manual,0.0,Fourth & Above,6400.0
+KA 18 ED 9565,Volkswagen,Tiguan,2020,85211.0,CNG,Manual,1598.0,Second,6100.0
+KL 52 RB 9596,Ford,Explorer,2012,222541.0,Hybrid,Manual,1497.0,Fourth & Above,2500.0
+HR 30 HB 1396,Tata,Altroz,2014,163129.0,Diesel,Automatic,999.0,Second,2500.0
+AP 97 UV 7484,Toyota,Innova,2017,116251.0,Diesel,Manual,1799.0,Second,4800.0
+TN 27 HS 9052,Toyota,Fortuner,2019,94134.0,Electric,Manual,0.0,First,6600.0
+WB 96 TJ 5352,Toyota,RAV4,2012,195894.0,Diesel,Automatic,1197.0,Second,2500.0
+HR 51 DU 5675,Maruti,Brezza,2022,40200.0,CNG,Automatic,1197.0,Third,6900.0
+AP 14 XG 4279,Mahindra,Thar,2024,31672.0,CNG,Automatic,1197.0,Second,13500.0
+HR 28 QA 6077,Audi,Q5,2016,172936.0,Hybrid,Automatic,2497.0,First,5300.0
+UP 97 FP 8867,Toyota,Corolla,2015,184464.0,Electric,Automatic,0.0,Fourth & Above,2900.0
+UP 07 AI 1000,Maruti,Ertiga,2019,115318.0,Diesel,Manual,999.0,First,3900.0
+AP 95 LC 5587,Mercedes,GLE,2022,65994.0,Petrol,Manual,2497.0,Third,23400.0
+DL 16 UX 1497,Tata,Nexon,2019,114525.0,Hybrid,Manual,1598.0,Third,5700.0
+UP 62 CX 3511,Mahindra,XUV700,2010,149913.0,Electric,Automatic,0.0,Third,2500.0
+TN 74 BV 2032,BMW,3 Series,2022,60240.0,Electric,Automatic,0.0,Fourth & Above,21500.0
+WB 06 SN 9004,Mercedes,GLC,2025,12096.0,Hybrid,Manual,3982.0,Second,44300.0
+TS 93 RR 3387,BMW,3 Series,2019,84874.0,Electric,Automatic,0.0,Second,13000.0
+WB 97 PV 9884,Hyundai,Verna,2021,67331.0,Hybrid,Automatic,1497.0,Third,7100.0
+GJ 88 FB 6627,Tata,Safari,2023,28606.0,Diesel,Automatic,1999.0,Third,12200.0
+AP 15 QR 1687,Maruti,Baleno,2020,84740.0,Diesel,Manual,1999.0,Second,4500.0
+TS 71 MQ 7435,Maruti,Swift,2010,171956.0,Diesel,Manual,1598.0,Third,2500.0
+DL 92 AZ 9265,BMW,7 Series,2021,81242.0,Petrol,Manual,2497.0,Fourth & Above,19500.0
+GJ 82 DG 1385,Honda,City,2014,209680.0,Hybrid,Manual,1497.0,Fourth & Above,2500.0
+AP 46 VM 1173,Toyota,Camry,2019,66218.0,Hybrid,Manual,1598.0,Third,9400.0
+UP 06 VP 1516,Tesla,Model S,2019,82521.0,Electric,Automatic,0.0,Fourth & Above,13900.0
+UP 45 VP 1447,Mahindra,Scorpio,2021,45354.0,Electric,Manual,0.0,Fourth & Above,10400.0
+WB 13 OM 6527,Tata,Nexon,2025,16937.0,Hybrid,Manual,1497.0,First,17700.0
+WB 17 SV 1462,BMW,7 Series,2025,10582.0,Electric,Manual,0.0,Fourth & Above,34300.0
+GJ 63 FO 5806,Maruti,Dzire,2012,185142.0,CNG,Automatic,1497.0,First,2500.0
+TN 50 YX 3893,Ford,Mustang,2019,100785.0,Diesel,Manual,4951.0,Second,7600.0
+KA 13 FE 3162,Tata,Nexon,2019,71147.0,CNG,Automatic,1999.0,Second,6100.0
+KA 54 PB 5569,Tesla,Model S,2010,200562.0,Electric,Manual,0.0,Third,2500.0
+MH 16 AF 2415,Tata,Tiago,2023,27357.0,Hybrid,Automatic,1799.0,Fourth & Above,13900.0
+WB 24 SN 2898,Audi,A6,2016,129596.0,Hybrid,Automatic,1998.0,Fourth & Above,7900.0
+TN 15 QV 5356,Maruti,Swift,2017,92421.0,Electric,Manual,0.0,Third,2700.0
+KL 62 GD 3824,Audi,A4,2019,119175.0,Diesel,Automatic,2497.0,Second,11400.0
+KA 73 FH 7774,Tata,Tiago,2012,133963.0,CNG,Manual,1598.0,First,2500.0
+TN 25 VX 7122,Volkswagen,Tiguan,2017,117304.0,Electric,Manual,0.0,Third,3600.0
+HR 64 YC 8090,Tata,Altroz,2017,140884.0,CNG,Automatic,1197.0,Second,3500.0
+KL 84 ZK 5972,Audi,A4,2023,27329.0,Diesel,Manual,2993.0,Third,26400.0
+UP 89 RV 3248,Maruti,Ertiga,2020,107581.0,Electric,Automatic,0.0,Fourth & Above,4500.0
+HR 37 TQ 4732,Mahindra,Scorpio,2012,213700.0,CNG,Manual,1999.0,Third,2500.0
+HR 34 TN 4085,Hyundai,Tucson,2017,125335.0,Hybrid,Manual,1799.0,Third,3700.0
+MH 16 XX 5775,Audi,A6,2019,73041.0,CNG,Automatic,3982.0,Second,13900.0
+KL 92 IS 8521,Volkswagen,Jetta,2016,143346.0,Hybrid,Manual,1497.0,Fourth & Above,2800.0
+HR 64 OR 5539,Maruti,Brezza,2014,127855.0,Petrol,Automatic,999.0,Fourth & Above,2500.0
+AP 41 DE 3967,Maruti,Ertiga,2023,31179.0,Electric,Automatic,0.0,First,8500.0
+WB 55 GB 1981,Honda,CR-V,2011,127436.0,Petrol,Automatic,999.0,Second,2500.0
+UP 74 YI 6792,Toyota,Camry,2020,110488.0,Hybrid,Automatic,1197.0,Second,7000.0
+TN 21 CS 5419,BMW,5 Series,2010,218860.0,Diesel,Manual,2497.0,Fourth & Above,2500.0
+HR 14 AH 6054,Mahindra,Thar,2013,138630.0,Diesel,Automatic,1197.0,Second,2500.0
+AP 79 YM 1377,Tata,Tiago,2022,51775.0,Petrol,Automatic,1598.0,Fourth & Above,8900.0
+UP 50 OT 4366,Maruti,Brezza,2016,171146.0,CNG,Automatic,999.0,Third,2500.0
+TS 46 MI 5075,Hyundai,Sonata,2012,199929.0,Electric,Manual,0.0,Fourth & Above,2500.0
+TN 50 SL 6890,Tesla,Model Y,2017,110660.0,Electric,Manual,0.0,First,8900.0
+DL 35 LI 8840,Tata,Nexon,2025,15144.0,Electric,Manual,0.0,Fourth & Above,15500.0
+DL 12 WF 2513,Ford,Explorer,2017,117304.0,CNG,Manual,1598.0,First,4200.0
+AP 36 FH 7708,Audi,A4,2018,75068.0,Electric,Manual,0.0,Third,10600.0
+MH 31 AZ 4201,Mercedes,E-Class,2012,145823.0,Petrol,Manual,3982.0,Third,4700.0
+MH 69 FH 1143,Audi,A4,2012,222273.0,Diesel,Manual,2993.0,Fourth & Above,3100.0
+KL 20 EH 7016,Hyundai,Sonata,2018,106142.0,CNG,Manual,1197.0,Fourth & Above,4000.0
+AP 18 AJ 8549,Audi,Q5,2024,22616.0,Petrol,Manual,1998.0,Second,27400.0
+AP 97 IQ 7679,Maruti,Dzire,2022,57917.0,CNG,Automatic,1799.0,Third,6900.0
+AP 49 MJ 7121,Ford,Endeavour,2025,10408.0,Petrol,Automatic,2198.0,Third,24500.0
+MH 84 ZJ 7493,Toyota,RAV4,2025,11051.0,Electric,Manual,0.0,Fourth & Above,24500.0
+TS 27 OE 7812,BMW,5 Series,2010,276695.0,Hybrid,Automatic,3982.0,Fourth & Above,2500.0
+AP 84 NC 5816,Toyota,Corolla,2014,208335.0,Hybrid,Automatic,1497.0,First,2500.0
+HR 65 FA 2659,Hyundai,i20,2025,15821.0,Electric,Manual,0.0,Third,15200.0
+UP 59 LT 6350,Ford,Endeavour,2018,71828.0,CNG,Automatic,4951.0,First,7400.0
+TN 86 YR 9289,Mercedes,GLC,2011,243526.0,Electric,Automatic,0.0,Fourth & Above,3000.0
+AP 36 MH 1686,Honda,Accord,2022,49063.0,Hybrid,Manual,1197.0,Second,8100.0
+UP 33 GA 2085,Toyota,RAV4,2010,282347.0,CNG,Manual,1197.0,Fourth & Above,2500.0
+WB 59 ZK 7096,Ford,Mustang,2018,126327.0,Diesel,Automatic,4951.0,Second,5200.0
+AP 62 IK 9336,Mahindra,Scorpio,2020,88197.0,Diesel,Automatic,1197.0,Second,7900.0
+DL 32 OE 2615,Mercedes,GLE,2022,37418.0,Hybrid,Manual,2497.0,Second,27800.0
+MH 80 PV 2086,Tesla,Model S,2021,63231.0,Electric,Automatic,0.0,Third,16400.0
+TS 16 JH 8971,Hyundai,Elantra,2023,38906.0,Electric,Automatic,0.0,First,10700.0
+TS 76 MC 2649,Mahindra,Bolero,2016,130924.0,Hybrid,Manual,1497.0,Second,3200.0
+TN 18 JL 6853,Honda,Civic,2010,154721.0,Petrol,Manual,999.0,First,2500.0
+DL 22 MP 2761,Volkswagen,Polo,2011,147022.0,Petrol,Manual,999.0,First,2500.0
+HR 21 UY 9435,Mercedes,S-Class,2019,102184.0,CNG,Automatic,1998.0,Second,12800.0
+GJ 40 JU 7571,Honda,City,2017,135141.0,Hybrid,Manual,1598.0,Fourth & Above,3100.0
+TN 76 DE 2764,Tata,Harrier,2019,104480.0,Electric,Manual,0.0,Second,4600.0
+KA 83 VV 5956,Mahindra,XUV700,2014,184862.0,Hybrid,Automatic,4951.0,Second,2500.0
+TN 33 MF 9152,Tesla,Model 3,2025,15821.0,Electric,Manual,0.0,Third,32500.0
+MH 33 NC 8977,Mahindra,Bolero,2020,79239.0,Electric,Automatic,0.0,Second,6400.0
+AP 05 YA 6910,Hyundai,Sonata,2011,254592.0,CNG,Automatic,1197.0,Third,2500.0
+WB 85 XX 9273,Tesla,Model Y,2021,58277.0,Electric,Manual,0.0,Second,17100.0
+UP 71 JR 8478,Mercedes,S-Class,2022,72557.0,CNG,Manual,1998.0,Fourth & Above,21500.0
+UP 74 HK 4651,Toyota,RAV4,2020,52432.0,Petrol,Automatic,1598.0,Fourth & Above,11200.0
+DL 06 HO 4915,Mahindra,Scorpio,2019,122814.0,Diesel,Automatic,1497.0,Fourth & Above,4500.0
+WB 40 YT 1838,Tata,Nexon,2023,26737.0,Hybrid,Automatic,1799.0,First,13800.0
+DL 02 VN 2305,Mahindra,XUV700,2019,114998.0,Electric,Automatic,0.0,Second,5600.0
+HR 54 FN 4343,Hyundai,Verna,2017,158274.0,Diesel,Automatic,1999.0,Second,2700.0
+KA 01 HC 5424,Tesla,Model 3,2021,49607.0,Electric,Manual,0.0,First,22700.0
+HR 11 LZ 2507,Ford,Mustang,2024,25752.0,CNG,Automatic,4951.0,First,20800.0
+TS 21 QW 9762,Hyundai,Sonata,2022,67445.0,Hybrid,Manual,999.0,First,7900.0
+DL 80 UP 2096,BMW,X5,2021,45903.0,Electric,Manual,0.0,Fourth & Above,18800.0
+TN 58 GA 6823,Tesla,Model 3,2025,16405.0,Electric,Automatic,0.0,Second,41900.0
+KA 77 QR 2908,Toyota,Innova,2021,75097.0,Petrol,Automatic,999.0,Fourth & Above,9200.0
+GJ 55 JB 2746,Audi,A6,2025,17927.0,Hybrid,Manual,2993.0,First,33600.0
+GJ 47 CP 6052,Toyota,RAV4,2014,183771.0,Diesel,Automatic,1598.0,Third,2600.0
+GJ 78 TD 6939,Tesla,Model Y,2023,29606.0,Electric,Manual,0.0,First,30700.0
+DL 07 IJ 9868,Honda,Civic,2018,127713.0,Petrol,Manual,1799.0,Second,4200.0
+AP 12 VK 5408,Honda,Amaze,2019,123073.0,Petrol,Automatic,1497.0,First,5000.0
+TN 61 ZL 7651,Tesla,Model 3,2014,109045.0,Electric,Manual,0.0,First,6900.0
+UP 90 DU 1275,Maruti,Swift,2018,81463.0,Diesel,Manual,1197.0,Third,3300.0
+HR 74 ZX 4072,Mahindra,XUV700,2014,121153.0,CNG,Manual,2198.0,Fourth & Above,3000.0
+AP 76 NS 5713,Mahindra,XUV700,2011,187911.0,Electric,Manual,0.0,Third,2500.0
+DL 96 IW 3100,Mercedes,E-Class,2013,197917.0,CNG,Automatic,1998.0,First,3500.0
+WB 51 EG 5530,Audi,A6,2013,231727.0,Petrol,Manual,1998.0,Second,3600.0
+MH 19 XU 3019,Honda,Amaze,2010,236165.0,Petrol,Automatic,1497.0,First,2500.0
+AP 46 GV 4977,Hyundai,Tucson,2023,38437.0,Petrol,Automatic,1999.0,Second,10100.0
+TN 96 OQ 5736,Mahindra,Bolero,2018,101004.0,Electric,Automatic,0.0,Second,4600.0
+GJ 09 SO 6699,BMW,X5,2013,220132.0,Hybrid,Manual,1998.0,Fourth & Above,3500.0
+DL 57 EA 4840,Mercedes,E-Class,2024,24473.0,Electric,Automatic,0.0,Third,30700.0
+GJ 33 WD 5453,Volkswagen,Virtus,2022,45548.0,Hybrid,Manual,1497.0,First,11400.0
+WB 72 TS 9682,Volkswagen,Tiguan,2022,36080.0,Petrol,Manual,1497.0,Third,12100.0
+MH 14 XJ 7960,Ford,EcoSport,2010,152933.0,CNG,Automatic,999.0,Third,2500.0
+DL 32 KB 6507,Mercedes,GLC,2016,146564.0,CNG,Automatic,3982.0,First,6800.0
+MH 30 NB 4358,Hyundai,Creta,2017,122896.0,Electric,Manual,0.0,First,3100.0
+DL 48 DB 5201,Mahindra,Bolero,2012,131325.0,CNG,Automatic,1197.0,Second,2500.0
+DL 79 DC 5101,Toyota,Fortuner,2023,29729.0,CNG,Automatic,2198.0,Second,15200.0
+TS 13 CQ 4757,Audi,A6,2011,193510.0,Diesel,Manual,2497.0,Fourth & Above,2800.0
+WB 74 AV 5509,Audi,Q5,2010,198732.0,Hybrid,Automatic,1998.0,Second,2500.0
+KL 08 VO 4696,BMW,5 Series,2015,114944.0,Diesel,Manual,2497.0,Second,6200.0
+KA 21 PM 1124,Audi,A6,2011,142330.0,Diesel,Automatic,3982.0,Third,3000.0
+DL 10 EN 2776,Ford,F-150,2011,203692.0,Electric,Manual,0.0,First,2500.0
+UP 69 VS 4532,Tata,Harrier,2015,120356.0,CNG,Automatic,1197.0,Fourth & Above,3200.0
+TN 26 MJ 7152,Mahindra,Bolero,2015,159383.0,Hybrid,Automatic,1799.0,Third,2500.0
+KA 72 PM 3215,Maruti,Dzire,2012,235922.0,Diesel,Manual,1999.0,Second,2500.0
+GJ 11 KQ 9807,Toyota,Fortuner,2015,149219.0,Diesel,Manual,2198.0,First,3000.0
+DL 18 ZZ 4612,Honda,CR-V,2018,108104.5,Diesel,Manual,1598.0,Fourth & Above,5100.0
+TS 59 FV 5527,Tesla,Model S,2012,188013.0,Electric,Automatic,0.0,First,3200.0
+WB 75 CC 4119,Hyundai,Elantra,2011,238942.0,Petrol,Manual,1497.0,First,2500.0
+TS 41 MV 2886,Mahindra,Thar,2024,34829.0,Hybrid,Manual,1999.0,First,13500.0
+KA 20 FY 5734,Maruti,Brezza,2019,75596.0,Diesel,Automatic,1598.0,Third,4300.0
+TN 01 VI 5024,Maruti,Ertiga,2011,169992.0,CNG,Automatic,999.0,Fourth & Above,2500.0
+DL 53 EZ 5414,Tata,Safari,2020,57216.0,Hybrid,Manual,1347.0,Fourth & Above,7700.0
+TN 81 PB 7663,Maruti,Baleno,2020,71369.0,Hybrid,Manual,1999.0,Fourth & Above,4300.0
+WB 68 FE 2057,BMW,5 Series,2023,39289.5,Electric,Automatic,0.0,First,28800.0
+HR 83 FR 8760,Toyota,RAV4,2011,263681.0,Hybrid,Manual,1497.0,First,2500.0
+WB 09 EW 7554,Mahindra,XUV700,2016,121864.0,CNG,Manual,3198.0,Fourth & Above,3400.0
+AP 97 WE 7033,Audi,Q5,2015,148970.0,Hybrid,Automatic,2497.0,Third,4600.0
+AP 38 UM 3566,Tesla,Model S,2023,32654.0,Electric,Manual,0.0,Fourth & Above,30400.0
+WB 24 JG 1381,Hyundai,Tucson,2019,117808.0,Electric,Manual,1497.0,Third,4500.0
+TS 31 RW 9207,Volkswagen,Polo,2025,14417.0,Hybrid,Automatic,1197.0,First,18800.0
+WB 82 BJ 4912,Maruti,Baleno,2018,95414.0,Electric,Manual,0.0,Third,3000.0
+DL 19 ZD 2475,BMW,5 Series,2016,181268.0,Diesel,Automatic,1998.0,Third,5000.0
+WB 87 GP 4551,Honda,Amaze,2024,30409.0,Petrol,Manual,1197.0,Second,13200.0
+UP 98 QP 6364,Ford,EcoSport,2020,109123.0,Electric,Manual,0.0,First,9400.0
+TN 04 SD 6481,Tata,Nexon,2024,39648.0,CNG,Manual,1197.0,First,12300.0
+KL 34 XJ 2961,Tata,Nexon,2014,199607.0,Petrol,Manual,1497.0,Fourth & Above,2500.0
+TN 10 JT 2161,Tesla,Model Y,2010,272885.0,Electric,Automatic,0.0,Third,2500.0
+UP 18 YN 4190,Honda,Amaze,2019,65788.0,Diesel,Automatic,1497.0,Fourth & Above,6500.0
+AP 10 CI 1597,Ford,Explorer,2016,143680.0,Petrol,Manual,1497.0,Fourth & Above,3900.0
+TS 31 PM 8023,Tesla,Model S,2019,68248.0,Electric,Automatic,0.0,First,15400.0
+DL 47 MM 2448,Tata,Nexon,2013,120661.0,Petrol,Manual,999.0,Second,2500.0
+TS 46 BN 9340,Toyota,Highlander,2014,179479.0,Diesel,Manual,2755.0,Second,2500.0
+GJ 34 JX 1660,Maruti,Baleno,2023,44102.0,Electric,Automatic,0.0,Second,8400.0
+KL 86 RX 9660,Honda,Accord,2019,119765.0,CNG,Automatic,1497.0,Second,4300.0
+KL 89 WA 1778,Ford,EcoSport,2011,155374.0,CNG,Manual,999.0,First,2500.0
+MH 52 YT 7893,Maruti,Brezza,2012,226603.0,Diesel,Manual,1497.0,Fourth & Above,2500.0
+TS 75 MU 5066,Audi,Q7,2019,117686.0,CNG,Automatic,2993.0,First,9800.0
+DL 38 YE 8043,Ford,F-150,2013,146362.0,Hybrid,Manual,2755.0,Second,2500.0
+KL 98 NA 8241,Tata,Tiago,2011,184971.0,Hybrid,Automatic,1598.0,Second,2500.0
+TS 84 HQ 3269,Ford,Explorer,2019,100294.0,Diesel,Manual,1999.0,Third,8000.0
+UP 79 NK 1490,Volkswagen,Polo,2019,118549.0,Electric,Manual,0.0,Second,5800.0
+AP 74 ML 7667,Maruti,Baleno,2022,58055.0,Diesel,Automatic,999.0,Third,7300.0
+GJ 41 SK 2969,Volkswagen,Polo,2016,84421.0,Electric,Manual,0.0,Second,4500.0
+MH 62 YH 1016,Mercedes,E-Class,2018,97489.0,CNG,Automatic,1998.0,Third,12900.0
+AP 65 GC 2330,Toyota,Innova,2023,46641.0,Electric,Manual,0.0,First,13200.0
+UP 83 IC 5801,Volkswagen,Jetta,2020,101706.0,Petrol,Manual,1598.0,First,6500.0
+MH 07 XL 4612,Volkswagen,Polo,2020,53890.0,Diesel,Manual,1999.0,Fourth & Above,7800.0
+KL 18 XM 7744,Volkswagen,Tiguan,2018,68326.0,Electric,Automatic,0.0,Fourth & Above,5200.0
+MH 73 WT 2094,Volkswagen,Jetta,2014,140567.0,Petrol,Automatic,1598.0,Fourth & Above,2700.0
+DL 12 EK 6863,Mercedes,C-Class,2022,73161.0,Hybrid,Manual,2497.0,Second,19800.0
+DL 22 VD 2287,Tesla,Model 3,2016,119318.0,Electric,Automatic,0.0,First,7500.0
+KL 70 SL 7160,Audi,A6,2010,190648.0,Electric,Manual,0.0,Third,2500.0
+MH 75 KB 3307,Honda,Accord,2016,129314.0,CNG,Automatic,1497.0,Third,3000.0
+WB 33 DM 8707,Tata,Safari,2011,267339.0,Hybrid,Automatic,1197.0,First,2500.0
+MH 82 CP 9785,Maruti,Swift,2014,208568.0,Electric,Manual,0.0,Second,2500.0
+KL 94 VT 8175,Ford,Mustang,2016,110832.0,Electric,Manual,0.0,Third,5300.0
+DL 74 YO 1375,BMW,X5,2017,153883.0,Petrol,Manual,3982.0,Third,6100.0
+KL 31 MQ 3400,Mahindra,Bolero,2022,64207.0,Electric,Automatic,0.0,First,10100.0
+WB 21 CM 6997,Toyota,RAV4,2010,189753.0,Diesel,Manual,1999.0,Second,2500.0
+MH 10 SE 6363,Toyota,RAV4,2024,38488.0,Electric,Manual,0.0,First,17700.0
+GJ 37 ZR 1264,Audi,Q7,2024,35918.0,CNG,Automatic,3982.0,Second,31100.0
+HR 65 JU 3129,Ford,Explorer,2011,251824.0,CNG,Manual,1999.0,Fourth & Above,2500.0
+WB 70 QO 1586,Mercedes,S-Class,2020,102207.0,CNG,Manual,2993.0,First,14000.0
+DL 70 YV 4059,Tesla,Model S,2024,22527.0,Electric,Automatic,0.0,Fourth & Above,31200.0
+KL 50 RE 8151,Toyota,Fortuner,2024,25618.0,CNG,Manual,4951.0,Fourth & Above,19000.0
+WB 69 KV 9591,Maruti,Dzire,2014,197963.0,CNG,Manual,1999.0,Fourth & Above,2500.0
+TS 97 MM 6437,Toyota,Highlander,2015,167226.0,Hybrid,Manual,2198.0,Third,3000.0
+MH 68 MO 7456,Volkswagen,Virtus,2011,126094.0,Hybrid,Manual,1497.0,Third,2500.0
+DL 25 RS 2689,BMW,5 Series,2021,84768.0,Diesel,Manual,2993.0,Second,18900.0
+KL 23 KM 3747,Hyundai,Creta,2015,120418.0,Hybrid,Manual,1999.0,Third,3200.0
+GJ 14 RW 7409,Audi,A6,2022,71729.0,Diesel,Automatic,1998.0,Third,18400.0
+KL 99 VJ 5287,Hyundai,Tucson,2010,283219.0,Hybrid,Automatic,999.0,Third,2500.0
+MH 07 GQ 6465,BMW,3 Series,2016,114154.0,CNG,Manual,3982.0,First,8200.0
+HR 59 DK 6370,Audi,A6,2018,128820.0,Hybrid,Manual,2993.0,Fourth & Above,7900.0
+AP 58 KB 1263,BMW,3 Series,2016,155357.0,Diesel,Automatic,1998.0,Fourth & Above,5700.0
+MH 59 MT 9670,Audi,Q5,2014,183228.0,Petrol,Automatic,1998.0,First,4100.0
+DL 66 QR 6706,Honda,Amaze,2025,17035.0,Diesel,Automatic,1497.0,First,14700.0
+UP 65 NZ 8369,Tata,Harrier,2014,211450.0,Electric,Automatic,0.0,First,2500.0
+WB 36 RU 6562,Maruti,Dzire,2018,89562.0,Electric,Automatic,0.0,Third,4000.0
+HR 79 DC 8014,Tesla,Model S,2023,57122.0,Electric,Automatic,0.0,Second,24800.0
+DL 76 UH 2191,Hyundai,Elantra,2014,208933.0,Petrol,Manual,1497.0,Second,2500.0
+TN 67 GU 7974,BMW,5 Series,2013,212384.0,Petrol,Manual,2993.0,First,3300.0
+KL 19 PW 4638,Maruti,Baleno,2013,143045.0,CNG,Automatic,1799.0,Fourth & Above,2500.0
+GJ 95 WF 7042,Tata,Altroz,2024,32557.0,Electric,Manual,0.0,First,12300.0
+MH 26 TE 1116,Mercedes,E-Class,2012,184666.0,Diesel,Manual,2497.0,Second,3500.0
+DL 92 RO 6652,Volkswagen,Tiguan,2012,124211.0,Petrol,Manual,1497.0,Fourth & Above,2500.0
+KL 60 KI 6950,Toyota,Fortuner,2015,174978.0,Petrol,Automatic,2755.0,Second,3000.0
+GJ 86 XO 7265,Maruti,Brezza,2025,10975.0,CNG,Manual,1197.0,Third,12300.0
+KA 59 VG 4249,Volkswagen,Jetta,2013,158221.0,Diesel,Automatic,1999.0,First,2500.0
+UP 79 GX 7749,Mahindra,XUV700,2015,197940.0,Hybrid,Manual,2755.0,Second,2500.0
+MH 31 FK 6958,Ford,Mustang,2023,39289.5,CNG,Manual,2755.0,Third,16100.0
+WB 60 XX 9078,Tesla,Model 3,2016,116779.0,Electric,Automatic,0.0,First,7600.0
+KL 79 WX 2908,BMW,5 Series,2022,54714.0,CNG,Automatic,2497.0,Third,23700.0
+DL 86 TO 9634,Ford,EcoSport,2024,19337.0,Electric,Manual,0.0,Second,17600.0
+WB 97 DE 6968,Mahindra,Thar,2016,133614.0,Hybrid,Manual,1197.0,Second,3000.0
+UP 57 LV 4450,Tata,Nexon,2016,101860.0,Hybrid,Automatic,1799.0,Fourth & Above,3700.0
+TN 26 AI 5949,Tesla,Model S,2021,75796.0,Electric,Automatic,0.0,First,19300.0
+MH 27 XS 2533,BMW,X5,2012,230474.0,CNG,Automatic,3982.0,First,2700.0
+KL 36 UX 9378,Toyota,Corolla,2015,177633.0,CNG,Automatic,1197.0,First,2500.0
+KL 12 TD 3378,BMW,3 Series,2016,130924.0,Electric,Manual,0.0,Second,5700.0
+WB 18 BD 2462,Tata,Nexon,2014,185272.0,Diesel,Manual,1598.0,Fourth & Above,2500.0
+KL 18 XK 9669,Honda,Civic,2022,49625.0,Diesel,Manual,1799.0,First,9900.0
+TS 27 RA 3930,Mahindra,XUV700,2016,176535.0,Diesel,Manual,2755.0,Third,2500.0
+GJ 88 MU 9598,Mahindra,Scorpio,2013,127592.0,Diesel,Manual,1497.0,First,2500.0
+UP 25 WL 6733,Ford,F-150,2010,222535.0,Diesel,Manual,4951.0,Third,2500.0
+UP 64 AY 2592,Tesla,Model Y,2012,229408.0,Electric,Manual,0.0,Third,2700.0
+MH 28 AI 2227,BMW,X5,2013,124207.0,Hybrid,Automatic,3982.0,Third,4800.0
+MH 62 HR 9107,Tesla,Model 3,2010,153462.0,Electric,Automatic,0.0,First,2700.0
+MH 17 JQ 2753,Mercedes,C-Class,2015,155143.0,Petrol,Automatic,1998.0,Fourth & Above,5500.0
+KA 03 TL 7644,Hyundai,Tucson,2018,141867.0,Petrol,Manual,999.0,Third,3300.0
+TS 48 JN 3825,Mahindra,Bolero,2021,65306.0,CNG,Manual,1598.0,Third,9300.0
+GJ 08 YD 9424,BMW,X3,2025,17963.0,Hybrid,Automatic,1998.0,Fourth & Above,33600.0
+HR 98 CP 3652,Honda,Civic,2016,87310.0,Electric,Manual,0.0,First,3600.0
+KA 44 WB 8593,Tata,Tiago,2011,204723.0,Hybrid,Automatic,1197.0,First,2500.0
+TN 37 LQ 5514,Honda,Accord,2011,197423.5,Petrol,Automatic,1497.0,Second,2500.0
+TS 69 QV 6821,Mahindra,Scorpio,2016,161802.0,Diesel,Manual,1799.0,First,2800.0
+WB 26 TM 3565,Mahindra,Bolero,2023,44869.0,Diesel,Manual,1497.0,First,11600.0
+DL 18 WP 1310,Mahindra,Scorpio,2023,53436.0,Diesel,Manual,1799.0,Third,10700.0
+TN 58 SP 8657,Toyota,Camry,2018,98941.0,Hybrid,Automatic,999.0,First,6800.0
+WB 90 IS 1049,Honda,CR-V,2011,197423.5,CNG,Manual,1999.0,First,2500.0
+KL 51 ZT 9670,Hyundai,Sonata,2012,158021.0,Hybrid,Manual,1999.0,Third,2500.0
+AP 13 EG 8945,Mahindra,XUV700,2012,143174.0,Petrol,Automatic,3198.0,Fourth & Above,2500.0
+GJ 86 ST 5736,Mercedes,C-Class,2025,14863.0,Diesel,Manual,3982.0,Third,36300.0
+KL 07 QO 9856,Audi,A4,2024,33408.0,Hybrid,Manual,2497.0,Fourth & Above,26000.0
+WB 90 YT 9404,Ford,Mustang,2012,173867.0,Petrol,Automatic,2198.0,First,2500.0
+GJ 04 CR 7537,Audi,Q7,2014,205027.0,Electric,Manual,0.0,Third,4300.0
+TN 70 FB 1420,Mercedes,GLC,2014,116766.0,Hybrid,Manual,2993.0,Fourth & Above,6200.0
+HR 77 MC 2376,Mercedes,S-Class,2011,185098.0,Petrol,Manual,3982.0,Second,2900.0
+AP 75 VP 1819,Ford,Endeavour,2025,18105.0,Diesel,Automatic,4951.0,Second,24700.0
+KL 71 UH 3900,Mercedes,C-Class,2021,52938.0,Petrol,Automatic,2993.0,First,20400.0
+TN 78 NW 5637,Mahindra,Scorpio,2017,104507.0,Petrol,Automatic,1197.0,Fourth & Above,4300.0
+HR 20 CO 1190,Audi,Q7,2022,57753.0,CNG,Automatic,2993.0,First,21000.0
+MH 01 QS 4637,Ford,Endeavour,2020,55701.0,Hybrid,Manual,3198.0,Fourth & Above,10700.0
+AP 62 EY 9637,Mercedes,S-Class,2022,56315.0,CNG,Manual,2497.0,Fourth & Above,26800.0
+KA 76 YX 5067,Mahindra,Thar,2023,28993.0,Petrol,Automatic,1197.0,First,15600.0
+AP 01 KF 5073,Hyundai,Verna,2015,202336.0,Electric,Manual,0.0,Second,2500.0
+HR 97 JP 3369,Toyota,RAV4,2020,82755.0,Hybrid,Manual,1497.0,Second,9800.0
+AP 52 CP 8933,Mercedes,C-Class,2013,169862.0,Diesel,Automatic,1998.0,Third,4500.0
+KL 71 ED 5448,Tesla,Model 3,2014,183401.0,Electric,Manual,0.0,First,4300.0
+AP 81 MI 9944,Honda,City,2018,101487.0,Petrol,Manual,1799.0,Third,4000.0
+HR 89 CK 6575,Tata,Tiago,2017,138226.0,CNG,Automatic,1799.0,Third,3300.0
+KL 47 HW 7250,Audi,Q5,2020,97411.0,Petrol,Manual,1998.0,Second,15200.0
+GJ 97 YR 7469,Tesla,Model 3,2021,48567.0,Electric,Manual,0.0,Second,21900.0
+TN 49 PA 1805,BMW,X5,2020,67816.0,Diesel,Manual,2993.0,Third,15900.0
+AP 49 VI 8125,Toyota,Fortuner,2019,114684.0,CNG,Automatic,2198.0,Second,6200.0
+TS 63 YO 6569,Tata,Altroz,2023,29656.0,Hybrid,Manual,1497.0,First,11600.0
+TN 55 EH 7054,Maruti,Swift,2024,33884.0,Hybrid,Manual,1799.0,Second,10500.0
+AP 81 KT 6685,Mercedes,GLE,2022,67748.0,Diesel,Automatic,2993.0,Third,19300.0
+MH 98 ZO 8015,BMW,3 Series,2010,242867.0,Diesel,Manual,2497.0,First,2500.0
+MH 36 WD 2512,Mahindra,Bolero,2019,88141.0,CNG,Manual,999.0,Fourth & Above,5600.0
+GJ 02 DP 9458,Hyundai,i20,2018,109740.0,Electric,Manual,0.0,First,4700.0
+TN 35 OE 7693,Tata,Altroz,2025,15821.0,Petrol,Manual,1598.0,Third,18600.0
+KL 44 HN 6664,Mercedes,E-Class,2023,30205.0,Diesel,Manual,2993.0,Second,27000.0
+HR 66 FJ 3095,Tesla,Model S,2022,69785.0,Electric,Automatic,0.0,Second,19900.0
+AP 33 JU 7019,Honda,Amaze,2017,121826.0,Hybrid,Automatic,999.0,First,3700.0
+KL 37 YR 9048,Mercedes,GLE,2020,96865.0,Petrol,Manual,2497.0,Second,13500.0
+MH 63 FA 4139,Volkswagen,Polo,2024,28861.0,Diesel,Manual,1999.0,Third,15300.0
+TN 09 TZ 7341,Maruti,Ertiga,2022,63681.0,Electric,Automatic,0.0,First,6900.0
+GJ 19 IT 4759,BMW,3 Series,2018,93857.0,Petrol,Automatic,2993.0,Second,12100.0
+HR 66 CN 6658,Hyundai,Sonata,2019,61258.0,Petrol,Manual,1598.0,Fourth & Above,6100.0
+GJ 27 RL 2080,Ford,F-150,2018,88031.0,Hybrid,Automatic,4951.0,Third,6200.0
+KL 65 QV 5185,Mahindra,XUV700,2024,33301.0,Petrol,Automatic,2198.0,Second,13500.0
+MH 62 DI 8363,Maruti,Dzire,2023,56755.0,Diesel,Manual,1497.0,Third,7700.0
+DL 72 UH 8365,Volkswagen,Jetta,2018,95293.0,Petrol,Automatic,1197.0,Third,4800.0
+MH 73 GF 9471,Ford,Endeavour,2017,97613.0,Diesel,Manual,2198.0,Fourth & Above,5800.0
+TN 03 CW 9552,Maruti,Swift,2016,98262.0,Petrol,Manual,1197.0,Second,2500.0
+KA 38 GL 7286,Tata,Altroz,2023,36563.0,Petrol,Automatic,999.0,Fourth & Above,10200.0
+KA 76 QY 1776,Honda,CR-V,2011,259531.0,CNG,Automatic,1999.0,Third,2500.0
+UP 41 VZ 2600,Mahindra,Scorpio,2023,51556.0,CNG,Manual,1497.0,Second,11700.0
+HR 43 XS 7212,Toyota,Camry,2016,158311.0,Electric,Automatic,0.0,Second,2900.0
+KA 10 AU 7438,Mahindra,Thar,2020,52928.0,Electric,Automatic,0.0,Fourth & Above,8200.0
+KA 52 TS 5405,Hyundai,Tucson,2012,215070.0,Diesel,Automatic,1598.0,First,2500.0
+HR 71 EM 9753,Audi,Q7,2011,199479.0,CNG,Manual,3982.0,Fourth & Above,2600.0
+GJ 82 SD 8741,Tesla,Model S,2022,41799.0,Electric,Manual,0.0,Fourth & Above,23600.0
+KA 73 OM 1382,Maruti,Dzire,2012,165455.0,Hybrid,Automatic,1497.0,Second,2500.0
+WB 67 SR 4060,Tesla,Model S,2017,88158.0,Electric,Automatic,0.0,Third,9900.0
+TS 43 QK 2929,Tata,Nexon,2019,127657.0,Petrol,Automatic,999.0,Second,5100.0
+KA 13 RV 3370,Mahindra,Bolero,2024,23176.0,Diesel,Automatic,1598.0,Third,16200.0
+UP 10 OB 5330,Mercedes,C-Class,2022,72341.0,Diesel,Manual,3982.0,Second,20800.0
+TN 41 NY 9286,Tesla,Model S,2021,54847.0,Electric,Automatic,0.0,Third,18700.0
+TN 09 UM 4597,Ford,Mustang,2014,115637.0,Electric,Manual,0.0,First,4200.0
+KL 23 QF 6375,Tesla,Model Y,2023,33464.0,Electric,Manual,0.0,Second,25400.0
+KL 31 CE 7876,Tesla,Model Y,2010,140287.0,Electric,Manual,0.0,Second,3300.0
+TN 79 FO 2789,Honda,City,2021,41575.0,Hybrid,Manual,999.0,First,8600.0
+UP 18 GB 1537,Volkswagen,Polo,2020,60479.0,Petrol,Automatic,1598.0,Second,6700.0
+WB 12 QS 6116,Mahindra,Thar,2023,45531.0,Petrol,Automatic,1999.0,Third,14000.0
+DL 53 LE 5212,Maruti,Brezza,2019,75473.0,CNG,Automatic,1799.0,Fourth & Above,4400.0
+GJ 11 GY 2158,Mercedes,GLE,2013,161675.0,CNG,Manual,2497.0,Fourth & Above,4600.0
+KL 38 GZ 6897,Toyota,RAV4,2020,53131.0,CNG,Automatic,1999.0,Second,9000.0
+GJ 56 BX 8033,Mahindra,Scorpio,2017,107039.0,Electric,Manual,0.0,Fourth & Above,5000.0
+DL 49 ZU 5881,Mahindra,XUV700,2017,166061.0,Hybrid,Manual,2755.0,Third,2900.0
+KL 80 KL 2311,Tata,Harrier,2011,170839.0,Electric,Automatic,0.0,First,2500.0
+KL 81 WJ 1451,Hyundai,Creta,2015,147262.5,Petrol,Manual,1497.0,Third,2600.0
+WB 03 EK 5832,Volkswagen,Polo,2017,82309.0,Petrol,Automatic,999.0,Fourth & Above,5000.0
+TS 30 KI 2362,Tesla,Model Y,2022,37970.0,Electric,Manual,0.0,Fourth & Above,25100.0
+TN 02 FN 1831,Volkswagen,Jetta,2010,274542.0,Diesel,Automatic,1799.0,Third,2500.0
+UP 44 BO 5628,Honda,CR-V,2013,152295.0,Diesel,Automatic,1598.0,Third,2500.0
+UP 87 LU 1459,Toyota,Highlander,2013,207264.0,Diesel,Automatic,3198.0,First,2500.0
+UP 16 AI 6705,BMW,3 Series,2011,124029.0,CNG,Manual,1998.0,Third,3600.0
+KA 29 UK 3855,Ford,Mustang,2016,125866.0,Hybrid,Manual,3198.0,First,4700.0
+KA 05 BN 8977,Maruti,Brezza,2021,79972.0,Hybrid,Automatic,999.0,Second,5200.0
+KL 34 BY 4958,Audi,A4,2010,194359.0,CNG,Manual,3982.0,First,2500.0
+TS 29 AA 7432,Mahindra,Scorpio,2014,186824.0,Diesel,Automatic,1799.0,Third,2500.0
+TS 02 CP 4481,Mahindra,Bolero,2022,66736.0,Hybrid,Automatic,1497.0,First,9200.0
+UP 08 UF 3448,Tata,Safari,2018,76965.0,Hybrid,Manual,1799.0,Fourth & Above,5000.0
+TN 46 HA 9863,BMW,5 Series,2019,80553.0,Petrol,Manual,3982.0,First,15100.0
+MH 79 AJ 6480,Maruti,Dzire,2018,85043.0,Petrol,Manual,1598.0,Fourth & Above,3500.0
+AP 40 FM 1760,Mahindra,Scorpio,2024,25727.0,Diesel,Manual,1799.0,Second,16700.0
+MH 10 IO 8591,BMW,5 Series,2023,48660.0,Petrol,Manual,2993.0,Fourth & Above,25100.0
+GJ 01 FG 8068,Toyota,Innova,2014,98911.0,Petrol,Automatic,1197.0,Second,4000.0
+GJ 16 QS 9009,Tesla,Model 3,2013,191546.0,Electric,Manual,0.0,Third,3800.0
+TS 71 RC 6127,Tesla,Model 3,2021,71012.0,Electric,Automatic,0.0,Second,18300.0
+TS 31 PR 4538,Audi,Q7,2025,13437.0,Electric,Manual,0.0,First,39800.0
+HR 07 VD 9419,Honda,Amaze,2022,57964.0,CNG,Automatic,1799.0,Second,8300.0
+DL 18 VE 1969,Ford,Explorer,2025,10841.0,CNG,Manual,1799.0,Third,21100.0
+TS 74 TW 4215,Mercedes,C-Class,2018,91249.0,Diesel,Manual,1998.0,First,11700.0
+HR 92 WE 4588,Tesla,Model 3,2014,188225.0,Electric,Manual,0.0,Second,4400.0
+TN 98 EQ 2532,Ford,Explorer,2024,30362.0,Diesel,Manual,1497.0,Second,20800.0
+DL 57 OO 6830,Tata,Safari,2011,183657.0,Petrol,Manual,1999.0,Third,2500.0
+WB 88 XC 8695,Tata,Tiago,2013,185340.0,Petrol,Manual,1197.0,Second,2500.0
+GJ 36 CT 7342,Mercedes,GLE,2011,250726.0,CNG,Manual,1998.0,First,2600.0
+TN 47 MR 7038,Tata,Harrier,2014,168304.0,Diesel,Manual,1598.0,Fourth & Above,2500.0
+MH 11 SQ 7450,Tata,Altroz,2024,39588.0,Petrol,Automatic,1999.0,Second,13000.0
+AP 26 VJ 4089,Hyundai,Tucson,2011,167627.0,Hybrid,Automatic,1598.0,First,2500.0
+MH 22 ME 8108,Tesla,Model 3,2023,36522.0,Electric,Automatic,0.0,Second,26600.0
+GJ 90 KI 3478,Honda,Civic,2019,125828.0,Electric,Manual,0.0,Third,5000.0
+HR 92 CV 7230,Honda,Amaze,2011,203042.0,CNG,Manual,1197.0,Fourth & Above,2500.0
+WB 08 LR 4864,Mercedes,E-Class,2016,140190.0,Diesel,Automatic,2497.0,Fourth & Above,8000.0
+TS 86 QP 7646,BMW,5 Series,2018,144736.0,Petrol,Manual,1998.0,First,9100.0
+KL 52 SW 5395,Toyota,RAV4,2018,96451.0,Electric,Automatic,0.0,Fourth & Above,6000.0
+HR 51 MX 9237,Tesla,Model S,2020,107261.0,Electric,Automatic,0.0,Third,13700.0
+GJ 90 AS 6440,Tata,Nexon,2023,32380.0,Petrol,Manual,1497.0,Third,11700.0
+TS 74 MM 5949,Audi,Q5,2012,227808.0,Electric,Manual,0.0,Third,3200.0
+UP 16 IF 7304,Mahindra,XUV700,2013,216906.0,Electric,Automatic,0.0,Second,2500.0
+KA 39 YK 6061,Honda,CR-V,2011,274469.0,CNG,Manual,1197.0,Second,2500.0
+WB 03 AR 2998,BMW,3 Series,2024,29211.0,Electric,Manual,0.0,First,36600.0
+MH 27 LV 5577,Mahindra,Scorpio,2015,105110.0,Hybrid,Automatic,1799.0,First,3300.0
+WB 87 PB 2842,Tesla,Model 3,2023,53697.0,Electric,Automatic,0.0,Third,27800.0
+KL 60 OE 8044,Mahindra,XUV700,2015,188401.0,Petrol,Automatic,2755.0,Third,2500.0
+WB 90 LE 8197,Tata,Safari,2023,32521.0,Petrol,Automatic,1999.0,First,13300.0
+KL 88 FX 3097,Maruti,Swift,2010,203765.0,CNG,Manual,999.0,First,2500.0
+DL 74 WZ 3022,Honda,CR-V,2015,126827.0,Diesel,Manual,999.0,Fourth & Above,2700.0
+TS 45 WE 9488,BMW,X5,2012,182870.0,Petrol,Manual,2497.0,First,3000.0
+TS 79 LV 4493,Tata,Harrier,2010,225895.0,Electric,Manual,0.0,Third,2500.0
+UP 78 FA 5707,BMW,5 Series,2015,108358.0,Electric,Manual,0.0,Second,8100.0
+TN 61 MC 1802,Hyundai,Creta,2017,144269.0,Diesel,Automatic,999.0,Fourth & Above,3100.0
+DL 49 BD 1231,Maruti,Dzire,2011,199273.0,Electric,Manual,0.0,Second,2500.0
+KL 86 ZU 8122,Mahindra,Thar,2014,145987.0,CNG,Manual,1999.0,Second,2500.0
+DL 28 WE 3320,Tesla,Model Y,2018,129261.0,Electric,Automatic,0.0,Third,8200.0
+WB 95 SE 4016,Ford,Endeavour,2010,233575.0,Hybrid,Automatic,3198.0,Second,2500.0
+AP 32 UZ 8844,Ford,F-150,2022,36018.0,CNG,Automatic,3198.0,Second,15500.0
+TN 63 VK 4753,BMW,3 Series,2013,175190.0,Electric,Automatic,0.0,First,4000.0
+WB 08 QZ 5699,Maruti,Brezza,2013,191211.0,Petrol,Manual,1598.0,Second,2500.0
+KL 06 LK 5119,Volkswagen,Virtus,2017,117304.0,Hybrid,Automatic,1497.0,First,4100.0
+UP 99 VK 6405,Audi,A4,2015,194684.0,Hybrid,Manual,2993.0,Fourth & Above,3800.0
+GJ 64 LZ 4028,Tata,Safari,2010,222814.0,CNG,Automatic,1347.0,Second,2500.0
+WB 64 DE 2471,Toyota,Highlander,2010,258865.0,Diesel,Automatic,2198.0,Second,2500.0
+WB 59 MB 9572,Ford,F-150,2012,246998.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+MH 17 OU 7379,Mahindra,XUV700,2012,138058.0,Electric,Manual,0.0,First,2500.0
+WB 27 UV 6058,Volkswagen,Polo,2024,38964.0,CNG,Automatic,1497.0,Fourth & Above,13000.0
+KA 19 BF 2983,BMW,3 Series,2012,202724.0,Hybrid,Manual,2993.0,First,2800.0
+UP 82 OZ 5654,Audi,A4,2021,86206.0,Electric,Automatic,0.0,Third,19000.0
+WB 98 NP 7568,Mahindra,Thar,2011,122862.0,CNG,Automatic,1497.0,Fourth & Above,2500.0
+AP 89 BI 6416,Mercedes,S-Class,2024,32555.0,Petrol,Automatic,2497.0,Second,37000.0
+AP 35 SN 4055,Toyota,Camry,2023,33586.0,Diesel,Automatic,999.0,Second,16200.0
+TN 89 LS 8634,Mahindra,Bolero,2012,130927.0,Hybrid,Manual,1197.0,Fourth & Above,2500.0
+DL 55 JH 2283,Tesla,Model 3,2015,129921.0,Electric,Manual,0.0,Fourth & Above,6100.0
+AP 85 NH 5891,Hyundai,i20,2019,123614.0,CNG,Automatic,1497.0,Fourth & Above,5100.0
+UP 78 SH 4972,Hyundai,Tucson,2019,110402.0,Hybrid,Manual,1799.0,Third,4300.0
+GJ 98 VV 3807,Tesla,Model Y,2018,112405.0,Electric,Automatic,0.0,Fourth & Above,9400.0
+GJ 83 YQ 5417,Ford,Explorer,2011,212000.0,Diesel,Automatic,1799.0,Second,2500.0
+KA 62 YB 8846,Honda,Accord,2015,100429.0,CNG,Automatic,999.0,Second,3200.0
+UP 17 YE 1610,Hyundai,Tucson,2021,53157.0,Electric,Automatic,0.0,Third,8200.0
+DL 73 BA 3317,BMW,3 Series,2011,197423.5,Hybrid,Automatic,2497.0,First,3200.0
+GJ 91 TM 4118,Tesla,Model Y,2013,123186.0,Electric,Automatic,0.0,Fourth & Above,5600.0
+KA 34 WL 5888,Hyundai,i20,2020,81184.0,Petrol,Automatic,1799.0,First,6400.0
+HR 24 GN 3581,BMW,X3,2020,73678.0,Petrol,Manual,1998.0,Third,18000.0
+DL 84 DA 5935,Volkswagen,Jetta,2011,250475.0,Electric,Automatic,0.0,Second,2500.0
+WB 41 WW 3307,BMW,X5,2023,42905.0,Electric,Manual,0.0,First,27300.0
+KA 60 IG 1615,Audi,Q5,2022,66967.0,Diesel,Manual,3982.0,Fourth & Above,22900.0
+UP 36 NM 6543,Mercedes,E-Class,2020,53420.0,Hybrid,Manual,2497.0,Second,20100.0
+MH 80 ZH 1152,Ford,EcoSport,2020,95805.0,Diesel,Manual,1197.0,Second,8900.0
+DL 26 IN 8675,Ford,Mustang,2014,138917.0,Petrol,Manual,2198.0,Second,3000.0
+AP 19 YP 6691,Mahindra,Thar,2013,193853.0,Electric,Automatic,0.0,First,2500.0
+UP 72 YI 8989,Hyundai,Sonata,2011,149601.0,Diesel,Manual,1197.0,First,2500.0
+KA 75 ZX 1268,Ford,Explorer,2010,166552.0,Diesel,Manual,1799.0,Second,2500.0
+AP 34 VR 8578,Honda,City,2015,196984.0,Diesel,Automatic,1497.0,First,2500.0
+UP 24 IB 7329,Tesla,Model 3,2025,18185.0,Electric,Automatic,0.0,Fourth & Above,32800.0
+KA 24 EK 1657,Hyundai,Verna,2017,124996.0,Diesel,Automatic,1497.0,Second,3500.0
+DL 58 SY 2250,Audi,Q5,2022,50903.0,Hybrid,Manual,3982.0,Second,20300.0
+GJ 54 ZX 1819,Ford,Mustang,2014,111061.0,Petrol,Automatic,2755.0,First,4000.0
+DL 77 EL 2696,Volkswagen,Polo,2024,29574.0,Electric,Automatic,0.0,First,15500.0
+KL 50 XI 5092,Audi,Q5,2021,51183.0,Petrol,Automatic,2497.0,First,17400.0
+AP 87 KV 5270,BMW,7 Series,2024,20721.0,Hybrid,Manual,1998.0,Second,31900.0
+KL 03 JQ 9496,Audi,Q7,2016,174837.0,Petrol,Manual,2993.0,Second,4800.0
+GJ 88 LC 6131,Mahindra,Scorpio,2010,172437.0,Diesel,Manual,1799.0,Third,2500.0
+UP 95 KN 4820,BMW,X5,2025,14381.0,Hybrid,Automatic,2497.0,Fourth & Above,34600.0
+KA 52 LR 2371,Mercedes,E-Class,2024,37322.0,Diesel,Manual,2497.0,Third,27800.0
+AP 28 BE 6205,Ford,Endeavour,2014,168477.5,Diesel,Manual,2198.0,Third,3500.0
+WB 98 FB 8069,Hyundai,Verna,2022,43281.0,Diesel,Automatic,1799.0,Second,10400.0
+KA 29 UR 1662,Tata,Nexon,2020,91288.0,Petrol,Automatic,1197.0,First,5900.0
+MH 10 LX 5850,Toyota,RAV4,2017,137021.0,Petrol,Manual,999.0,Second,5100.0
+TN 14 YS 2797,Maruti,Swift,2021,71395.0,CNG,Automatic,1598.0,Fourth & Above,5300.0
+AP 23 SQ 9156,Maruti,Brezza,2018,109735.0,Hybrid,Automatic,1999.0,Second,2700.0
+AP 96 JY 2945,Mahindra,Bolero,2017,149954.0,Electric,Automatic,0.0,Third,3900.0
+DL 24 AJ 2047,Audi,Q7,2014,125759.0,Petrol,Manual,2497.0,Fourth & Above,5000.0
+UP 99 WD 2475,Toyota,RAV4,2015,158418.0,Petrol,Automatic,1497.0,Fourth & Above,3400.0
+DL 15 XR 1326,Mahindra,Bolero,2014,197670.0,CNG,Automatic,1999.0,First,2500.0
+DL 96 FR 6515,Toyota,Corolla,2023,37751.0,Diesel,Manual,999.0,First,14800.0
+GJ 31 RW 1031,BMW,7 Series,2022,40927.0,Hybrid,Manual,2497.0,Third,22200.0
+GJ 90 NF 8493,Hyundai,i20,2015,194109.0,CNG,Manual,999.0,First,2500.0
+AP 96 CQ 6508,Tata,Harrier,2017,91181.0,Diesel,Automatic,1197.0,Second,4800.0
+KA 25 EV 9287,Volkswagen,Polo,2022,41900.0,Diesel,Automatic,999.0,Third,9200.0
+UP 94 CQ 8813,Ford,Explorer,2017,138130.0,CNG,Manual,1197.0,Third,4700.0
+AP 97 UX 7065,Hyundai,Verna,2010,197552.0,Electric,Automatic,0.0,First,2500.0
+UP 17 OT 8284,Audi,A6,2010,234305.0,CNG,Manual,2497.0,Third,2500.0
+TS 85 PF 1272,Tata,Nexon,2024,38143.0,Hybrid,Automatic,1799.0,Second,14300.0
+TS 74 DE 6303,Tesla,Model S,2014,182686.0,Electric,Automatic,0.0,Second,4000.0
+WB 56 UU 1147,Mahindra,XUV700,2019,102544.0,Diesel,Automatic,2755.0,Third,6100.0
+UP 53 NS 5989,Mahindra,Scorpio,2014,168951.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+HR 72 LV 5656,Honda,City,2022,54626.0,CNG,Automatic,1347.0,Third,9600.0
+HR 59 QU 6625,Tata,Safari,2012,247279.0,CNG,Automatic,1598.0,First,2500.0
+UP 22 VU 9433,BMW,X5,2013,235813.0,Hybrid,Manual,2993.0,Third,3300.0
+TN 51 MJ 2002,Tata,Nexon,2020,107364.0,Petrol,Manual,1197.0,Fourth & Above,6800.0
+GJ 74 RG 1674,Toyota,Fortuner,2015,122095.0,Hybrid,Manual,2198.0,Second,3800.0
+GJ 45 NH 1238,Hyundai,Creta,2019,105836.0,Diesel,Automatic,1999.0,Third,5800.0
+WB 52 DS 6830,Ford,EcoSport,2021,86948.0,Diesel,Manual,1999.0,Third,10100.0
+UP 25 OR 5820,Volkswagen,Jetta,2010,278586.0,Electric,Automatic,0.0,First,2500.0
+WB 05 AD 4343,Tata,Altroz,2011,198317.0,Petrol,Manual,1197.0,Fourth & Above,2500.0
+TN 51 PI 6618,Tata,Safari,2013,112274.0,Hybrid,Automatic,1197.0,Third,2500.0
+MH 15 KL 8146,Tata,Tiago,2022,67236.0,Hybrid,Manual,1197.0,Fourth & Above,10100.0
+DL 82 UV 5831,Mahindra,XUV700,2020,108018.0,Diesel,Manual,2198.0,First,6200.0
+TS 48 TH 8161,Mahindra,Thar,2018,106833.0,Electric,Automatic,0.0,Third,5400.0
+KA 18 JK 6696,Hyundai,Sonata,2013,218524.0,CNG,Manual,999.0,Third,2500.0
+WB 24 CC 8738,BMW,3 Series,2015,169614.0,CNG,Manual,2497.0,First,4700.0
+TS 71 KF 3964,BMW,5 Series,2024,28595.0,Hybrid,Manual,2993.0,Third,34300.0
+TS 63 LT 2376,Audi,Q5,2015,165324.0,Hybrid,Manual,1998.0,Fourth & Above,5500.0
+KL 59 JI 8726,Mahindra,Thar,2011,171607.0,Petrol,Automatic,1799.0,Third,2500.0
+KL 16 LS 5919,BMW,X3,2016,117226.0,Electric,Automatic,0.0,First,8600.0
+KL 66 RA 4641,Tesla,Model S,2024,22146.0,Electric,Manual,0.0,First,30700.0
+TN 66 PQ 9764,BMW,3 Series,2016,126623.0,Petrol,Manual,2497.0,Second,7200.0
+GJ 56 FK 2025,Ford,Endeavour,2012,163064.0,CNG,Automatic,2198.0,Second,2500.0
+GJ 07 DQ 2759,Hyundai,Sonata,2013,164095.0,Hybrid,Manual,1999.0,Third,2500.0
+KL 96 MF 7512,Hyundai,Creta,2025,11996.0,Electric,Automatic,0.0,First,17200.0
+TS 07 TS 1475,Audi,A4,2019,75968.0,Diesel,Automatic,3982.0,Fourth & Above,12500.0
+GJ 30 VW 6576,Tesla,Model 3,2013,113651.0,Electric,Automatic,0.0,Second,5400.0
+AP 36 XQ 9465,Ford,Mustang,2012,190280.0,CNG,Automatic,2755.0,Third,2500.0
+UP 45 YQ 3071,Mercedes,S-Class,2024,30408.0,CNG,Automatic,2993.0,Fourth & Above,34800.0
+GJ 25 UT 8403,Maruti,Swift,2011,148158.0,CNG,Automatic,1197.0,First,2500.0
+HR 27 NP 3619,Honda,City,2010,280199.0,CNG,Automatic,1497.0,Third,2500.0
+KA 11 SH 9055,Maruti,Dzire,2013,118694.0,Petrol,Manual,1598.0,Third,2500.0
+UP 07 LK 3421,Maruti,Swift,2018,141967.0,CNG,Manual,999.0,Second,2600.0
+TN 97 XO 1194,Maruti,Dzire,2023,43440.0,Hybrid,Manual,1999.0,Third,8200.0
+DL 69 ES 8771,Volkswagen,Tiguan,2016,95231.0,Petrol,Manual,1799.0,Second,3500.0
+TS 69 ZD 9229,Mercedes,E-Class,2020,70947.0,Electric,Manual,0.0,First,18000.0
+DL 52 CK 9698,Tesla,Model 3,2011,163755.0,Electric,Automatic,0.0,Second,3200.0
+GJ 93 TM 5019,Mahindra,XUV700,2022,63860.0,Electric,Manual,0.0,Second,11000.0
+WB 38 OV 5035,BMW,X3,2017,145104.0,Petrol,Automatic,3982.0,Third,6600.0
+KA 13 MJ 5032,Honda,CR-V,2022,66774.0,Electric,Manual,0.0,Third,8200.0
+MH 70 TN 7196,Tata,Tiago,2011,223356.0,Diesel,Automatic,1197.0,Fourth & Above,2500.0
+WB 53 CB 2717,Tata,Nexon,2020,105026.0,CNG,Manual,1497.0,Fourth & Above,5600.0
+TS 16 BG 9959,Audi,Q7,2020,87895.0,CNG,Automatic,2993.0,Fourth & Above,12500.0
+GJ 14 IU 5246,Toyota,Corolla,2025,18834.0,Diesel,Automatic,1197.0,Fourth & Above,20900.0
+UP 06 NP 7588,Volkswagen,Tiguan,2024,29574.0,Diesel,Automatic,999.0,Second,15400.0
+TS 15 WH 6384,Mercedes,S-Class,2010,220839.0,CNG,Automatic,2993.0,Fourth & Above,2800.0
+GJ 72 DZ 2731,Maruti,Dzire,2014,198996.0,Hybrid,Manual,1999.0,First,2500.0
+KL 84 XL 9388,Tata,Safari,2011,155252.0,CNG,Manual,1197.0,Fourth & Above,2500.0
+TN 78 AT 2846,BMW,5 Series,2016,124514.0,Electric,Manual,0.0,Third,6600.0
+MH 06 IC 3791,Hyundai,Sonata,2023,54824.0,Diesel,Automatic,1497.0,Second,9800.0
+HR 09 AB 9105,BMW,3 Series,2011,231048.0,Electric,Manual,0.0,First,2500.0
+WB 10 BT 8908,Tesla,Model S,2018,73836.0,Electric,Automatic,0.0,Second,13400.0
+KL 04 SX 8776,Tesla,Model S,2019,66452.0,Electric,Manual,0.0,Third,14500.0
+KL 39 ZE 4039,Ford,EcoSport,2018,136541.0,Diesel,Manual,1497.0,Second,4800.0
+UP 07 BG 6004,Mercedes,C-Class,2018,134366.0,Diesel,Manual,1998.0,Fourth & Above,8400.0
+KL 89 UF 1918,Tata,Tiago,2023,29502.0,Petrol,Automatic,1197.0,First,12500.0
+TS 26 NR 1510,Ford,Mustang,2011,213301.0,Diesel,Automatic,2755.0,Fourth & Above,2500.0
+UP 02 AZ 8559,Toyota,RAV4,2024,27767.0,Petrol,Manual,1197.0,Fourth & Above,16300.0
+DL 70 MS 1675,BMW,7 Series,2024,21800.0,Petrol,Automatic,2497.0,Second,29000.0
+HR 41 WY 5576,Tesla,Model S,2025,20466.0,Electric,Manual,0.0,Second,32700.0
+KL 33 JH 7669,Tesla,Model Y,2013,235287.0,Electric,Manual,0.0,Fourth & Above,3800.0
+AP 02 EK 3966,Toyota,Corolla,2017,142534.0,Diesel,Manual,1197.0,Third,3800.0
+KL 24 MT 1370,BMW,7 Series,2018,125993.0,Petrol,Automatic,3982.0,Third,10500.0
+WB 60 TJ 1394,BMW,5 Series,2023,45659.0,Petrol,Manual,3982.0,Second,25900.0
+KA 14 SV 2809,Volkswagen,Jetta,2018,144150.0,Hybrid,Automatic,1598.0,First,3400.0
+GJ 55 ZQ 7902,Hyundai,i20,2012,138621.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+GJ 96 HO 2451,Ford,Explorer,2024,24822.0,Petrol,Automatic,1598.0,Third,18500.0
+TN 52 SX 9668,Audi,A4,2011,197083.0,CNG,Manual,3982.0,First,2500.0
+TN 65 FD 4670,BMW,X5,2014,200174.0,Diesel,Automatic,3982.0,Third,3700.0
+KL 88 XE 1238,Audi,Q7,2020,66209.0,Petrol,Manual,2497.0,First,14500.0
+AP 32 ZJ 7607,Hyundai,Tucson,2010,272629.0,Petrol,Manual,999.0,First,2500.0
+TN 03 SC 7299,Mahindra,XUV700,2013,184597.0,CNG,Manual,3198.0,First,2500.0
+GJ 94 KJ 9901,Audi,A6,2017,87475.0,Electric,Automatic,0.0,First,9500.0
+UP 66 IV 4590,Honda,Amaze,2023,40432.0,Diesel,Manual,999.0,First,12300.0
+KA 41 CV 7051,BMW,X5,2013,223633.0,Diesel,Automatic,1998.0,First,3500.0
+HR 86 AC 6947,Tesla,Model Y,2020,82111.0,Electric,Manual,0.0,First,13800.0
+UP 77 IJ 5478,BMW,X3,2017,99640.0,Electric,Automatic,0.0,Fourth & Above,11000.0
+MH 91 YR 2500,Tata,Altroz,2024,20180.0,Petrol,Manual,1999.0,Third,15400.0
+MH 51 EB 9697,Tesla,Model S,2014,210088.0,Electric,Automatic,0.0,Third,4400.0
+DL 53 JF 4641,Hyundai,i20,2012,185318.0,Diesel,Automatic,1497.0,Second,2500.0
+KA 71 DV 7859,Hyundai,Creta,2010,130696.0,CNG,Manual,1799.0,Second,2500.0
+UP 23 HB 5333,Honda,Accord,2020,69828.0,Electric,Manual,0.0,First,5700.0
+MH 26 ES 7999,Tata,Altroz,2010,138116.0,Diesel,Manual,999.0,Fourth & Above,2500.0
+AP 97 KH 5236,Honda,CR-V,2012,133132.0,Hybrid,Automatic,1598.0,First,2500.0
+WB 39 MA 2754,Mercedes,GLE,2011,267818.0,Diesel,Manual,3982.0,Fourth & Above,3200.0
+TS 72 NC 9047,Audi,A4,2020,64659.0,Diesel,Automatic,2497.0,Fourth & Above,14900.0
+AP 58 AQ 7422,Tata,Tiago,2015,108221.0,Petrol,Manual,1999.0,Fourth & Above,3600.0
+UP 57 NR 8241,Tata,Altroz,2021,90726.0,Diesel,Manual,999.0,Third,8400.0
+AP 14 ZQ 5969,Maruti,Brezza,2019,93450.0,Diesel,Manual,1497.0,Second,3400.0
+HR 07 JX 7869,Maruti,Ertiga,2025,22828.0,Diesel,Manual,1497.0,Third,12400.0
+TS 21 LI 3819,Tesla,Model Y,2014,168477.5,Electric,Automatic,0.0,Third,4000.0
+GJ 71 CQ 3404,Toyota,Highlander,2018,131653.0,Petrol,Manual,4951.0,First,5700.0
+GJ 23 XC 9654,Mahindra,XUV700,2010,267864.0,Hybrid,Manual,3198.0,Third,2500.0
+KA 13 BF 2492,Maruti,Brezza,2023,45077.0,Electric,Automatic,1497.0,First,7700.0
+AP 07 JT 9648,Ford,F-150,2019,73724.0,Petrol,Manual,2198.0,Second,7600.0
+TN 90 GD 8319,Tata,Nexon,2017,118102.0,CNG,Automatic,999.0,First,3500.0
+KL 15 HD 9132,Maruti,Ertiga,2011,136257.0,Petrol,Manual,1497.0,Second,2500.0
+MH 98 LV 1834,Tesla,Model 3,2024,34457.0,Electric,Manual,0.0,Fourth & Above,34400.0
+WB 16 CG 8168,Tesla,Model S,2018,75473.0,Electric,Automatic,0.0,Third,13600.0
+KL 67 XA 8727,Hyundai,Sonata,2020,83631.0,Petrol,Automatic,1799.0,Second,6400.0
+GJ 15 YT 8700,Ford,EcoSport,2011,230130.0,Electric,Manual,999.0,Fourth & Above,2500.0
+KA 69 GP 6551,Ford,Explorer,2016,152201.0,CNG,Automatic,1598.0,Third,3800.0
+WB 93 WR 7002,BMW,3 Series,2024,36804.0,Petrol,Manual,2993.0,Second,31700.0
+MH 21 DM 1623,Hyundai,Creta,2011,125814.0,Hybrid,Manual,1197.0,Second,2500.0
+KL 88 VL 2086,Tata,Tiago,2022,58447.0,Hybrid,Automatic,999.0,Fourth & Above,9300.0
+KA 53 JE 7363,Tata,Tiago,2013,140366.0,Hybrid,Manual,1497.0,First,2500.0
+DL 90 XW 2843,Honda,Civic,2025,19147.0,Hybrid,Manual,1197.0,Third,14200.0
+KA 95 NT 2222,Audi,A6,2014,135048.0,CNG,Manual,1998.0,Second,4500.0
+GJ 50 WJ 7623,Toyota,RAV4,2017,77620.0,Petrol,Automatic,1999.0,Fourth & Above,5900.0
+KA 01 KA 2941,Tesla,Model 3,2017,136840.0,Electric,Manual,0.0,Third,7900.0
+DL 71 KK 2821,Mercedes,GLE,2023,36761.0,Electric,Automatic,0.0,First,27200.0
+UP 64 QD 6592,Ford,Endeavour,2012,243447.0,Hybrid,Manual,2755.0,Second,2500.0
+TN 20 JZ 5795,Hyundai,Tucson,2014,145921.0,Petrol,Automatic,1197.0,Second,2500.0
+TN 59 GB 9192,Tata,Safari,2018,108104.5,Diesel,Manual,999.0,Third,4700.0
+TN 28 DP 6210,Mahindra,Thar,2021,61268.0,Electric,Manual,0.0,Fourth & Above,9700.0
+WB 24 MB 3654,Mercedes,E-Class,2010,203765.0,Hybrid,Manual,2993.0,Third,2600.0
+GJ 39 BO 7825,Audi,A6,2020,67580.0,CNG,Automatic,3982.0,Second,14300.0
+KA 91 GK 4411,Tata,Safari,2014,100845.0,Electric,Manual,0.0,Second,2800.0
+AP 93 QP 1853,Tesla,Model S,2022,54802.0,Electric,Manual,0.0,Second,24700.0
+TS 48 YH 5255,Tata,Nexon,2018,110105.0,CNG,Manual,0.0,Second,3900.0
+KA 42 TO 8029,Toyota,RAV4,2010,242743.0,CNG,Manual,1197.0,Fourth & Above,2500.0
+GJ 77 OP 6554,Mercedes,C-Class,2020,63136.0,Hybrid,Automatic,1998.0,Fourth & Above,18900.0
+KL 27 MX 3133,Hyundai,Tucson,2015,137304.0,Petrol,Manual,1197.0,Third,2800.0
+KL 48 UP 7978,Mahindra,XUV700,2015,96264.0,Diesel,Automatic,2198.0,First,3900.0
+GJ 52 SR 4812,Audi,A4,2025,10723.0,Hybrid,Manual,1998.0,Third,35000.0
+MH 24 AF 7770,Toyota,RAV4,2015,195741.0,CNG,Manual,1799.0,Second,2800.0
+TN 55 RA 2170,Audi,A4,2013,238156.0,Diesel,Automatic,3982.0,Third,3700.0
+TN 44 VA 1539,Mahindra,Bolero,2010,279679.0,Petrol,Automatic,1598.0,Second,2500.0
+AP 74 HD 8218,Mercedes,S-Class,2016,103520.0,Electric,Manual,0.0,Third,9800.0
+TS 34 BF 6731,Ford,Endeavour,2018,129334.0,Diesel,Manual,2198.0,Second,6100.0
+KL 24 RC 3622,Audi,Q5,2013,196730.0,CNG,Manual,3982.0,Second,3500.0
+AP 58 MU 6425,Audi,A4,2022,44497.0,Hybrid,Automatic,2497.0,First,24700.0
+UP 48 AO 1009,Ford,EcoSport,2015,151041.0,Diesel,Automatic,1799.0,Third,3700.0
+TN 22 BR 1167,Maruti,Ertiga,2023,34051.0,Electric,Automatic,0.0,Fourth & Above,9300.0
+HR 34 RS 1566,Volkswagen,Polo,2015,155116.0,Petrol,Automatic,1197.0,Third,2600.0
+MH 32 LC 1667,Audi,A6,2015,189256.0,Diesel,Manual,2497.0,Second,3700.0
+WB 05 HM 9262,Ford,F-150,2020,73536.0,Petrol,Manual,3198.0,Third,9300.0
+DL 51 FS 7991,Maruti,Ertiga,2019,106492.0,Diesel,Manual,1197.0,Second,3500.0
+HR 97 IC 3649,Ford,Mustang,2010,187477.0,CNG,Manual,2755.0,First,2500.0
+KA 19 HP 7577,Audi,A4,2024,35606.0,Electric,Automatic,0.0,Second,34100.0
+UP 35 UC 4328,BMW,3 Series,2025,15949.0,Hybrid,Manual,1998.0,First,37000.0
+TS 30 XM 3098,Mahindra,Scorpio,2013,181897.0,CNG,Manual,0.0,Second,2500.0
+MH 90 AT 7975,Tata,Safari,2025,14856.0,CNG,Automatic,1598.0,Third,14700.0
+DL 22 WD 2028,Honda,City,2017,77664.0,Diesel,Automatic,1197.0,Third,4000.0
+MH 13 SU 2721,Hyundai,Verna,2017,151823.0,Hybrid,Manual,1197.0,Third,3200.0
+MH 48 WX 5117,Mercedes,E-Class,2011,200380.0,CNG,Automatic,2993.0,Second,2800.0
+TN 39 YR 8915,Ford,Explorer,2012,184185.0,Hybrid,Automatic,1799.0,First,2500.0
+UP 76 RN 6804,Mahindra,Thar,2023,41310.0,CNG,Manual,1197.0,Second,13900.0
+GJ 43 UQ 6886,Honda,CR-V,2011,147758.0,CNG,Automatic,1497.0,Fourth & Above,2500.0
+MH 03 XQ 5360,Tesla,Model S,2016,166120.0,Electric,Automatic,0.0,Fourth & Above,5000.0
+TS 11 ZS 7419,Tata,Altroz,2014,179131.0,Hybrid,Automatic,1999.0,Second,2500.0
+WB 82 MF 5913,Ford,Endeavour,2015,111465.0,Petrol,Manual,3198.0,Second,4600.0
+DL 36 CJ 3867,Mahindra,XUV700,2023,33703.0,Diesel,Manual,2755.0,First,14500.0
+AP 52 AI 6614,Audi,A4,2010,228498.0,Electric,Manual,0.0,Fourth & Above,2500.0
+DL 79 CB 2382,Toyota,Fortuner,2021,63255.0,Electric,Automatic,0.0,First,9300.0
+KL 12 CS 4640,Audi,A6,2017,107169.0,CNG,Manual,2497.0,Second,8400.0
+TS 52 IM 2816,Tata,Nexon,2011,184065.0,CNG,Manual,1598.0,Fourth & Above,2500.0
+TS 02 AS 6334,Volkswagen,Virtus,2011,193843.0,Diesel,Automatic,1197.0,Third,2500.0
+WB 15 GG 7723,BMW,X5,2015,112682.0,Electric,Automatic,0.0,Second,7800.0
+KA 50 LI 5713,Honda,Civic,2018,88021.0,Electric,Automatic,0.0,Second,5300.0
+TN 55 WG 5112,Honda,Accord,2024,22453.0,Electric,Automatic,0.0,Fourth & Above,15000.0
+TS 13 QR 8231,Audi,Q5,2015,157784.0,Hybrid,Automatic,3982.0,First,4800.0
+HR 72 HO 6040,Toyota,Camry,2025,17455.0,Diesel,Automatic,999.0,Second,24000.0
+GJ 50 SI 8350,Mercedes,GLC,2012,221274.0,Hybrid,Automatic,2993.0,Fourth & Above,3500.0
+MH 54 RS 1679,Audi,A4,2015,129656.0,CNG,Automatic,3982.0,Second,6800.0
+DL 65 KU 6127,Mercedes,GLE,2015,112500.0,Hybrid,Manual,1998.0,First,7600.0
+DL 62 RC 5290,Mahindra,Scorpio,2015,101955.0,Diesel,Automatic,999.0,First,3600.0
+GJ 67 II 4477,Volkswagen,Virtus,2011,170094.0,Electric,Manual,0.0,Third,2500.0
+AP 60 EV 7352,Mahindra,Thar,2022,62439.0,Electric,Automatic,0.0,Fourth & Above,9700.0
+KL 90 FS 2802,BMW,X5,2012,165671.0,Petrol,Automatic,1998.0,First,3100.0
+TS 53 YN 1545,Toyota,Fortuner,2019,83206.0,CNG,Automatic,3198.0,First,8800.0
+KL 83 OV 4456,Hyundai,Elantra,2017,138306.0,Electric,Manual,0.0,Second,2800.0
+KL 74 UI 2331,Toyota,Highlander,2025,19559.0,Petrol,Manual,2755.0,Second,20900.0
+DL 74 NG 5991,Audi,A4,2024,29189.0,Hybrid,Manual,1998.0,Third,29700.0
+UP 18 ED 8461,Volkswagen,Jetta,2025,18970.0,Hybrid,Automatic,1999.0,First,18000.0
+DL 24 BY 2142,Toyota,RAV4,2023,51009.0,CNG,Automatic,999.0,Fourth & Above,14300.0
+GJ 21 PD 3521,Tata,Harrier,2010,208704.0,CNG,Manual,1999.0,First,2500.0
+HR 79 IF 7639,Tata,Safari,2016,159195.0,Petrol,Automatic,1799.0,First,2600.0
+HR 88 UT 1315,Audi,Q5,2015,95194.0,CNG,Manual,2497.0,First,8400.0
+UP 23 CT 6570,Honda,CR-V,2021,82196.0,Electric,Automatic,0.0,First,8100.0
+GJ 96 YI 5019,Maruti,Dzire,2016,82233.0,CNG,Manual,1197.0,Third,2900.0
+TN 50 UM 5441,Toyota,Innova,2014,193712.0,Petrol,Automatic,1598.0,First,2500.0
+HR 99 SX 3325,Volkswagen,Jetta,2013,152266.0,CNG,Manual,1598.0,First,2500.0
+MH 53 UJ 1696,Volkswagen,Polo,2020,52846.0,Petrol,Manual,999.0,Fourth & Above,9100.0
+GJ 22 TN 3848,Mahindra,Thar,2016,86625.0,Petrol,Manual,1197.0,Fourth & Above,4200.0
+WB 75 KS 4012,Volkswagen,Tiguan,2019,117276.0,Petrol,Manual,1197.0,Fourth & Above,5300.0
+AP 15 FZ 8737,Volkswagen,Virtus,2018,73781.0,Petrol,Automatic,1999.0,First,5900.0
+TN 82 YZ 3870,Tata,Altroz,2014,98999.0,Diesel,Manual,1799.0,Second,2600.0
+GJ 88 PA 2330,Tata,Harrier,2018,88322.0,Electric,Automatic,1999.0,Second,4700.0
+UP 03 SC 3559,Ford,Mustang,2019,117457.0,Diesel,Automatic,3198.0,Second,6400.0
+AP 84 YO 1012,BMW,X5,2021,54162.0,Hybrid,Automatic,1998.0,Fourth & Above,18400.0
+AP 33 QY 2296,Ford,F-150,2017,107320.0,Hybrid,Manual,3198.0,Third,5200.0
+HR 66 RE 2947,Tesla,Model S,2024,35910.0,Electric,Manual,0.0,Second,34100.0
+DL 17 HN 1629,Hyundai,Verna,2024,37956.0,Hybrid,Automatic,1598.0,Fourth & Above,11500.0
+TS 75 JS 8939,Tata,Altroz,2024,31586.0,CNG,Automatic,1799.0,Third,12100.0
+UP 80 EA 7288,Volkswagen,Jetta,2014,190624.0,Diesel,Automatic,1197.0,Second,2500.0
+AP 79 ST 3528,Tata,Altroz,2012,252104.0,CNG,Automatic,1197.0,Second,2500.0
+KL 79 FL 8107,Audi,A6,2016,115273.0,Electric,Automatic,2497.0,Fourth & Above,8000.0
+UP 68 XG 2386,Toyota,RAV4,2013,139218.0,Petrol,Automatic,999.0,Second,2500.0
+WB 90 OM 3405,Ford,Explorer,2022,33411.0,Petrol,Automatic,999.0,Third,15600.0
+TN 27 QZ 9121,Audi,A4,2019,111528.0,Petrol,Automatic,2497.0,First,10600.0
+MH 96 ZV 3218,Hyundai,Sonata,2025,12689.0,CNG,Automatic,1999.0,Third,15500.0
+DL 04 SP 7989,Mercedes,C-Class,2020,89102.0,Diesel,Manual,2497.0,Second,14900.0
+GJ 05 UL 7591,Tata,Tiago,2013,186954.0,CNG,Automatic,1799.0,Second,2500.0
+KA 68 NS 6459,Maruti,Baleno,2010,145263.0,Diesel,Manual,1799.0,Fourth & Above,2500.0
+MH 41 HC 4181,Mahindra,XUV700,2019,116497.0,Diesel,Automatic,3198.0,Fourth & Above,4900.0
+KA 64 LB 4698,Mahindra,Scorpio,2022,37084.0,Electric,Automatic,0.0,Second,12100.0
+DL 59 BG 5886,Tata,Nexon,2015,195846.0,Hybrid,Manual,1799.0,Second,2500.0
+KL 56 AO 9757,Tesla,Model 3,2019,117866.0,Electric,Automatic,0.0,First,12100.0
+UP 10 ZP 1558,Tata,Harrier,2017,101631.0,Petrol,Automatic,1497.0,Fourth & Above,3700.0
+AP 25 IB 2202,Tesla,Model S,2021,48271.0,Electric,Automatic,0.0,First,18500.0
+UP 51 VL 5077,Maruti,Brezza,2010,186268.0,Petrol,Manual,1598.0,Third,2500.0
+UP 32 ZA 6103,Audi,A4,2022,36843.0,Electric,Manual,0.0,First,21700.0
+TN 88 GS 7268,Hyundai,Tucson,2013,179083.0,Diesel,Manual,999.0,Second,2500.0
+TN 85 OR 9855,Tata,Harrier,2011,158269.0,CNG,Automatic,1999.0,Third,2500.0
+UP 27 GX 4878,Toyota,Corolla,2022,48300.0,Hybrid,Manual,1497.0,Fourth & Above,13800.0
+GJ 65 BY 8077,Hyundai,Verna,2023,29186.0,Diesel,Automatic,1497.0,Third,12900.0
+KA 70 XW 5622,Mahindra,Thar,2025,19094.0,Diesel,Manual,1799.0,First,19200.0
+GJ 36 RK 1770,BMW,3 Series,2012,144381.0,Diesel,Automatic,1998.0,Fourth & Above,3500.0
+WB 87 FE 1296,Hyundai,Sonata,2022,45271.0,Petrol,Automatic,1497.0,First,11100.0
+TN 69 VV 3254,Hyundai,Sonata,2025,17685.0,Hybrid,Automatic,1497.0,Third,15600.0
+UP 35 NZ 8961,Volkswagen,Jetta,2012,175385.0,Electric,Manual,0.0,Third,2500.0
+TN 18 XM 2207,Tata,Altroz,2014,202452.0,Hybrid,Automatic,1497.0,First,2500.0
+AP 67 MB 6417,Tesla,Model S,2019,59646.0,Electric,Automatic,0.0,First,13500.0
+GJ 83 CU 8027,Toyota,Highlander,2017,78320.0,Electric,Manual,0.0,Third,5200.0
+DL 82 AE 6977,Mercedes,C-Class,2013,107288.0,Petrol,Manual,1998.0,Second,6400.0
+TS 30 DS 4058,Ford,Mustang,2018,94871.0,Electric,Automatic,0.0,Fourth & Above,7300.0
+KL 38 VK 5223,Tata,Nexon,2011,216625.0,Petrol,Manual,1497.0,Fourth & Above,2500.0
+KA 16 RA 2978,Mercedes,S-Class,2014,103404.0,CNG,Automatic,2993.0,Third,6200.0
+AP 52 FF 7078,Tesla,Model S,2022,48315.0,Electric,Automatic,0.0,Third,24400.0
+AP 14 ZN 3286,Ford,Mustang,2025,15374.0,Electric,Automatic,0.0,First,21500.0
+AP 03 EG 6788,Mercedes,S-Class,2023,25956.0,CNG,Manual,0.0,Fourth & Above,33500.0
+WB 12 NP 2538,Honda,CR-V,2021,43856.0,Diesel,Manual,1598.0,First,7700.0
+KA 27 HS 6347,Hyundai,Creta,2011,174789.0,Petrol,Automatic,1197.0,Second,2500.0
+TS 89 OS 1891,Mercedes,GLE,2018,71030.0,Hybrid,Automatic,1998.0,Second,13900.0
+AP 75 GN 6408,Hyundai,Verna,2024,23196.0,Petrol,Automatic,1999.0,Fourth & Above,15400.0
+KL 51 RA 7131,Tata,Nexon,2017,91821.0,CNG,Automatic,1999.0,Third,4600.0
+DL 01 ZU 2642,Volkswagen,Virtus,2011,240681.0,Electric,Automatic,0.0,First,2500.0
+MH 89 WT 8848,Audi,A6,2015,93248.0,Electric,Manual,0.0,Second,6700.0
+MH 42 HY 3684,BMW,5 Series,2016,140994.0,Hybrid,Automatic,2497.0,First,7500.0
+DL 80 WF 4667,Tata,Altroz,2022,60067.0,Diesel,Automatic,1598.0,Second,9500.0
+HR 89 AC 7935,Tesla,Model S,2020,88289.0,Electric,Manual,0.0,First,15100.0
+KL 85 CT 9606,Audi,A6,2017,142203.0,Hybrid,Automatic,2497.0,Second,8300.0
+MH 50 BO 6301,Ford,Endeavour,2010,258884.0,Hybrid,Manual,3198.0,Third,2500.0
+HR 32 GV 3535,Tata,Tiago,2012,145081.0,Petrol,Manual,1999.0,First,2500.0
+KA 54 XQ 1553,Ford,EcoSport,2014,208604.0,Electric,Automatic,0.0,Second,2500.0
+TN 31 MZ 1566,Tata,Altroz,2019,108221.0,Electric,Manual,0.0,Second,5300.0
+TN 82 PZ 5874,Hyundai,i20,2020,61181.0,Hybrid,Manual,999.0,Third,7500.0
+AP 59 NE 7082,Tesla,Model 3,2014,205817.0,Electric,Automatic,0.0,Third,3900.0
+WB 46 UZ 7611,Audi,A4,2023,49967.0,Petrol,Manual,2497.0,Fourth & Above,27300.0
+DL 76 WY 8936,Mercedes,GLE,2012,154372.0,Hybrid,Automatic,1998.0,Second,3900.0
+UP 41 KA 5621,Tesla,Model S,2018,134761.0,Electric,Automatic,0.0,Fourth & Above,7700.0
+DL 76 IM 2661,Audi,A6,2014,198925.0,Electric,Automatic,0.0,Second,3400.0
+GJ 44 HI 1266,Ford,Mustang,2015,170389.0,CNG,Manual,3198.0,First,3100.0
+HR 64 JF 3647,Toyota,Innova,2012,140345.0,Diesel,Manual,1799.0,Second,2600.0
+WB 70 UP 1947,Hyundai,Creta,2024,34714.0,Petrol,Manual,1197.0,Second,12800.0
+HR 74 UL 7566,Hyundai,Verna,2019,63806.0,Electric,Manual,0.0,Second,6500.0
+AP 25 VR 4955,Mercedes,GLE,2018,99325.0,Hybrid,Automatic,2993.0,Fourth & Above,11800.0
+AP 52 EA 2621,Toyota,Fortuner,2024,21663.0,Petrol,Manual,2755.0,First,18200.0
+GJ 52 KK 6873,Tata,Safari,2021,88973.0,CNG,Automatic,1497.0,Third,7400.0
+TN 50 QO 6530,Mahindra,Scorpio,2013,234544.0,Electric,Automatic,0.0,Third,2500.0
+KA 20 FI 5956,Maruti,Dzire,2014,132170.0,Petrol,Automatic,1497.0,Fourth & Above,2500.0
+DL 41 PB 2040,Mercedes,C-Class,2025,15821.0,Diesel,Manual,3982.0,Fourth & Above,33900.0
+GJ 83 NB 3840,Mahindra,Thar,2017,109921.0,CNG,Automatic,1197.0,Third,5000.0
+HR 96 CG 5409,Toyota,Innova,2020,95041.0,CNG,Manual,1799.0,First,8900.0
+HR 44 ER 5402,Volkswagen,Polo,2023,47433.0,Electric,Automatic,0.0,Fourth & Above,10700.0
+TS 97 YM 9063,Honda,Accord,2021,61543.0,Petrol,Automatic,999.0,Third,7700.0
+WB 98 RB 3299,Mercedes,S-Class,2010,222678.0,Diesel,Automatic,2993.0,First,2500.0
+TS 68 TY 3292,Volkswagen,Virtus,2010,158441.0,Hybrid,Manual,1197.0,First,2500.0
+DL 13 SX 8209,Hyundai,i20,2018,117325.0,Electric,Manual,0.0,Third,3700.0
+GJ 55 XI 9563,Volkswagen,Virtus,2025,13604.0,Hybrid,Automatic,1999.0,First,16600.0
+HR 14 SN 3607,Tesla,Model 3,2016,83457.0,Electric,Automatic,0.0,Fourth & Above,9600.0
+KL 38 QG 2616,BMW,5 Series,2015,197535.0,Hybrid,Automatic,2497.0,Third,4500.0
+GJ 98 CO 9861,Mahindra,XUV700,2010,191159.0,CNG,Manual,3198.0,First,2500.0
+UP 03 NE 4859,Maruti,Baleno,2019,115071.0,Hybrid,Automatic,1598.0,Third,3700.0
+DL 61 VS 1927,Ford,EcoSport,2014,125302.0,Electric,Manual,0.0,Second,3900.0
+HR 60 OS 6291,Toyota,Innova,2023,35581.0,CNG,Automatic,1999.0,First,17400.0
+GJ 10 RR 1651,Tesla,Model Y,2012,202577.0,Electric,Automatic,0.0,Third,2700.0
+HR 48 QT 7399,Mahindra,XUV700,2024,28694.0,Petrol,Automatic,2198.0,Fourth & Above,15700.0
+MH 03 VP 7530,Ford,EcoSport,2016,133754.0,Electric,Automatic,0.0,Second,4400.0
+KA 71 ZR 2634,Honda,Accord,2017,129156.0,Diesel,Manual,1999.0,First,3700.0
+AP 50 WY 1600,Ford,Endeavour,2022,70029.0,Petrol,Manual,4951.0,First,11000.0
+DL 29 IW 9378,Honda,Civic,2024,29600.0,Diesel,Manual,1347.0,Fourth & Above,13300.0
+TS 59 QT 7779,Volkswagen,Virtus,2019,101339.0,Petrol,Manual,999.0,Third,5500.0
+MH 85 GD 6290,Maruti,Baleno,2016,117593.0,Petrol,Automatic,1197.0,Fourth & Above,2500.0
+KA 68 PT 4647,Hyundai,Tucson,2011,226272.0,Electric,Manual,0.0,Third,2500.0
+HR 62 BU 2677,Maruti,Brezza,2018,87317.0,CNG,Manual,999.0,First,3400.0
+AP 69 TC 1613,Ford,Explorer,2020,100843.0,CNG,Automatic,1497.0,First,9000.0
+GJ 38 IN 8750,Audi,Q7,2024,31509.0,Diesel,Manual,2993.0,Third,29200.0
+KA 56 GE 6231,Audi,Q5,2010,279355.0,Electric,Automatic,0.0,Third,2500.0
+MH 77 WV 3413,Mahindra,XUV700,2025,14893.0,Petrol,Automatic,3198.0,Fourth & Above,18100.0
+KA 43 RL 5985,Volkswagen,Virtus,2017,83975.0,CNG,Manual,1197.0,First,4900.0
+WB 95 IR 5054,Volkswagen,Jetta,2017,94597.0,Electric,Automatic,0.0,First,4600.0
+HR 50 FX 3004,Audi,Q7,2022,35824.0,Diesel,Automatic,3982.0,Third,25700.0
+KL 01 KA 3647,Hyundai,Verna,2021,70839.0,Electric,Automatic,0.0,First,7500.0
+WB 62 MW 1959,Ford,Mustang,2013,159790.0,Hybrid,Manual,3198.0,Second,2700.0
+MH 76 ZX 3054,Tesla,Model S,2018,131197.0,Electric,Automatic,0.0,Third,7800.0
+WB 45 XA 7299,Maruti,Dzire,2019,107498.0,Diesel,Manual,1598.0,Second,4200.0
+AP 54 NN 2277,Tesla,Model 3,2013,178272.0,Electric,Automatic,0.0,Fourth & Above,3100.0
+MH 18 VW 4607,Toyota,Corolla,2020,97457.0,Hybrid,Manual,1197.0,First,8900.0
+KL 46 TX 1264,Mercedes,S-Class,2011,135809.0,Electric,Automatic,0.0,Second,4300.0
+TN 79 FG 5019,Honda,City,2024,30594.0,Hybrid,Automatic,1347.0,Fourth & Above,12000.0
+AP 07 DR 7287,Hyundai,Elantra,2024,24662.0,Hybrid,Automatic,1197.0,Third,15000.0
+MH 82 FP 8187,BMW,X5,2014,142819.0,CNG,Automatic,2993.0,Fourth & Above,5000.0
+TS 44 CX 4412,Tata,Safari,2012,154988.0,Diesel,Automatic,1197.0,First,2500.0
+DL 30 CI 6917,Mercedes,GLC,2018,136597.0,Diesel,Manual,1998.0,Second,8800.0
+HR 90 ZS 8503,Mercedes,GLE,2012,167259.0,CNG,Manual,2993.0,Second,3100.0
+TS 37 HO 9119,Maruti,Ertiga,2024,30060.0,Petrol,Manual,1497.0,First,8300.0
+GJ 62 HC 6112,Volkswagen,Virtus,2023,28620.0,CNG,Automatic,999.0,First,11400.0
+MH 81 DZ 1242,BMW,7 Series,2012,162193.0,Hybrid,Manual,3982.0,Fourth & Above,3600.0
+TS 98 OB 7660,Mahindra,Thar,2024,21406.0,Electric,Automatic,0.0,Fourth & Above,14900.0
+MH 91 XG 1200,Volkswagen,Polo,2014,203934.0,Diesel,Manual,1497.0,First,2500.0
+TS 90 AV 6348,Tata,Nexon,2011,148919.0,CNG,Automatic,1999.0,Third,2500.0
+KA 41 CI 6238,Ford,Explorer,2019,109246.0,Diesel,Manual,1598.0,Fourth & Above,7200.0
+GJ 19 EE 3238,Tesla,Model S,2014,103223.0,Electric,Automatic,0.0,Second,5800.0
+AP 18 UA 2566,Mercedes,C-Class,2011,270610.0,CNG,Manual,2497.0,Second,2500.0
+DL 30 UF 6957,Volkswagen,Polo,2012,129772.0,CNG,Automatic,1197.0,Second,2500.0
+AP 87 JK 3068,Ford,Endeavour,2022,71681.0,Diesel,Manual,3198.0,Second,12100.0
+UP 66 NN 4167,BMW,X3,2015,145259.0,Hybrid,Automatic,1998.0,Fourth & Above,5200.0
+KL 81 HI 6906,Mercedes,E-Class,2011,232785.0,Hybrid,Manual,3982.0,Fourth & Above,2900.0
+AP 48 KS 2086,Ford,Endeavour,2025,18728.0,Petrol,Automatic,4951.0,Second,26400.0
+HR 61 ZL 4590,Mercedes,GLE,2022,72896.0,Diesel,Manual,3982.0,Fourth & Above,20500.0
+TS 27 RS 7680,BMW,X5,2021,52475.0,Hybrid,Automatic,2993.0,Fourth & Above,21000.0
+TS 61 CF 8498,Ford,Endeavour,2020,94492.0,Diesel,Automatic,2755.0,Fourth & Above,8400.0
+HR 53 RK 9195,Volkswagen,Virtus,2016,157682.0,Diesel,Automatic,1197.0,Third,3100.0
+KL 76 UH 9951,Tesla,Model Y,2017,133292.0,Electric,Automatic,0.0,Second,7400.0
+GJ 84 GW 8567,Volkswagen,Polo,2023,31327.0,CNG,Manual,1598.0,First,14300.0
+MH 99 AD 5487,Honda,Civic,2017,78306.0,Electric,Manual,0.0,Fourth & Above,3800.0
+DL 16 ED 5677,Maruti,Ertiga,2023,53271.0,Petrol,Manual,1999.0,Fourth & Above,7300.0
+WB 22 MW 5858,Tata,Harrier,2019,93792.0,Diesel,Automatic,1197.0,Third,5500.0
+UP 81 JA 4526,Hyundai,Creta,2016,173481.0,Petrol,Automatic,1999.0,Second,2500.0
+HR 73 OC 7717,Tata,Tiago,2018,108109.0,Petrol,Manual,1999.0,Fourth & Above,5200.0
+KA 50 DF 6732,Mahindra,Thar,2023,47660.0,Diesel,Automatic,1799.0,Second,11100.0
+DL 35 IG 8802,Audi,A4,2013,160049.0,CNG,Automatic,1998.0,First,3500.0
+GJ 89 IC 2017,Volkswagen,Virtus,2025,16388.0,Hybrid,Manual,999.0,Third,19200.0
+HR 75 UW 2360,Honda,City,2025,15155.0,Hybrid,Manual,1598.0,First,13200.0
+AP 70 BX 2185,Toyota,Camry,2019,106621.0,Petrol,Manual,1598.0,Fourth & Above,7700.0
+MH 08 GK 4235,Audi,A4,2017,99766.0,Diesel,Automatic,2993.0,Third,9400.0
+AP 08 CK 8873,Honda,City,2011,227565.0,Petrol,Automatic,1197.0,First,2500.0
+KL 86 AF 9532,Honda,Civic,2025,13667.0,Petrol,Automatic,1197.0,First,14600.0
+KL 90 CY 4491,Maruti,Swift,2019,63971.0,CNG,Automatic,1497.0,Third,4000.0
+KA 05 UP 5942,Tata,Altroz,2021,66721.0,Electric,Manual,0.0,First,7600.0
+HR 07 CW 4890,Audi,A4,2022,40194.0,Hybrid,Manual,2497.0,Second,20200.0
+GJ 33 LK 3739,Honda,CR-V,2016,115793.0,Electric,Manual,0.0,Fourth & Above,2800.0
+KA 91 OS 9893,Hyundai,Sonata,2025,19969.0,Petrol,Manual,1497.0,Third,15500.0
+UP 81 WX 6582,Audi,Q5,2021,64713.0,CNG,Manual,1998.0,First,17500.0
+MH 24 OU 2415,Tata,Altroz,2021,91622.0,Diesel,Automatic,1799.0,Third,6900.0
+TN 61 AV 1701,Mahindra,XUV700,2022,52209.0,Hybrid,Automatic,2198.0,Third,10100.0
+GJ 57 YZ 2681,Honda,CR-V,2018,74788.0,Electric,Automatic,0.0,Second,4600.0
+TN 61 NF 4148,Toyota,Camry,2023,39673.0,Hybrid,Manual,1197.0,Fourth & Above,15500.0
+MH 23 RE 5651,Maruti,Swift,2013,153823.0,Diesel,Manual,1197.0,Second,2500.0
+HR 12 BX 5390,Toyota,Fortuner,2018,106148.0,CNG,Manual,3198.0,Third,5200.0
+TS 25 KY 8258,Mahindra,Thar,2017,109699.0,Petrol,Manual,1999.0,Third,3800.0
+WB 47 PR 1670,Ford,Explorer,2014,207854.0,Electric,Automatic,0.0,First,2500.0
+HR 92 KH 5936,Audi,Q7,2017,79335.0,Petrol,Manual,2993.0,First,9000.0
+AP 59 JX 3111,Honda,Amaze,2020,101800.0,CNG,Manual,1497.0,Third,5600.0
+TS 64 RU 1408,Maruti,Swift,2015,100390.0,CNG,Manual,1598.0,First,2500.0
+KL 33 HX 7594,Volkswagen,Jetta,2024,31258.0,Diesel,Manual,1999.0,Second,15100.0
+TN 70 YI 4056,Audi,A4,2020,100069.0,Diesel,Automatic,2993.0,Third,14400.0
+GJ 55 AM 2092,Audi,A4,2023,44801.0,Petrol,Automatic,2497.0,Third,25700.0
+TN 11 MK 3357,Tesla,Model 3,2022,48101.0,Electric,Automatic,0.0,Third,21800.0
+TN 18 LH 1335,Mahindra,Bolero,2012,244375.0,CNG,Manual,1799.0,Third,2500.0
+KL 64 FK 1149,Maruti,Brezza,2016,130924.0,CNG,Manual,1497.0,Fourth & Above,2500.0
+TN 36 CO 3064,Maruti,Brezza,2015,116006.0,Hybrid,Manual,1497.0,Second,2500.0
+TS 59 JS 1471,Mercedes,C-Class,2020,73289.0,Electric,Manual,0.0,Third,17000.0
+DL 98 GH 3365,Tata,Harrier,2025,16146.0,Diesel,Automatic,1497.0,Second,16400.0
+HR 03 ET 8128,Audi,Q5,2019,85842.0,Petrol,Automatic,3982.0,Second,11800.0
+KA 53 OR 3897,Tata,Harrier,2012,175363.0,Hybrid,Manual,1197.0,Second,2500.0
+TN 51 HE 6815,Honda,CR-V,2017,129730.0,Electric,Manual,0.0,Fourth & Above,3700.0
+TS 01 FE 1738,Toyota,Corolla,2013,216415.0,CNG,Manual,1799.0,Third,2500.0
+UP 63 CT 2012,Tata,Nexon,2011,137893.0,Diesel,Manual,1799.0,Third,2500.0
+TS 49 WW 5600,Toyota,Camry,2010,160736.0,Hybrid,Automatic,1598.0,First,2500.0
+UP 80 ZE 4717,Tesla,Model Y,2012,186451.0,Electric,Automatic,0.0,First,3200.0
+KL 60 ZR 2236,Toyota,RAV4,2021,81257.0,Diesel,Manual,1598.0,First,10500.0
+TS 26 VT 2710,Mercedes,GLC,2022,47520.0,Diesel,Automatic,1998.0,First,25100.0
+WB 61 UY 7849,Honda,City,2025,14961.0,Electric,Automatic,0.0,First,14700.0
+WB 10 ZX 1980,Honda,Accord,2010,255041.0,Petrol,Automatic,1799.0,Fourth & Above,2500.0
+KL 81 NG 6493,Ford,Explorer,2017,79687.0,Electric,Automatic,0.0,First,6300.0
+AP 82 QX 5660,BMW,5 Series,2014,122755.0,CNG,Automatic,1998.0,Second,6500.0
+TN 06 AX 5011,Volkswagen,Tiguan,2023,33612.0,Petrol,Automatic,1799.0,Second,12000.0
+AP 45 TV 9228,Mahindra,Scorpio,2017,126433.0,Diesel,Manual,1197.0,First,3600.0
+DL 88 PN 6611,Tata,Altroz,2016,95595.0,CNG,Automatic,1598.0,First,4000.0
+WB 04 MZ 6785,Audi,A4,2020,106408.0,Diesel,Manual,1998.0,First,14300.0
+HR 41 LH 5078,Ford,EcoSport,2022,46437.0,Diesel,Automatic,1197.0,First,14100.0
+GJ 38 SN 3617,Mahindra,Scorpio,2022,48566.0,CNG,Automatic,1497.0,Fourth & Above,11200.0
+AP 75 ES 7861,Ford,F-150,2019,109892.0,Petrol,Automatic,2755.0,Fourth & Above,6800.0
+KL 23 TH 6235,Hyundai,Creta,2020,101096.0,Petrol,Automatic,1598.0,Second,6500.0
+KA 39 NZ 7082,Tesla,Model 3,2024,29548.0,Electric,Manual,0.0,First,27900.0
+TS 64 XS 8596,Toyota,Corolla,2014,192661.0,Electric,Automatic,0.0,First,2500.0
+UP 68 EC 5794,Ford,F-150,2013,218487.0,Petrol,Automatic,2755.0,First,2500.0
+AP 63 MY 8295,Mahindra,XUV700,2017,92956.0,Diesel,Manual,3198.0,Third,4200.0
+MH 20 AB 9486,Toyota,Highlander,2016,122578.0,Diesel,Automatic,2198.0,Second,3800.0
+KL 87 SM 1375,Mercedes,S-Class,2018,78388.0,CNG,Manual,2497.0,Second,12500.0
+WB 87 IT 5686,Maruti,Baleno,2022,55910.0,Petrol,Manual,999.0,Fourth & Above,7600.0
+DL 19 IT 7055,Tata,Tiago,2014,103824.0,Electric,Automatic,0.0,First,2500.0
+KA 61 LZ 9693,Honda,Amaze,2016,121719.0,Petrol,Manual,1497.0,First,2900.0
+KA 08 JB 5455,Tesla,Model S,2011,202329.0,Electric,Manual,0.0,Third,2500.0
+WB 84 DI 9438,BMW,3 Series,2021,64857.0,Hybrid,Manual,2993.0,Second,17300.0
+TN 14 MQ 6206,Volkswagen,Jetta,2025,13381.0,CNG,Manual,999.0,Second,18300.0
+UP 05 EO 2682,Tata,Safari,2024,22562.0,Electric,Automatic,0.0,First,12600.0
+AP 67 ND 2395,Tata,Tiago,2016,129784.0,Petrol,Manual,1799.0,Third,3600.0
+KL 06 XK 1460,Audi,Q7,2022,52858.0,CNG,Manual,2497.0,Second,21200.0
+MH 70 LH 6975,Hyundai,i20,2016,119514.0,CNG,Manual,1598.0,Third,3000.0
+TN 09 VK 9837,BMW,5 Series,2015,121603.0,Diesel,Manual,3982.0,Fourth & Above,6400.0
+GJ 44 GF 8569,Mercedes,GLE,2023,43860.0,Diesel,Manual,1998.0,Second,25000.0
+TN 22 KE 9484,Ford,EcoSport,2022,52440.0,Diesel,Automatic,999.0,Third,14400.0
+UP 61 EX 1130,Hyundai,Tucson,2023,29149.0,CNG,Automatic,999.0,Second,11800.0
+KA 16 YQ 5792,Volkswagen,Virtus,2017,125861.0,Diesel,Automatic,1598.0,Fourth & Above,3800.0
+TN 02 OC 3399,Ford,F-150,2014,182118.0,CNG,Automatic,2198.0,Second,2600.0
+WB 07 LX 8920,Honda,Civic,2014,184073.0,Diesel,Automatic,1598.0,Third,2500.0
+UP 81 PD 7163,Tesla,Model S,2024,37084.0,Electric,Automatic,0.0,First,32200.0
+UP 93 VM 9585,Hyundai,Verna,2023,37091.0,Electric,Automatic,0.0,Third,9800.0
+HR 18 VM 6972,BMW,5 Series,2019,111592.0,CNG,Automatic,2497.0,Second,13400.0
+TN 59 AL 5661,BMW,X5,2016,177447.0,Petrol,Manual,2497.0,Third,6000.0
+TS 05 XW 2575,Mahindra,XUV700,2023,26958.0,Electric,Manual,0.0,First,15300.0
+MH 52 LR 4423,Toyota,Camry,2022,64991.0,Electric,Manual,0.0,First,12200.0
+GJ 92 GL 9060,Volkswagen,Tiguan,2024,37586.0,CNG,Manual,1497.0,Second,13300.0
+GJ 53 UM 5647,Honda,Amaze,2015,103139.0,Electric,Manual,0.0,Third,2900.0
+MH 67 EJ 7436,Volkswagen,Jetta,2014,100584.0,Electric,Manual,0.0,Fourth & Above,2900.0
+TN 89 XV 3314,Maruti,Brezza,2018,136033.0,Diesel,Automatic,1497.0,Second,2500.0
+TN 72 YK 5584,Toyota,Fortuner,2022,59908.0,Electric,Manual,0.0,Third,10900.0
+AP 84 GM 4289,BMW,5 Series,2025,19376.0,Diesel,Manual,2497.0,Second,35800.0
+KA 94 AZ 6074,Toyota,Camry,2011,129680.0,Petrol,Manual,1799.0,First,2500.0
+UP 97 FT 1828,Maruti,Swift,2015,150869.0,Diesel,Automatic,999.0,Third,2500.0
+AP 51 FR 1405,Audi,A6,2011,262344.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+UP 39 YO 5201,Maruti,Swift,2014,217902.0,Electric,Manual,0.0,Third,2500.0
+DL 87 YX 5006,Mahindra,Thar,2021,87449.0,Petrol,Manual,1999.0,Third,8300.0
+UP 16 XJ 3292,Toyota,Fortuner,2023,40727.0,Electric,Automatic,0.0,Second,13500.0
+AP 62 WD 9340,Volkswagen,Virtus,2017,117326.0,Hybrid,Manual,1598.0,First,4400.0
+GJ 86 VL 1402,Mahindra,Bolero,2022,68290.0,CNG,Manual,1197.0,Fourth & Above,10000.0
+KL 66 WQ 1183,Honda,City,2015,141193.0,CNG,Manual,1598.0,Second,2500.0
+WB 78 VW 9810,Audi,A6,2024,30214.0,Electric,Automatic,0.0,Second,27800.0
+KL 62 OE 8107,Audi,A4,2024,25163.0,Hybrid,Manual,2993.0,Second,29700.0
+KA 91 JD 8222,Hyundai,i20,2025,12901.0,Diesel,Automatic,1497.0,First,13700.0
+TS 51 LZ 2520,Honda,City,2020,80301.0,CNG,Manual,1799.0,Second,7200.0
+TS 06 AW 4008,Maruti,Ertiga,2024,19062.0,Hybrid,Automatic,999.0,First,11300.0
+WB 30 UA 3314,Mercedes,GLC,2015,148302.0,Electric,Automatic,0.0,Fourth & Above,6800.0
+AP 81 BP 5509,Audi,A6,2010,151682.0,Diesel,Automatic,1998.0,First,2900.0
+DL 53 TG 2950,Ford,Endeavour,2010,195812.0,Hybrid,Manual,2755.0,Second,2500.0
+HR 23 MU 7938,Volkswagen,Polo,2022,39893.0,Electric,Manual,0.0,First,12400.0
+KA 83 YI 5998,Ford,F-150,2024,26147.0,Hybrid,Manual,4951.0,Third,22100.0
+GJ 64 ZG 6929,Tata,Tiago,2021,88777.0,Electric,Automatic,0.0,First,7900.0
+GJ 69 VN 6798,Volkswagen,Tiguan,2018,141055.0,Hybrid,Manual,1598.0,Third,4200.0
+AP 81 FN 9102,Maruti,Baleno,2018,108104.5,CNG,Manual,1999.0,Third,3300.0
+GJ 61 AQ 5763,BMW,X5,2022,68265.0,Diesel,Manual,3982.0,First,21100.0
+AP 77 WK 9774,BMW,5 Series,2023,50583.0,Diesel,Automatic,2497.0,Third,29000.0
+MH 69 IM 8593,Toyota,RAV4,2010,254267.0,Hybrid,Manual,1999.0,Third,2500.0
+KL 19 SK 5417,Ford,Mustang,2011,190804.0,CNG,Manual,4951.0,First,2500.0
+TS 15 LB 3173,Volkswagen,Tiguan,2010,171371.0,Petrol,Automatic,1497.0,Second,2500.0
+DL 09 EO 5338,Tesla,Model S,2010,178357.0,Electric,Manual,0.0,Third,2500.0
+KA 15 EH 6776,Volkswagen,Jetta,2017,143035.0,Hybrid,Manual,1999.0,First,3700.0
+AP 87 MF 6635,Audi,A4,2018,145168.0,Hybrid,Manual,2993.0,Fourth & Above,7300.0
+KA 34 UY 8067,Honda,Civic,2021,67909.0,CNG,Automatic,1497.0,Third,7200.0
+TS 97 VH 8434,Toyota,Fortuner,2012,196140.0,Petrol,Automatic,3198.0,Third,2500.0
+KL 33 MD 3300,Tesla,Model 3,2023,29817.0,Electric,Automatic,0.0,Fourth & Above,25100.0
+AP 04 QI 9613,Honda,CR-V,2025,14438.0,Diesel,Automatic,999.0,Third,14000.0
+UP 56 HA 4848,Honda,Amaze,2024,24901.0,CNG,Manual,1799.0,Fourth & Above,12100.0
+UP 76 RE 3048,Audi,Q5,2012,175992.0,Petrol,Automatic,1998.0,Third,3200.0
+GJ 72 QB 6055,Volkswagen,Virtus,2024,24766.0,Diesel,Manual,1197.0,Third,16400.0
+AP 39 LB 3371,Maruti,Brezza,2012,184666.0,Petrol,Manual,1799.0,Third,2500.0
+KL 24 TT 2047,Maruti,Baleno,2017,83657.0,Electric,Automatic,0.0,Third,3100.0
+DL 83 JH 8141,Honda,CR-V,2019,101326.0,Hybrid,Manual,1799.0,First,5500.0
+WB 14 KA 7684,Audi,Q5,2017,155719.0,Petrol,Manual,2497.0,Fourth & Above,5900.0
+KL 28 FQ 2827,Ford,Endeavour,2013,232078.0,CNG,Manual,3198.0,Fourth & Above,2500.0
+UP 71 HM 2237,Tata,Harrier,2012,220034.0,Electric,Manual,0.0,Second,2500.0
+UP 66 VO 8984,Hyundai,Creta,2016,150680.0,Electric,Manual,0.0,First,2500.0
+HR 41 BA 3909,Toyota,Highlander,2019,83617.0,CNG,Manual,2755.0,Third,6600.0
+HR 82 LB 3786,Toyota,Corolla,2022,64779.0,CNG,Automatic,1197.0,First,13100.0
+DL 35 NV 8524,Audi,Q5,2022,52689.0,Hybrid,Manual,1998.0,Third,22400.0
+TN 10 HR 3165,Volkswagen,Tiguan,2019,102926.0,Diesel,Manual,1799.0,Fourth & Above,5600.0
+KA 70 JF 3439,Mahindra,XUV700,2012,122786.0,Petrol,Manual,3198.0,Second,2500.0
+DL 88 XC 7336,Toyota,Camry,2017,123375.0,Hybrid,Manual,999.0,Second,5200.0
+UP 02 OX 9360,Maruti,Swift,2023,35032.0,Diesel,Manual,1197.0,Fourth & Above,9000.0
+KA 07 PA 8483,Audi,Q5,2025,14020.0,Petrol,Manual,2497.0,Third,32300.0
+TN 68 LC 2804,Honda,City,2017,98670.0,CNG,Automatic,1197.0,First,3600.0
+AP 45 KM 2882,Audi,A4,2018,130099.0,Hybrid,Automatic,3982.0,Fourth & Above,8000.0
+WB 65 QN 3316,Audi,A6,2024,25868.0,Electric,Automatic,0.0,First,32900.0
+TN 48 LP 4399,Tata,Harrier,2021,61577.0,Electric,Automatic,0.0,Fourth & Above,8500.0
+MH 28 VU 5729,Mahindra,Thar,2016,138855.0,Electric,Automatic,0.0,First,3000.0
+DL 01 JV 2809,Volkswagen,Virtus,2012,158419.0,Electric,Manual,0.0,Fourth & Above,2500.0
+DL 15 TM 9714,Honda,City,2023,51110.0,Diesel,Manual,1197.0,Third,9800.0
+AP 69 SM 9364,Tesla,Model Y,2016,171380.0,Electric,Manual,0.0,Third,5200.0
+KL 88 TU 4732,Mahindra,Thar,2016,120975.0,Diesel,Manual,1497.0,First,3700.0
+KL 08 MK 4654,Tata,Harrier,2012,222477.0,Diesel,Manual,1999.0,First,2500.0
+GJ 21 IP 3032,Mercedes,C-Class,2011,257375.0,Diesel,Manual,3982.0,First,2500.0
+KL 68 TX 9530,Maruti,Baleno,2010,143457.0,CNG,Automatic,1598.0,First,2500.0
+MH 14 PD 2808,Volkswagen,Tiguan,2025,20270.0,Electric,Manual,0.0,Third,15500.0
+KL 28 UZ 6134,Mercedes,S-Class,2023,52667.0,Hybrid,Manual,1998.0,First,26400.0
+KL 23 XY 7789,Tata,Harrier,2013,234910.0,Petrol,Manual,1497.0,Fourth & Above,2500.0
+DL 68 WW 1877,Honda,City,2019,100487.0,CNG,Manual,1799.0,First,5500.0
+KL 45 GZ 3813,Tata,Tiago,2015,166202.0,Diesel,Manual,999.0,Fourth & Above,2500.0
+UP 68 KI 1600,Honda,City,2017,147987.0,Electric,Manual,0.0,Second,2600.0
+TS 65 HK 7899,Toyota,RAV4,2011,160091.0,CNG,Automatic,1497.0,Third,2500.0
+TS 14 OZ 5461,BMW,7 Series,2013,128311.0,Diesel,Manual,2993.0,Second,5400.0
+KA 91 FW 4078,Honda,Amaze,2015,128016.0,Petrol,Automatic,1598.0,Fourth & Above,2900.0
+DL 93 YR 5123,Tata,Nexon,2013,197088.0,CNG,Automatic,1497.0,Third,2500.0
+GJ 85 XK 1755,Hyundai,Sonata,2013,146684.0,Petrol,Manual,1598.0,First,2500.0
+TN 72 XT 3880,Volkswagen,Virtus,2019,85518.0,CNG,Automatic,1999.0,Second,5700.0
+GJ 09 CG 4535,Tesla,Model 3,2024,29774.0,Electric,Automatic,0.0,First,30600.0
+DL 91 JA 3953,Audi,Q7,2016,130924.0,Electric,Manual,0.0,First,5000.0
+DL 24 XH 8108,Mercedes,E-Class,2015,163037.0,Hybrid,Manual,1998.0,Second,5200.0
+GJ 35 EV 1504,Hyundai,Tucson,2010,146240.0,Hybrid,Automatic,1197.0,Third,2500.0
+KA 16 VX 9433,Ford,F-150,2017,148781.0,Petrol,Automatic,4951.0,Fourth & Above,4300.0
+DL 80 RT 2064,Tata,Nexon,2020,75087.0,CNG,Automatic,1497.0,First,7000.0
+UP 08 QF 7316,BMW,X5,2011,172311.0,Diesel,Automatic,1998.0,Third,3000.0
+MH 05 UF 4962,Honda,Civic,2010,233153.0,Hybrid,Automatic,1999.0,Second,2500.0
+DL 30 RM 2528,Mahindra,Bolero,2022,52967.0,Electric,Manual,0.0,Second,11100.0
+HR 17 IU 3437,Audi,Q5,2012,232367.0,CNG,Manual,2497.0,First,3200.0
+HR 87 QR 4769,Mercedes,C-Class,2022,50696.0,Diesel,Automatic,2497.0,Fourth & Above,21800.0
+GJ 56 YZ 6930,BMW,X3,2016,128674.0,CNG,Automatic,2993.0,Fourth & Above,7800.0
+KL 35 GK 1355,Mercedes,E-Class,2019,76684.0,Electric,Manual,0.0,Third,13900.0
+TN 32 SN 7913,Audi,Q5,2015,199559.0,CNG,Automatic,3982.0,Third,4800.0
+KL 16 ZR 9569,Mercedes,GLC,2016,113656.0,Electric,Automatic,0.0,Third,7200.0
+HR 37 XX 7585,BMW,3 Series,2011,238495.0,Hybrid,Automatic,3982.0,Second,2500.0
+KA 59 WU 1364,Volkswagen,Virtus,2023,40247.0,CNG,Automatic,999.0,Fourth & Above,12100.0
+DL 68 IZ 8340,Tata,Tiago,2011,134793.0,Electric,Manual,0.0,First,2500.0
+KA 70 XQ 7920,Honda,CR-V,2022,53651.0,Electric,Automatic,0.0,First,9500.0
+TS 79 UN 9472,Toyota,Innova,2013,157615.0,Hybrid,Manual,1497.0,Second,2500.0
+DL 63 KJ 1746,Hyundai,Elantra,2018,108104.5,Hybrid,Automatic,1999.0,Fourth & Above,4800.0
+KA 39 BE 6413,Ford,F-150,2015,178233.0,Electric,Manual,0.0,Third,3000.0
+HR 66 ZC 7738,Toyota,Innova,2017,124987.0,Electric,Automatic,0.0,Second,5200.0
+GJ 45 HA 2385,BMW,7 Series,2019,100142.0,Electric,Manual,0.0,Fourth & Above,11400.0
+TN 98 JU 9252,Toyota,Camry,2014,152025.0,CNG,Automatic,1799.0,First,2900.0
+AP 19 BG 7921,Hyundai,Sonata,2025,15693.0,Electric,Manual,0.0,Second,15300.0
+DL 30 DR 2178,BMW,X3,2019,105445.0,CNG,Automatic,3982.0,Fourth & Above,13100.0
+TN 58 HD 8315,Volkswagen,Jetta,2016,104994.0,Electric,Manual,0.0,Fourth & Above,4000.0
+AP 57 RK 1674,Mercedes,GLC,2021,67593.0,Diesel,Automatic,3982.0,Second,18100.0
+WB 31 JQ 6476,Maruti,Ertiga,2025,18197.0,Electric,Automatic,0.0,Third,12200.0
+DL 61 MO 7879,Ford,Endeavour,2021,85206.0,Electric,Automatic,0.0,First,12000.0
+HR 77 OL 4272,Maruti,Dzire,2019,62240.0,Petrol,Automatic,1598.0,Fourth & Above,4300.0
+WB 92 BS 5550,Mercedes,C-Class,2012,159277.0,Diesel,Manual,1998.0,First,4100.0
+HR 44 HQ 6464,Tesla,Model 3,2023,37606.0,Electric,Manual,0.0,Second,28800.0
+WB 88 VY 1220,Volkswagen,Virtus,2021,57115.0,Diesel,Manual,1598.0,Fourth & Above,10300.0
+HR 75 YV 6925,Toyota,RAV4,2024,21576.0,Petrol,Manual,1999.0,First,17300.0
+KA 88 KQ 4523,Tata,Nexon,2012,200062.0,CNG,Automatic,999.0,Third,2500.0
+KA 66 UY 7690,Tesla,Model Y,2018,97449.0,Electric,Automatic,0.0,Fourth & Above,10700.0
+AP 71 EW 1259,Maruti,Dzire,2010,175752.0,CNG,Automatic,1999.0,Fourth & Above,2500.0
+UP 09 IW 3688,Tesla,Model Y,2014,142635.0,Electric,Automatic,0.0,First,5100.0
+TN 41 IP 4964,Tesla,Model 3,2017,74046.0,Electric,Automatic,0.0,Fourth & Above,12000.0
+GJ 50 MB 6051,Audi,Q7,2015,147262.5,Petrol,Automatic,2497.0,First,4800.0
+GJ 44 FI 8458,Mahindra,Scorpio,2024,35205.0,CNG,Manual,1598.0,Third,16100.0
+WB 22 XH 9266,Mercedes,GLC,2014,98628.0,Hybrid,Automatic,1998.0,First,7800.0
+KL 62 JD 4338,Mahindra,XUV700,2021,92754.0,Electric,Automatic,0.0,Third,9000.0
+HR 54 YK 9757,Honda,Accord,2021,47515.0,Petrol,Manual,1799.0,Third,7900.0
+GJ 78 KK 1948,Honda,CR-V,2016,179829.0,CNG,Automatic,1999.0,Second,2500.0
+KA 49 OL 3913,Audi,Q5,2012,245218.0,CNG,Automatic,2993.0,Third,3200.0
+DL 69 CI 7310,BMW,7 Series,2016,175634.0,Diesel,Automatic,1998.0,First,5700.0
+TS 74 OX 4967,BMW,X3,2014,185357.0,Diesel,Automatic,1998.0,Second,4200.0
+KA 38 XM 2443,Toyota,Fortuner,2013,129600.0,Diesel,Automatic,3198.0,Second,2500.0
+TN 25 BZ 6034,BMW,5 Series,2012,162092.0,Hybrid,Manual,1998.0,First,3300.0
+HR 85 YK 6239,Mercedes,C-Class,2024,26170.0,Petrol,Manual,2993.0,Fourth & Above,35100.0
+MH 77 SD 3316,Mahindra,Bolero,2023,35322.0,Hybrid,Automatic,1799.0,First,14200.0
+KA 89 XM 7234,Tata,Tiago,2018,92519.0,Hybrid,Manual,999.0,First,4900.0
+MH 95 DM 9774,Tesla,Model S,2012,118998.0,Electric,Manual,0.0,Second,4800.0
+AP 80 SY 7249,Ford,EcoSport,2014,115568.0,Electric,Automatic,0.0,Fourth & Above,3300.0
+MH 85 ZU 6762,Ford,Mustang,2016,146128.0,Petrol,Manual,3198.0,First,4100.0
+WB 85 OI 6564,Mahindra,XUV700,2014,164975.0,Diesel,Manual,2198.0,Second,2500.0
+KA 38 KF 1732,Audi,Q7,2014,128256.0,Electric,Manual,0.0,Second,5600.0
+GJ 04 FZ 3980,Hyundai,Verna,2010,242629.0,CNG,Automatic,1598.0,First,2500.0
+AP 89 TK 1682,Mercedes,C-Class,2023,51884.0,Electric,Automatic,0.0,Fourth & Above,30700.0
+HR 27 BD 7372,Tesla,Model S,2010,170481.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+TS 55 WT 4893,Hyundai,Verna,2021,63108.0,CNG,Automatic,1999.0,Fourth & Above,8800.0
+DL 72 MA 5578,Honda,Accord,2022,59569.0,Diesel,Manual,999.0,First,10200.0
+TS 16 YX 5200,Mahindra,Scorpio,2024,35369.0,CNG,Manual,1799.0,Second,12800.0
+KA 34 OZ 1782,Maruti,Ertiga,2020,95031.0,CNG,Automatic,1497.0,Third,4600.0
+DL 82 BS 6429,Hyundai,Sonata,2019,90078.0,CNG,Automatic,1999.0,First,5300.0
+GJ 96 YN 6435,Tesla,Model 3,2014,177476.0,Electric,Automatic,0.0,Fourth & Above,4300.0
+GJ 01 YY 2815,Tata,Harrier,2015,132085.0,CNG,Manual,1799.0,Second,3100.0
+HR 88 NP 7709,Maruti,Baleno,2014,127294.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+UP 42 SP 6484,Volkswagen,Virtus,2010,228326.0,Hybrid,Manual,1497.0,Fourth & Above,2500.0
+TS 77 UF 9240,Ford,Mustang,2017,105969.0,Electric,Automatic,0.0,Third,6000.0
+HR 68 MV 3563,Tesla,Model S,2025,14579.0,Electric,Manual,0.0,First,40000.0
+HR 79 NL 6214,Tata,Altroz,2020,97992.0,Petrol,Automatic,1497.0,Fourth & Above,5900.0
+TN 07 SG 6750,Honda,CR-V,2023,34766.0,Electric,Automatic,0.0,Fourth & Above,10300.0
+TS 74 PU 3543,Tesla,Model S,2015,96153.0,Electric,Manual,0.0,First,8100.0
+AP 71 BS 9518,Ford,F-150,2014,113273.0,CNG,Manual,2755.0,Third,3700.0
+DL 39 RA 2179,Mercedes,GLE,2011,267455.0,CNG,Manual,1998.0,Third,3100.0
+TS 42 II 7829,Hyundai,Sonata,2024,33453.0,CNG,Automatic,1999.0,Fourth & Above,13000.0
+AP 82 WE 9122,Toyota,RAV4,2017,129289.0,Petrol,Automatic,1497.0,Fourth & Above,5300.0
+TS 53 OX 3515,Ford,Mustang,2020,81184.0,Hybrid,Manual,2755.0,First,9400.0
+TN 87 PO 6573,Maruti,Brezza,2011,146948.0,Hybrid,Automatic,1799.0,Second,2500.0
+TS 51 PU 9388,Hyundai,i20,2014,108355.0,Diesel,Automatic,1197.0,Third,3000.0
+UP 90 SD 9271,Mercedes,GLC,2022,35345.0,Petrol,Automatic,1998.0,Third,26700.0
+UP 22 KG 2643,Honda,City,2025,13020.0,CNG,Automatic,999.0,Third,16900.0
+AP 45 MY 6230,Tata,Safari,2015,148893.0,Diesel,Automatic,1497.0,Fourth & Above,2500.0
+AP 69 PV 9071,Audi,A4,2025,10491.0,CNG,Automatic,2993.0,Second,34300.0
+TN 63 MW 4948,Honda,CR-V,2023,49719.0,CNG,Manual,1799.0,Third,11600.0
+KA 16 KU 5133,Mercedes,C-Class,2021,53900.0,Electric,Manual,0.0,First,21800.0
+GJ 62 EF 6773,Mahindra,Bolero,2017,144443.0,Hybrid,Manual,1999.0,First,3400.0
+GJ 43 UL 8661,Hyundai,Creta,2020,73492.0,Hybrid,Automatic,1497.0,Fourth & Above,5900.0
+WB 96 SZ 6636,BMW,7 Series,2020,61541.0,CNG,Automatic,2993.0,Third,17200.0
+GJ 99 IU 2926,Mahindra,Scorpio,2025,14627.0,Electric,Automatic,0.0,First,16500.0
+KA 33 MZ 8284,BMW,X5,2015,118183.0,Hybrid,Automatic,2993.0,First,5800.0
+TS 92 KS 6571,Volkswagen,Polo,2018,125333.0,CNG,Automatic,1497.0,Second,3900.0
+DL 78 MD 1316,Toyota,Fortuner,2016,132064.0,Electric,Manual,0.0,First,4000.0
+AP 59 SZ 5418,Honda,City,2021,71913.0,Petrol,Manual,1999.0,Fourth & Above,6400.0
+MH 15 XZ 6982,Audi,A4,2025,17232.0,Diesel,Automatic,1998.0,Third,35400.0
+TS 87 ZL 9637,Audi,A6,2023,41062.0,Hybrid,Manual,3982.0,Fourth & Above,29800.0
+DL 45 DY 4176,Audi,Q7,2011,196175.0,Diesel,Manual,1998.0,Third,2900.0
+HR 79 HN 7638,Audi,A4,2012,151283.0,Electric,Automatic,0.0,Second,3600.0
+HR 67 AG 1180,Volkswagen,Jetta,2020,80874.0,CNG,Automatic,999.0,Fourth & Above,8100.0
+AP 04 QF 6614,Volkswagen,Polo,2024,31384.0,Hybrid,Automatic,1799.0,Third,15900.0
+GJ 50 NS 2698,Ford,EcoSport,2017,155606.0,CNG,Automatic,1197.0,First,4800.0
+TS 21 ZM 2353,Honda,Accord,2014,215016.0,Diesel,Manual,1999.0,Third,2500.0
+TS 58 IU 5470,Honda,Amaze,2025,19083.0,Diesel,Automatic,1598.0,Third,17400.0
+KA 99 WR 6613,Tata,Safari,2016,101832.0,Hybrid,Automatic,999.0,Third,3200.0
+WB 83 RD 4545,Honda,Accord,2022,70604.0,Petrol,Automatic,999.0,Second,7700.0
+MH 22 AC 5276,Mahindra,Bolero,2019,113770.0,Hybrid,Automatic,1497.0,First,5400.0
+GJ 27 MA 4204,Volkswagen,Jetta,2016,106361.0,Petrol,Manual,1197.0,First,3700.0
+TN 54 VV 8916,Toyota,Fortuner,2025,19364.0,Hybrid,Automatic,2198.0,Fourth & Above,22900.0
+KL 89 CU 7816,Tata,Nexon,2017,144302.0,CNG,Automatic,1598.0,First,3200.0
+AP 74 HB 4705,Ford,Mustang,2025,11600.0,CNG,Automatic,3198.0,First,20900.0
+KA 76 TC 7574,Volkswagen,Jetta,2022,69415.0,Electric,Automatic,0.0,Fourth & Above,9600.0
+HR 17 KV 2875,Toyota,RAV4,2017,127912.0,Hybrid,Manual,1999.0,Fourth & Above,4000.0
+GJ 19 SM 8611,Tesla,Model S,2024,31147.0,Electric,Automatic,0.0,First,28300.0
+TS 22 MZ 1056,Toyota,Highlander,2018,82855.0,Diesel,Manual,4951.0,Second,7200.0
+MH 78 HG 7030,Ford,Explorer,2013,162987.0,Petrol,Automatic,1497.0,Third,2500.0
+TS 11 PJ 6538,Maruti,Baleno,2019,73805.0,Petrol,Manual,1497.0,Fourth & Above,4200.0
+KA 20 RH 4103,Mercedes,GLE,2016,160972.0,Petrol,Manual,1998.0,Second,5800.0
+UP 59 DP 9076,Honda,Amaze,2020,74864.0,CNG,Automatic,1197.0,First,6100.0
+MH 33 WM 1078,Honda,City,2010,161140.0,CNG,Automatic,1799.0,First,2500.0
+GJ 34 DY 8430,Hyundai,Elantra,2022,46371.0,CNG,Automatic,1197.0,Second,9500.0
+TS 84 WS 8455,Tata,Altroz,2024,36055.0,Petrol,Manual,1497.0,Fourth & Above,12500.0
+UP 54 XX 8392,Volkswagen,Jetta,2012,204357.0,Diesel,Manual,1197.0,Second,2500.0
+UP 39 WO 4558,Hyundai,Creta,2018,145924.0,Petrol,Automatic,1799.0,Third,3900.0
+UP 75 LS 5897,Honda,Amaze,2012,253263.0,Hybrid,Automatic,1598.0,Second,2500.0
+TS 38 VX 6752,Mahindra,Bolero,2013,118879.0,CNG,Automatic,1497.0,Fourth & Above,2800.0
+UP 27 JQ 6535,Tata,Safari,2024,22258.0,Electric,Manual,0.0,Second,13900.0
+AP 49 XS 3981,Mercedes,C-Class,2016,141432.0,Hybrid,Automatic,3982.0,Third,6000.0
+KL 57 OO 7137,Volkswagen,Virtus,2012,144116.0,Electric,Automatic,0.0,First,2500.0
+KL 76 FX 8275,Mahindra,Thar,2016,141522.0,Electric,Manual,0.0,Fourth & Above,3000.0
+MH 24 VZ 1532,Honda,Civic,2011,265990.0,Hybrid,Manual,1799.0,Second,2500.0
+UP 30 II 7210,Tata,Tiago,2015,121272.0,Diesel,Manual,1197.0,First,2700.0
+TN 52 TL 3138,Toyota,Highlander,2010,266330.0,Electric,Automatic,0.0,Second,2500.0
+DL 62 WB 1540,BMW,X3,2024,29320.0,Diesel,Automatic,2497.0,First,32200.0
+KA 75 UY 9524,Tata,Safari,2018,110797.0,Hybrid,Automatic,1497.0,Fourth & Above,4200.0
+AP 98 JE 6982,Toyota,RAV4,2015,132684.0,Diesel,Manual,1197.0,Third,4100.0
+MH 06 HX 3130,Hyundai,Elantra,2025,18455.0,Electric,Automatic,0.0,Fourth & Above,13500.0
+DL 76 YS 3158,Ford,Mustang,2017,156562.0,Petrol,Manual,4951.0,Third,4800.0
+MH 40 SL 7696,Maruti,Dzire,2025,14136.0,Electric,Manual,0.0,First,10900.0
+TN 31 GY 3994,Ford,Endeavour,2013,169271.0,Electric,Automatic,0.0,Third,2500.0
+TS 88 CE 1347,Maruti,Ertiga,2010,204438.0,Petrol,Manual,1799.0,Second,2500.0
+HR 68 PT 3252,Ford,Explorer,2010,145712.0,Hybrid,Automatic,1497.0,Third,2500.0
+TN 13 LF 7647,Volkswagen,Polo,2011,252342.0,Electric,Manual,0.0,Fourth & Above,2500.0
+TS 38 XR 4090,Volkswagen,Virtus,2018,90362.0,Diesel,Automatic,1598.0,First,5300.0
+KA 34 KO 3515,BMW,3 Series,2021,68358.0,Diesel,Manual,2497.0,Fourth & Above,18300.0
+TS 06 XD 8082,BMW,5 Series,2022,53488.0,CNG,Automatic,3982.0,First,19300.0
+MH 71 XX 6780,Mahindra,Bolero,2014,100841.0,Petrol,Manual,999.0,First,3500.0
+DL 97 PS 6578,Ford,Explorer,2017,140331.0,CNG,Manual,0.0,Third,4800.0
+DL 78 UO 2364,Maruti,Baleno,2013,153535.0,Hybrid,Automatic,999.0,First,2500.0
+KA 40 FJ 8663,Mercedes,S-Class,2015,199711.0,Electric,Automatic,0.0,Fourth & Above,4400.0
+WB 74 ZP 8365,BMW,7 Series,2023,30274.0,CNG,Manual,1998.0,Second,25500.0
+TS 39 TO 9501,BMW,X5,2024,30127.0,Hybrid,Automatic,2993.0,Second,29100.0
+WB 83 BF 1768,Mahindra,XUV700,2022,47917.0,Electric,Automatic,0.0,Second,12400.0
+TN 73 JA 2078,BMW,X3,2010,232014.0,Electric,Automatic,0.0,First,2500.0
+MH 17 LI 3519,Tata,Safari,2025,12941.0,Hybrid,Manual,1598.0,Fourth & Above,17800.0
+KA 87 KE 8647,Toyota,Corolla,2023,49380.0,CNG,Manual,1999.0,Third,16900.0
+TS 54 SZ 1208,BMW,3 Series,2013,203515.0,Diesel,Automatic,1998.0,Third,3200.0
+HR 58 ZJ 3680,Toyota,Innova,2012,186541.0,CNG,Manual,1497.0,Second,2500.0
+KA 46 HT 1325,Ford,Endeavour,2017,151917.0,Hybrid,Automatic,4951.0,Fourth & Above,4800.0
+TN 93 GE 1260,Ford,Explorer,2023,48728.0,Hybrid,Automatic,1598.0,Second,15100.0
+KL 65 PH 6322,Audi,A4,2011,189218.0,Electric,Manual,0.0,Third,2500.0
+MH 93 WX 2002,Hyundai,Tucson,2011,229296.0,Diesel,Manual,1799.0,Fourth & Above,2500.0
+DL 88 SM 1314,Tesla,Model Y,2024,39252.0,Electric,Manual,0.0,Second,28500.0
+DL 43 OG 5065,Mercedes,GLC,2016,157621.0,Diesel,Automatic,3982.0,Second,6500.0
+WB 27 BF 4768,Maruti,Swift,2017,98901.0,Diesel,Automatic,1197.0,Third,3100.0
+GJ 48 GW 8514,Tata,Safari,2013,215477.0,Electric,Automatic,0.0,First,2500.0
+MH 42 DA 8986,Ford,Mustang,2017,93892.0,Petrol,Automatic,2755.0,First,5600.0
+TN 35 EE 5901,Tesla,Model 3,2021,89657.0,Electric,Manual,0.0,Third,17300.0
+DL 66 ZB 8967,Hyundai,Creta,2019,64359.0,Diesel,Automatic,999.0,Third,5400.0
+HR 79 IY 2120,Maruti,Swift,2012,234516.0,CNG,Manual,1999.0,Third,2500.0
+AP 56 ZH 3845,Audi,Q7,2013,150302.0,Hybrid,Automatic,1998.0,Fourth & Above,4700.0
+KA 86 VR 6974,Maruti,Baleno,2018,97836.0,Electric,Manual,1347.0,Fourth & Above,3000.0
+TS 06 JE 1896,Tesla,Model Y,2017,101471.0,Electric,Automatic,0.0,Fourth & Above,10700.0
+HR 25 VG 7921,Hyundai,i20,2022,54472.0,Electric,Automatic,0.0,Fourth & Above,10400.0
+AP 94 DB 4547,Toyota,Fortuner,2011,235145.0,Petrol,Manual,3198.0,First,2500.0
+AP 85 DM 4982,Audi,A6,2025,19408.0,CNG,Manual,1998.0,Second,33800.0
+TS 54 TB 6742,Maruti,Ertiga,2013,160025.0,CNG,Automatic,1799.0,First,2500.0
+TN 02 PE 8999,Volkswagen,Polo,2022,47963.0,CNG,Manual,1598.0,Fourth & Above,9600.0
+TS 54 JA 8636,Ford,Mustang,2013,196294.0,Hybrid,Automatic,2755.0,Second,2500.0
+HR 45 JT 9988,Maruti,Baleno,2010,283396.0,Electric,Automatic,0.0,Third,2500.0
+AP 68 QX 7846,BMW,X5,2024,35874.0,Electric,Automatic,0.0,First,35500.0
+TS 56 BL 6987,Mahindra,Scorpio,2012,235926.0,Electric,Manual,0.0,First,2500.0
+MH 03 XB 3206,Tata,Harrier,2019,77428.0,CNG,Manual,1197.0,Fourth & Above,6200.0
+DL 03 VG 2628,Hyundai,i20,2021,67331.0,Diesel,Manual,1999.0,Fourth & Above,7800.0
+KL 87 EA 2695,Tata,Altroz,2025,13213.0,Electric,Manual,0.0,Third,15700.0
+TS 38 SB 9311,Ford,F-150,2011,143274.0,Hybrid,Automatic,2198.0,Third,2500.0
+KL 31 QQ 8836,Tesla,Model S,2011,223215.0,Electric,Manual,0.0,Fourth & Above,2600.0
+TN 04 AS 2302,Ford,F-150,2022,37754.0,Diesel,Automatic,2755.0,Second,15900.0
+UP 73 UN 6146,Mercedes,E-Class,2020,59672.0,Diesel,Manual,2993.0,Fourth & Above,15700.0
+TS 20 OY 6362,Mercedes,GLE,2022,41580.0,Diesel,Automatic,3982.0,First,22200.0
+AP 96 OO 2672,Volkswagen,Virtus,2011,122136.0,Petrol,Manual,1497.0,Second,2500.0
+GJ 02 KC 7763,Ford,F-150,2012,207375.0,Petrol,Automatic,2755.0,First,2500.0
+HR 99 IP 1551,Tata,Altroz,2011,230649.0,Diesel,Manual,1598.0,Second,2500.0
+HR 39 JE 1242,Audi,Q7,2016,123933.0,Electric,Automatic,0.0,Third,7900.0
+KL 31 OC 5918,Ford,Explorer,2018,121123.0,CNG,Automatic,1999.0,Second,5200.0
+WB 76 ZD 5318,Hyundai,Elantra,2017,161222.0,Petrol,Manual,1598.0,Second,2900.0
+KA 65 SX 3033,Honda,Amaze,2017,134893.0,Electric,Manual,0.0,First,3000.0
+AP 72 RV 4463,Honda,Amaze,2014,188424.0,Electric,Manual,0.0,Third,2500.0
+GJ 82 DJ 1159,Mercedes,C-Class,2011,154380.0,Petrol,Manual,1998.0,First,3000.0
+TN 65 LN 1022,Hyundai,Elantra,2017,89636.0,Electric,Manual,0.0,Third,4000.0
+GJ 59 QG 2133,Audi,Q5,2011,245611.0,Electric,Manual,0.0,Third,2700.0
+MH 59 KV 8739,Toyota,Corolla,2013,142376.0,Electric,Automatic,0.0,Third,2600.0
+WB 75 TQ 8369,Audi,Q5,2011,190320.0,Diesel,Manual,2993.0,Fourth & Above,2500.0
+WB 52 JC 1070,Toyota,Fortuner,2017,95650.0,Diesel,Automatic,2198.0,Third,5100.0
+WB 72 BL 9010,Tata,Nexon,2017,91140.0,Electric,Automatic,0.0,Second,5000.0
+KA 22 KH 7490,Tata,Harrier,2012,209107.0,Petrol,Automatic,1497.0,Third,2500.0
+AP 82 US 9500,Toyota,Highlander,2019,59615.0,Hybrid,Automatic,3198.0,Fourth & Above,9500.0
+KL 60 AY 2176,Audi,Q5,2018,108210.0,Diesel,Automatic,1998.0,First,11600.0
+KA 15 CO 2746,Mahindra,Bolero,2017,133098.0,Hybrid,Manual,999.0,Second,3800.0
+KA 46 KS 7928,Audi,Q7,2011,271017.0,Petrol,Manual,2993.0,First,2500.0
+TS 21 HS 2784,Mahindra,Scorpio,2017,96574.0,CNG,Automatic,1999.0,Fourth & Above,5300.0
+UP 75 FM 7622,Mahindra,Thar,2016,155130.0,Petrol,Manual,1799.0,Third,3100.0
+KL 28 SJ 8005,Hyundai,Sonata,2022,65534.0,CNG,Automatic,1197.0,Fourth & Above,7800.0
+AP 43 VH 3513,Tesla,Model 3,2018,108395.0,Electric,Manual,0.0,Third,11400.0
+KA 98 PT 7398,Mahindra,Bolero,2024,31318.0,Petrol,Manual,1799.0,Third,13900.0
+MH 16 WD 7366,Mahindra,Thar,2023,26631.0,Petrol,Automatic,1497.0,Second,13500.0
+AP 27 SR 8337,Ford,F-150,2010,195158.0,CNG,Manual,3198.0,Third,2500.0
+DL 77 WH 5104,Toyota,Camry,2019,105897.0,Hybrid,Automatic,999.0,Fourth & Above,7600.0
+MH 47 KE 1897,Volkswagen,Jetta,2025,19884.0,CNG,Automatic,1999.0,Fourth & Above,17700.0
+TN 11 KN 2209,Hyundai,Elantra,2015,132051.0,Petrol,Manual,1999.0,First,2800.0
+TN 07 VX 9388,Tata,Nexon,2024,21882.0,Hybrid,Manual,999.0,Second,15900.0
+WB 28 CB 5320,Ford,Explorer,2019,105122.0,CNG,Manual,1598.0,Fourth & Above,6600.0
+TS 41 XN 2150,Volkswagen,Tiguan,2013,172748.0,Electric,Manual,0.0,Fourth & Above,2500.0
+KA 68 XM 5709,Audi,A6,2014,218627.0,CNG,Manual,1998.0,Second,3700.0
+KA 89 UN 4911,Honda,City,2022,38043.0,Diesel,Manual,1197.0,Second,9400.0
+TN 32 EH 2109,Tata,Tiago,2016,115189.0,CNG,Manual,1598.0,Fourth & Above,3400.0
+KA 23 MT 4938,Tesla,Model S,2017,136183.0,Electric,Manual,0.0,Fourth & Above,8500.0
+HR 34 JV 9523,Mahindra,Scorpio,2020,100401.0,Diesel,Automatic,1799.0,Second,6600.0
+DL 29 BN 5218,Mercedes,E-Class,2023,50920.0,Electric,Manual,0.0,First,23700.0
+WB 89 BY 7367,Toyota,Fortuner,2010,182274.0,Petrol,Automatic,3198.0,Third,2500.0
+MH 03 WX 5365,Tesla,Model 3,2025,18022.0,Electric,Manual,0.0,Third,38100.0
+DL 42 QJ 2187,Tata,Harrier,2024,22015.0,Electric,Automatic,0.0,First,13100.0
+UP 26 TL 9009,Maruti,Swift,2015,158852.0,CNG,Automatic,1197.0,Fourth & Above,2500.0
+KA 09 PV 4548,Audi,Q5,2021,48219.0,Diesel,Automatic,2993.0,Fourth & Above,20600.0
+AP 14 DF 6976,Tata,Altroz,2010,166057.0,Diesel,Automatic,1999.0,Fourth & Above,2500.0
+TN 96 QW 3394,Maruti,Brezza,2015,111704.0,Petrol,Manual,1598.0,Third,2500.0
+TN 61 VW 9547,Audi,A6,2018,146772.0,CNG,Automatic,2497.0,Second,8800.0
+MH 24 AP 3191,Maruti,Baleno,2012,138812.0,Electric,Automatic,0.0,Third,2500.0
+WB 92 FP 8043,Toyota,Camry,2024,36100.0,Diesel,Automatic,1999.0,Third,15400.0
+TN 03 LC 1530,BMW,X5,2020,55472.0,Hybrid,Automatic,1998.0,Third,18400.0
+TN 02 GN 1175,Maruti,Swift,2019,108278.0,Diesel,Manual,1197.0,Fourth & Above,3300.0
+WB 19 UI 4235,Mahindra,XUV700,2014,126028.0,CNG,Manual,2755.0,First,2900.0
+AP 91 MH 3031,Mahindra,Scorpio,2016,142354.0,CNG,Manual,1799.0,First,2800.0
+HR 48 II 2053,Tata,Altroz,2022,68330.0,Hybrid,Manual,1197.0,Second,10300.0
+HR 38 ZX 6427,Toyota,Highlander,2013,162721.0,Electric,Manual,0.0,First,2500.0
+AP 89 FQ 1058,Maruti,Swift,2013,150419.0,Electric,Automatic,1197.0,Third,2500.0
+DL 16 KF 6429,Audi,A6,2019,65147.0,Hybrid,Manual,3982.0,Fourth & Above,12400.0
+DL 59 UO 5983,Hyundai,Sonata,2017,136200.0,CNG,Manual,1799.0,Third,3600.0
+WB 26 TL 1765,BMW,X3,2018,128032.0,Hybrid,Automatic,2497.0,Fourth & Above,10700.0
+GJ 71 RF 7584,Honda,Civic,2013,227007.0,Hybrid,Automatic,1197.0,Fourth & Above,2500.0
+TS 69 ZQ 1114,Toyota,Corolla,2012,251749.0,CNG,Manual,999.0,Second,2500.0
+DL 48 WK 5833,Tesla,Model S,2025,12351.0,Electric,Automatic,0.0,Second,34300.0
+UP 78 CD 4086,Volkswagen,Tiguan,2015,96917.0,Hybrid,Automatic,1497.0,Fourth & Above,3400.0
+HR 42 YV 2705,Mahindra,XUV700,2010,245416.0,Electric,Automatic,0.0,Second,2500.0
+WB 22 FD 4360,Honda,City,2010,220834.0,Hybrid,Automatic,999.0,First,2500.0
+KA 17 VQ 9457,BMW,X5,2022,39093.0,Diesel,Automatic,3982.0,Fourth & Above,25300.0
+UP 78 YU 8850,Audi,A6,2010,242580.0,Hybrid,Automatic,1998.0,First,2500.0
+WB 63 XR 9504,Audi,A6,2024,22728.0,Hybrid,Automatic,2497.0,First,28800.0
+HR 31 SO 7486,Volkswagen,Tiguan,2014,161539.0,CNG,Automatic,1799.0,First,2500.0
+UP 37 TS 5869,Tesla,Model 3,2011,231350.0,Electric,Manual,0.0,Fourth & Above,2500.0
+TN 58 MS 3791,Mercedes,GLC,2024,33250.0,Hybrid,Automatic,1998.0,Third,36500.0
+KL 46 SD 7406,Tesla,Model Y,2014,146356.0,Electric,Automatic,0.0,Second,4700.0
+UP 95 BO 8031,Toyota,Innova,2018,87277.0,CNG,Manual,1999.0,Third,6900.0
+GJ 10 MP 9622,Hyundai,i20,2020,79051.0,Electric,Automatic,0.0,Fourth & Above,6800.0
+KL 60 MD 4167,Mercedes,E-Class,2019,106358.0,Diesel,Manual,1998.0,Fourth & Above,13800.0
+DL 26 WW 9209,Hyundai,Verna,2010,231717.0,CNG,Manual,1799.0,Fourth & Above,2500.0
+TN 94 FH 2425,Hyundai,Tucson,2010,167563.0,CNG,Automatic,1799.0,Second,2500.0
+MH 34 TW 1878,Ford,EcoSport,2020,62568.0,Hybrid,Automatic,1497.0,First,10700.0
+UP 32 WL 6143,BMW,5 Series,2014,128408.0,Petrol,Automatic,2993.0,Fourth & Above,6300.0
+HR 10 GN 6065,Hyundai,Tucson,2024,36901.0,Diesel,Manual,1598.0,First,11400.0
+UP 12 UE 8825,Mercedes,GLC,2018,132142.0,Petrol,Manual,2497.0,First,10900.0
+MH 70 UH 1432,Volkswagen,Polo,2023,36498.0,Electric,Manual,0.0,Second,11300.0
+TS 44 SK 1836,Hyundai,Creta,2019,79059.0,Hybrid,Manual,1497.0,First,5500.0
+UP 87 JZ 4545,Ford,EcoSport,2016,153284.0,Electric,Automatic,0.0,Fourth & Above,4100.0
+GJ 23 WX 5000,BMW,5 Series,2025,17044.0,CNG,Manual,3982.0,Third,32900.0
+MH 20 BS 8276,Tata,Tiago,2022,65767.0,Diesel,Automatic,1197.0,First,10600.0
+KL 04 XC 6583,Hyundai,Tucson,2010,194897.0,CNG,Manual,1999.0,Fourth & Above,2500.0
+AP 77 PF 2876,Volkswagen,Polo,2015,147262.5,Diesel,Automatic,1799.0,Third,3000.0
+UP 49 ZU 3403,Tata,Harrier,2012,190947.0,Diesel,Manual,1999.0,First,2500.0
+GJ 17 EQ 4820,Honda,Civic,2020,64381.0,Diesel,Manual,999.0,Fourth & Above,7500.0
+KL 95 RR 8289,Volkswagen,Virtus,2024,29574.0,Petrol,Automatic,1799.0,Third,14700.0
+UP 71 BJ 5238,Ford,Endeavour,2014,105230.0,Diesel,Manual,2755.0,First,3800.0
+AP 89 AU 7989,Tata,Altroz,2021,67459.0,Hybrid,Automatic,999.0,Fourth & Above,9000.0
+GJ 60 WI 8688,Mercedes,GLE,2014,181401.0,Diesel,Manual,3982.0,Third,3800.0
+KL 07 NC 3331,Mahindra,Scorpio,2010,202884.0,CNG,Automatic,1497.0,Fourth & Above,2500.0
+WB 93 CW 7187,Audi,Q7,2014,163110.0,CNG,Manual,2497.0,Second,4800.0
+AP 94 WM 9892,Mercedes,C-Class,2024,18903.0,Electric,Manual,0.0,Fourth & Above,30000.0
+UP 48 UC 3364,Maruti,Swift,2016,91784.0,Electric,Automatic,0.0,Third,3100.0
+WB 88 IC 7535,Mahindra,XUV700,2013,222459.0,Hybrid,Manual,2755.0,Third,2500.0
+KA 61 AW 9428,Toyota,Camry,2012,252020.0,Hybrid,Manual,999.0,Fourth & Above,2500.0
+WB 14 XB 8721,Tesla,Model S,2022,56029.0,Electric,Manual,0.0,First,21800.0
+MH 83 JN 2363,Mercedes,C-Class,2019,74524.0,CNG,Automatic,3982.0,Fourth & Above,14500.0
+KA 64 RX 6932,Volkswagen,Polo,2020,107833.0,CNG,Manual,1999.0,First,6200.0
+WB 30 WV 3877,Toyota,Innova,2015,147262.5,Hybrid,Automatic,1197.0,Fourth & Above,4700.0
+KL 87 WU 6468,Toyota,Camry,2010,288049.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+MH 45 EM 5225,Volkswagen,Jetta,2023,38107.0,Electric,Automatic,0.0,Third,13700.0
+WB 47 CG 4905,Volkswagen,Jetta,2011,164809.0,Petrol,Automatic,1598.0,Second,2500.0
+WB 49 YA 9686,Mahindra,XUV700,2024,35973.0,Electric,Automatic,0.0,Fourth & Above,15100.0
+GJ 39 TX 7405,Hyundai,Tucson,2025,19901.0,Electric,Automatic,0.0,First,17000.0
+MH 37 XB 6824,Maruti,Ertiga,2012,153857.0,Petrol,Manual,1497.0,Second,2500.0
+DL 41 EO 2790,Mahindra,Scorpio,2018,93715.0,CNG,Automatic,1197.0,Second,5000.0
+WB 55 QT 6267,Honda,Civic,2012,210033.0,CNG,Automatic,1799.0,First,2500.0
+WB 59 XW 4253,Audi,A6,2015,98829.0,CNG,Automatic,2497.0,First,6300.0
+UP 64 VE 1141,Volkswagen,Tiguan,2010,269573.0,Diesel,Manual,1497.0,Fourth & Above,2500.0
+KA 98 ZJ 8708,Hyundai,Tucson,2019,95921.0,CNG,Automatic,1999.0,First,5500.0
+KL 93 RI 8773,Volkswagen,Tiguan,2018,102294.0,Hybrid,Manual,1598.0,Second,5700.0
+TS 19 TF 7943,Ford,Mustang,2018,101214.0,Electric,Automatic,0.0,First,7300.0
+TS 66 IO 5831,Mahindra,Bolero,2024,30960.0,Electric,Automatic,0.0,Third,14300.0
+UP 56 FW 8433,Honda,Accord,2018,69013.0,Diesel,Manual,999.0,Fourth & Above,5400.0
+KA 20 IQ 5691,Hyundai,Verna,2012,253627.0,Hybrid,Automatic,1799.0,Second,2500.0
+AP 71 ZM 3229,Mercedes,GLE,2017,114127.0,Hybrid,Automatic,1998.0,First,10800.0
+HR 67 AK 4802,Tesla,Model 3,2017,151351.0,Electric,Manual,0.0,Fourth & Above,6700.0
+KL 87 FZ 9061,Honda,City,2011,141220.0,Hybrid,Manual,999.0,Second,2500.0
+KA 14 EU 2253,Honda,Amaze,2023,44719.0,Hybrid,Automatic,1598.0,Third,9700.0
+TS 90 JL 9366,BMW,7 Series,2010,211036.0,CNG,Automatic,3982.0,First,2500.0
+MH 81 RV 9556,Hyundai,i20,2022,49482.0,Hybrid,Automatic,1799.0,First,10700.0
+TS 79 IM 9617,Ford,F-150,2014,106808.0,CNG,Automatic,2198.0,Fourth & Above,4400.0
+DL 11 VH 3745,Mercedes,E-Class,2015,201651.0,Hybrid,Automatic,2993.0,First,4200.0
+AP 49 QN 5800,Audi,Q7,2012,226992.0,Diesel,Manual,1998.0,Second,2700.0
+KL 95 MA 4984,Ford,EcoSport,2025,14996.0,CNG,Automatic,1598.0,Second,20900.0
+WB 69 HH 5357,Ford,Mustang,2025,14394.0,Hybrid,Automatic,2198.0,First,22800.0
+MH 58 PU 1598,Volkswagen,Tiguan,2021,66385.0,Electric,Manual,0.0,Second,9800.0
+KL 29 XU 3073,Toyota,RAV4,2020,63900.0,CNG,Automatic,999.0,Second,10800.0
+MH 43 KK 5757,Ford,Endeavour,2021,85031.0,Petrol,Automatic,3198.0,Second,9100.0
+AP 62 RR 2132,Tata,Tiago,2017,164482.0,Electric,Manual,0.0,Third,2500.0
+TS 49 TA 5866,Hyundai,i20,2023,47585.0,Electric,Automatic,0.0,Second,11000.0
+KA 89 FJ 9918,Mercedes,S-Class,2018,126415.0,Diesel,Manual,2497.0,Second,10400.0
+AP 21 HV 5288,Audi,Q5,2021,71405.0,Electric,Manual,0.0,First,18500.0
+UP 42 GB 2394,Hyundai,i20,2018,143397.0,Petrol,Automatic,999.0,Fourth & Above,3700.0
+GJ 64 CY 7159,Ford,Mustang,2017,151330.0,CNG,Manual,2755.0,First,4700.0
+WB 03 DL 4579,Ford,Endeavour,2017,96994.0,CNG,Manual,2198.0,Third,5200.0
+WB 58 PF 9380,BMW,X5,2018,132807.0,Electric,Automatic,0.0,First,8200.0
+UP 86 JL 9104,Mahindra,Thar,2020,106023.0,Electric,Automatic,0.0,Fourth & Above,7000.0
+DL 89 UM 3195,Hyundai,i20,2020,87179.0,Hybrid,Manual,1497.0,Third,7000.0
+TS 17 XV 7012,Audi,A4,2024,21350.0,Hybrid,Manual,2993.0,Second,35800.0
+KA 09 TU 4030,Ford,Mustang,2024,37978.0,CNG,Manual,4951.0,First,19800.0
+WB 18 PU 7319,Honda,CR-V,2021,68413.0,Hybrid,Manual,1197.0,First,6500.0
+TS 88 HF 2500,Audi,Q5,2024,23101.0,CNG,Manual,1998.0,Third,28500.0
+TN 74 IC 3884,Ford,F-150,2019,60481.0,CNG,Manual,2755.0,Fourth & Above,8600.0
+UP 73 BW 1440,Tesla,Model 3,2011,178576.0,Electric,Automatic,0.0,Fourth & Above,2700.0
+KA 71 TC 2865,Mercedes,GLE,2018,75285.0,Diesel,Manual,2993.0,Third,12600.0
+WB 80 NW 3881,BMW,X3,2017,98588.0,Hybrid,Automatic,2497.0,First,8900.0
+MH 80 CW 4339,Mahindra,Bolero,2023,29589.0,Hybrid,Manual,999.0,First,12100.0
+UP 07 RR 9655,Maruti,Swift,2017,77709.0,Hybrid,Manual,1799.0,Second,3300.0
+UP 14 VS 1591,Tesla,Model 3,2022,61305.0,Electric,Manual,0.0,Second,19000.0
+MH 30 YN 7532,Maruti,Baleno,2012,207666.0,Electric,Manual,0.0,First,2500.0
+DL 89 RS 2511,Mahindra,Thar,2019,128012.0,Petrol,Automatic,999.0,First,5700.0
+TN 98 HI 5317,Audi,A4,2025,13189.0,Petrol,Manual,2497.0,Second,40100.0
+KL 59 LY 3514,Audi,Q5,2023,27806.0,Hybrid,Automatic,2993.0,Fourth & Above,23600.0
+DL 85 PU 9254,Hyundai,Verna,2024,20341.0,Electric,Manual,0.0,First,13300.0
+TN 25 YS 7211,Tesla,Model 3,2012,207736.0,Electric,Automatic,0.0,Fourth & Above,3400.0
+AP 51 VT 5023,BMW,3 Series,2023,38814.0,Petrol,Automatic,3982.0,Third,30700.0
+TS 67 AZ 1432,Tesla,Model 3,2017,117304.0,Electric,Automatic,0.0,First,10500.0
+HR 28 AZ 7655,Audi,Q7,2012,151602.0,Electric,Manual,0.0,Second,3300.0
+UP 94 AS 9075,Hyundai,i20,2025,15458.0,CNG,Manual,1197.0,Second,15700.0
+TS 15 GT 2873,Ford,Explorer,2020,107153.0,CNG,Automatic,1999.0,Third,7800.0
+GJ 27 RW 9012,Audi,Q7,2010,286894.0,CNG,Manual,3982.0,Second,2500.0
+KL 47 QJ 7771,BMW,X5,2016,96499.0,Petrol,Manual,2497.0,Third,8500.0
+KA 17 BM 4735,Tata,Safari,2023,50916.0,Hybrid,Manual,1197.0,Fourth & Above,11300.0
+HR 46 QJ 1079,Honda,City,2020,70387.0,Electric,Automatic,0.0,Fourth & Above,5700.0
+HR 92 GW 7213,Maruti,Swift,2013,203485.0,Petrol,Automatic,1197.0,Fourth & Above,2500.0
+KA 12 QT 3726,Honda,Civic,2023,41643.0,Hybrid,Automatic,1197.0,First,12100.0
+AP 65 HM 9299,Tata,Nexon,2020,72338.0,Hybrid,Automatic,1497.0,Third,6400.0
+TS 36 KS 6802,Mercedes,E-Class,2025,17475.0,Petrol,Manual,2993.0,Third,41400.0
+WB 18 EP 3454,Volkswagen,Virtus,2023,26783.0,Petrol,Manual,1799.0,First,14800.0
+DL 50 ZQ 4797,BMW,7 Series,2022,54714.0,Hybrid,Manual,3982.0,First,23000.0
+UP 74 CN 6909,Maruti,Brezza,2011,263644.0,Electric,Manual,0.0,Second,2500.0
+WB 33 RI 4093,Toyota,Fortuner,2013,115699.0,Hybrid,Manual,3198.0,Second,3300.0
+UP 43 WD 5995,Tesla,Model Y,2024,20442.0,Electric,Automatic,0.0,Third,34500.0
+KA 95 YW 8798,Ford,Endeavour,2021,56206.0,Electric,Automatic,0.0,Third,11300.0
+KA 54 XW 2095,Tesla,Model S,2021,83758.0,Electric,Manual,0.0,First,19500.0
+KA 53 WG 4734,Volkswagen,Virtus,2016,109934.0,Hybrid,Automatic,1197.0,Second,3500.0
+KL 02 OR 2694,Ford,EcoSport,2018,139813.0,Electric,Manual,0.0,First,4700.0
+HR 73 JR 5617,Ford,Endeavour,2019,102889.0,Electric,Manual,0.0,Second,6500.0
+GJ 26 UG 8919,Honda,CR-V,2015,161370.0,Diesel,Automatic,1197.0,Third,2500.0
+MH 54 KM 5487,Ford,Endeavour,2025,19567.0,Electric,Manual,0.0,Second,19900.0
+KL 05 VQ 5548,Volkswagen,Virtus,2025,10289.0,CNG,Manual,1799.0,First,19800.0
+AP 33 IM 2338,Honda,Civic,2025,16760.0,Electric,Manual,0.0,First,14500.0
+KL 28 XY 9457,Honda,Amaze,2017,80737.0,Hybrid,Automatic,1999.0,Second,4600.0
+TN 61 RR 2982,Maruti,Brezza,2015,119529.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+GJ 04 RF 3719,Volkswagen,Jetta,2020,64872.0,Petrol,Manual,1999.0,First,8200.0
+TS 93 GR 4522,Tata,Altroz,2011,215839.0,Electric,Manual,0.0,Second,2500.0
+DL 88 XP 1157,Audi,Q5,2024,19493.0,CNG,Manual,1998.0,First,35000.0
+AP 97 ZS 4683,Tesla,Model S,2010,203765.0,Electric,Manual,0.0,Fourth & Above,2600.0
+WB 89 WN 9056,Ford,Mustang,2025,20183.0,Petrol,Manual,3198.0,Third,23600.0
+KL 37 VI 6575,Tesla,Model Y,2024,38040.0,Electric,Automatic,0.0,Third,26400.0
+GJ 14 OS 5447,Tata,Safari,2024,21548.0,Hybrid,Automatic,1799.0,First,14400.0
+MH 08 FN 3941,Mahindra,Bolero,2021,44852.0,Petrol,Manual,1497.0,Third,10700.0
+TS 57 HH 1165,Tata,Tiago,2017,78751.0,Electric,Automatic,0.0,Third,4200.0
+GJ 44 EU 3432,Audi,A4,2024,35349.0,Petrol,Automatic,2993.0,Second,26300.0
+UP 76 AB 6868,Mercedes,GLE,2022,64257.0,Diesel,Automatic,3982.0,Second,24400.0
+HR 17 ER 6815,BMW,X5,2023,43849.0,Diesel,Automatic,2497.0,Fourth & Above,24500.0
+DL 64 VF 4051,Tesla,Model Y,2015,177149.0,Electric,Automatic,0.0,Second,5100.0
+UP 40 EU 4401,Hyundai,i20,2016,92133.0,Diesel,Automatic,999.0,First,3700.0
+WB 81 RZ 9431,Mercedes,C-Class,2016,155350.0,Diesel,Manual,2497.0,Second,6800.0
+WB 02 IO 4590,BMW,7 Series,2018,96909.0,Petrol,Manual,3982.0,Third,12500.0
+GJ 03 UU 7326,Mahindra,Thar,2021,81385.0,Petrol,Automatic,1799.0,Fourth & Above,8900.0
+GJ 29 OT 3577,Mercedes,GLC,2021,59269.0,Diesel,Manual,3982.0,Third,21300.0
+TS 79 GI 3175,Tata,Safari,2010,183566.0,Electric,Manual,0.0,Fourth & Above,2500.0
+DL 87 GC 7099,Maruti,Ertiga,2016,146854.0,Diesel,Automatic,1999.0,Fourth & Above,2500.0
+WB 88 XA 3093,Toyota,Corolla,2015,101445.0,CNG,Automatic,1497.0,Third,4600.0
+DL 39 PN 8717,Hyundai,Elantra,2022,53944.0,CNG,Automatic,1598.0,First,9800.0
+MH 40 EP 7244,Honda,CR-V,2023,34636.0,Hybrid,Manual,1197.0,First,11200.0
+UP 87 NH 5213,Ford,Explorer,2013,149546.0,Electric,Manual,0.0,Fourth & Above,2500.0
+WB 84 LG 2220,Audi,Q5,2019,59730.0,Hybrid,Automatic,3982.0,Third,13800.0
+KL 27 MV 7161,Mahindra,Thar,2025,15821.0,Petrol,Manual,1999.0,Second,20300.0
+DL 37 QO 5389,BMW,5 Series,2021,80418.0,Electric,Manual,0.0,Second,16000.0
+GJ 56 MX 1375,Audi,A6,2012,174217.0,Petrol,Manual,1998.0,First,2900.0
+KL 99 RS 4239,Tesla,Model Y,2016,181599.0,Electric,Automatic,0.0,Third,5700.0
+UP 86 AT 4241,Volkswagen,Virtus,2021,74222.0,Hybrid,Manual,1598.0,Fourth & Above,9100.0
+KL 32 WI 7856,Mahindra,Thar,2023,39289.5,Hybrid,Manual,1497.0,First,12500.0
+TS 17 QS 1491,Tata,Tiago,2019,76820.0,Diesel,Manual,1799.0,Fourth & Above,6800.0
+HR 95 OO 2483,Volkswagen,Tiguan,2022,54143.0,Petrol,Manual,1799.0,Fourth & Above,11200.0
+GJ 06 MF 6298,Audi,A6,2024,25729.0,Hybrid,Manual,2993.0,Fourth & Above,32300.0
+WB 22 IH 5885,Toyota,Corolla,2017,80499.0,CNG,Automatic,1598.0,Third,6600.0
+AP 05 HQ 8403,BMW,X3,2018,109650.0,Diesel,Manual,1998.0,Second,11100.0
+HR 76 ZB 4472,Honda,Civic,2011,155907.0,Electric,Automatic,0.0,Fourth & Above,2500.0
+MH 15 ZK 1725,Mahindra,Bolero,2018,102141.0,CNG,Manual,1598.0,First,4600.0
+HR 16 KQ 4630,BMW,7 Series,2022,64866.0,CNG,Automatic,1998.0,First,18700.0
+GJ 41 KX 1005,BMW,5 Series,2021,49726.0,Electric,Manual,0.0,First,22200.0
+HR 46 OD 9879,Toyota,Corolla,2020,98051.0,CNG,Manual,999.0,First,7100.0
+WB 93 LB 6836,Honda,CR-V,2011,182372.0,Petrol,Automatic,1197.0,First,2500.0
+GJ 56 ZV 9068,Hyundai,Elantra,2013,195298.0,CNG,Manual,1799.0,Fourth & Above,2500.0
+GJ 92 ZL 1282,Honda,City,2010,217370.0,CNG,Manual,1999.0,Second,2500.0
+HR 74 LF 3208,Mahindra,Thar,2023,31363.0,Diesel,Manual,999.0,Second,14500.0
+GJ 72 LM 3531,Toyota,Fortuner,2018,68516.0,Diesel,Automatic,4951.0,First,7200.0
+MH 93 BU 4760,Tesla,Model Y,2018,109826.0,Electric,Manual,0.0,Second,11500.0
+GJ 56 BU 2039,Toyota,Highlander,2021,89876.0,Electric,Manual,0.0,Second,8500.0
+TS 75 XQ 9115,Maruti,Swift,2013,192266.0,Diesel,Manual,999.0,Second,2500.0
+GJ 90 TD 1330,Audi,A6,2011,185981.0,Petrol,Automatic,3982.0,Third,2600.0
+MH 12 CE 1802,Audi,Q7,2013,180811.0,CNG,Manual,2993.0,Third,2900.0
+AP 06 RW 2234,BMW,X5,2010,213638.0,Hybrid,Manual,2993.0,First,2500.0
+TS 34 IS 6773,Tesla,Model S,2025,19096.0,Electric,Manual,0.0,Third,36200.0
+KL 34 KM 8081,Toyota,Highlander,2010,226745.0,Hybrid,Manual,2755.0,Fourth & Above,2500.0
+WB 80 VA 5757,Audi,A6,2021,69737.0,Hybrid,Manual,1998.0,Third,16800.0
+DL 87 YU 9743,Audi,Q5,2024,39585.0,Electric,Automatic,0.0,Second,27900.0
+HR 64 EQ 7567,Mercedes,GLE,2022,65529.0,CNG,Automatic,1998.0,Second,19800.0
+WB 50 ET 8307,Honda,City,2019,105562.0,CNG,Automatic,1197.0,First,5600.0
+HR 77 QE 5424,Tata,Nexon,2013,205159.0,CNG,Automatic,999.0,Fourth & Above,2500.0
+KL 96 PV 5839,Tata,Tiago,2023,39677.0,Electric,Automatic,0.0,Fourth & Above,10600.0
+MH 42 EI 3937,Toyota,Corolla,2012,241845.0,Electric,Manual,0.0,Second,2500.0
+KA 58 FD 6930,BMW,X3,2014,140959.0,Petrol,Manual,2993.0,Third,5400.0
+KA 66 IL 7778,Toyota,RAV4,2014,168477.5,Diesel,Automatic,999.0,Second,3400.0
+MH 75 II 4706,Toyota,RAV4,2017,99531.0,Diesel,Manual,999.0,First,5700.0
+GJ 63 QH 5345,Tesla,Model 3,2018,140264.0,Electric,Automatic,0.0,First,9400.0
+MH 13 DN 9698,Tesla,Model 3,2024,36445.0,Electric,Manual,0.0,Third,26400.0
+TN 88 SM 3467,Ford,Explorer,2012,145872.0,CNG,Manual,1999.0,First,2500.0
+KL 58 JY 6682,Mercedes,E-Class,2023,37166.0,CNG,Automatic,2993.0,Second,27500.0
+KL 81 EK 6092,Ford,EcoSport,2016,158926.0,CNG,Manual,1999.0,Second,3900.0
+TS 06 HI 6511,Mercedes,E-Class,2014,174537.0,Petrol,Manual,2497.0,Fourth & Above,4400.0
+AP 49 WB 9720,Hyundai,Sonata,2015,147073.0,Petrol,Automatic,1598.0,Fourth & Above,2500.0
+KL 41 GC 4524,Ford,Endeavour,2025,14819.0,CNG,Automatic,2755.0,First,20300.0
+WB 05 PJ 2346,Tesla,Model Y,2021,71619.0,Electric,Automatic,0.0,Second,15900.0
+TS 19 SZ 7257,Mercedes,GLC,2017,76617.0,Petrol,Automatic,2993.0,First,12700.0
+WB 47 HH 4981,Mercedes,GLC,2024,26964.0,Diesel,Manual,1998.0,Fourth & Above,37000.0
+TN 96 GZ 5956,Mercedes,S-Class,2024,22021.0,CNG,Automatic,1998.0,First,29500.0
+GJ 65 CP 9384,BMW,X3,2019,100968.0,CNG,Automatic,1998.0,Fourth & Above,13300.0
+DL 66 EP 5726,Tata,Nexon,2014,113163.0,Diesel,Automatic,1197.0,Third,2700.0
+KL 02 JO 4387,Audi,A4,2016,103079.0,Diesel,Manual,2993.0,Third,8200.0
+KL 61 XP 5191,Volkswagen,Polo,2019,111742.0,CNG,Manual,1799.0,Fourth & Above,5300.0
+KL 49 WE 3655,Toyota,Highlander,2010,165928.0,Hybrid,Automatic,2198.0,First,2500.0
+DL 65 NR 3703,Maruti,Baleno,2013,218233.0,CNG,Manual,1799.0,First,2500.0
+TS 83 SN 3721,Mahindra,Scorpio,2024,20718.0,Diesel,Manual,999.0,Second,17800.0
+DL 33 UI 4368,Volkswagen,Polo,2022,52901.0,Petrol,Automatic,1197.0,Third,9100.0
+MH 34 FD 1476,Hyundai,i20,2018,115260.0,Petrol,Manual,1598.0,Third,4000.0
+GJ 13 CW 7730,Tata,Harrier,2024,28499.0,Petrol,Automatic,1598.0,Second,13000.0
+UP 32 PS 4233,Tesla,Model Y,2021,90238.0,Electric,Automatic,0.0,Third,14900.0
+AP 67 PP 8997,Honda,Accord,2023,33560.0,Hybrid,Automatic,1598.0,Second,10900.0
+UP 10 SL 4605,Hyundai,i20,2016,119324.0,Petrol,Manual,999.0,Third,3200.0
+WB 63 MD 6952,Maruti,Swift,2019,72687.0,Diesel,Manual,1799.0,Second,4500.0
+HR 37 FX 4257,Toyota,Camry,2013,115645.0,Petrol,Automatic,1799.0,Third,3500.0
+GJ 51 DZ 7299,Tata,Safari,2025,18217.0,Hybrid,Manual,999.0,First,18300.0
+WB 04 MO 7240,Mercedes,GLE,2010,181413.0,CNG,Manual,3982.0,Third,2500.0
+DL 59 FN 6006,Mahindra,XUV700,2022,54994.0,CNG,Automatic,2198.0,First,11700.0
+UP 61 DV 6964,BMW,5 Series,2011,178768.0,CNG,Automatic,2993.0,Second,3100.0
+WB 43 JV 2570,Hyundai,Verna,2024,29989.0,Electric,Automatic,0.0,First,11700.0
+AP 66 RW 9782,Mahindra,Bolero,2016,144266.0,Electric,Manual,0.0,Fourth & Above,3200.0
+KL 76 JG 4187,Volkswagen,Virtus,2012,120915.0,Hybrid,Automatic,1497.0,Second,2500.0
+KL 85 NZ 6745,Tata,Safari,2018,135900.0,Electric,Manual,0.0,Second,3900.0
+WB 34 OX 2282,Audi,Q7,2018,125901.0,Electric,Automatic,0.0,Third,10100.0
+HR 04 YL 4954,Hyundai,Tucson,2017,99530.0,Hybrid,Automatic,1999.0,First,4200.0
+HR 43 AH 8224,Mahindra,Bolero,2015,155078.0,Hybrid,Automatic,1197.0,Third,2700.0
+GJ 48 MS 4088,Hyundai,Tucson,2011,238855.0,Petrol,Automatic,1799.0,Second,2500.0
+KL 27 BZ 5502,Ford,Endeavour,2013,139601.0,Hybrid,Manual,2755.0,Third,2800.0
+MH 53 LQ 4775,Honda,CR-V,2010,246019.0,Diesel,Automatic,1497.0,First,2500.0
+HR 89 ZM 8075,Maruti,Dzire,2023,34742.0,Electric,Automatic,0.0,Third,8800.0
+UP 80 PI 2826,Tesla,Model 3,2017,117304.0,Electric,Automatic,0.0,Second,10600.0
+TN 23 UP 8146,Hyundai,i20,2014,193741.0,CNG,Automatic,999.0,First,2500.0
+KL 61 SU 8689,Toyota,Highlander,2013,196053.0,Petrol,Automatic,3198.0,Third,2500.0
+TS 58 UL 5416,BMW,7 Series,2016,184036.0,Petrol,Automatic,2993.0,First,4700.0
+KL 04 XM 9648,Tesla,Model Y,2016,166593.0,Electric,Manual,0.0,Fourth & Above,4800.0
+AP 13 GS 2798,Mahindra,Scorpio,2023,47928.0,Petrol,Manual,1799.0,Second,11400.0
+DL 32 PN 9200,Ford,Explorer,2025,15072.0,CNG,Automatic,1999.0,First,25100.0
+AP 83 LD 1490,Mahindra,Thar,2020,106020.0,Petrol,Automatic,999.0,First,6900.0
+HR 66 GZ 1174,Tata,Safari,2011,199256.0,CNG,Manual,1598.0,Third,2500.0
+UP 17 PF 9422,BMW,X3,2021,65853.0,Hybrid,Automatic,2993.0,First,21100.0
+KA 55 PX 9507,Toyota,Fortuner,2010,162730.0,CNG,Manual,3198.0,Fourth & Above,2500.0
+MH 81 BO 7090,Hyundai,Verna,2018,144828.0,Petrol,Automatic,999.0,Second,3200.0
+WB 05 ET 7589,Tata,Nexon,2020,60748.0,Petrol,Manual,1197.0,Third,6800.0
+TN 32 AO 2922,Tata,Harrier,2017,77321.0,Diesel,Manual,1598.0,Third,4500.0
+WB 78 LG 2530,Hyundai,Tucson,2011,244377.0,Diesel,Manual,999.0,First,2500.0
+GJ 17 ZB 5930,Maruti,Brezza,2010,133030.0,Petrol,Manual,1999.0,First,2500.0
+KL 28 QL 8265,Maruti,Swift,2011,209632.0,Petrol,Automatic,1799.0,Third,2500.0
+DL 68 DL 2386,Mahindra,Bolero,2016,141793.0,Diesel,Automatic,1999.0,Third,3400.0
+UP 46 DQ 6624,Maruti,Baleno,2025,13167.0,CNG,Manual,1497.0,Fourth & Above,13000.0
+DL 07 QD 7934,Ford,F-150,2021,76068.0,CNG,Manual,3198.0,Third,11300.0
